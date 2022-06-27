@@ -1,4 +1,7 @@
 
+import nltk
+from nltk.tokenize import sent_tokenize, word_tokenize
+
 def CoordinaryConjunction(txt):
     tokenized = word_tokenize(txt)
     posTag = nltk.pos_tag(tokenized)
