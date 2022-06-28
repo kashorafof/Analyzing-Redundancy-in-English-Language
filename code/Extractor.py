@@ -135,10 +135,11 @@ def scrapText(link):
         return s, 'discard'
     before_categories = time.time()
     genre , chance = FS.predict_from_text(s)
-    print(before_merge-start, time.time()-before_categories, 'Total: ' + str(time.time()-start))
     if chance < minGenrePercent:
         genre = "other"
+    print(before_merge-start, time.time()-before_categories, 'Total: ' + str(time.time()-start), genre ,chance)
     return s, genre
 
 
-extractLinks()
+#new york daily new stopped at 435
+#scrapArticles()
