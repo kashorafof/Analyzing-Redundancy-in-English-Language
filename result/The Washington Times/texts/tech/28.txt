@@ -1,0 +1,39 @@
+
+Sign In
+
+
+            Sen. Marsha Blackburn warns Instagram's plan to scan kids' faces is a 'privacy nightmare'
+Manage Newsletters
+Religious freedom wins! American exceptionalism wins!
+Roe v. Wade overturned: Pro-lifers persistence paid off
+Kavanaugh’s Democratic assassins
+Instagram has a new idea to determine children’s ages online: Direct them to videotape themselves and upload the content, then deploy facial scanning technology. 
+The Meta-owned social platform is partnering with tech company Yoti to test the scanning technology on children. 
+“After you take a video selfie, we share the image with Yoti, and nothing else,” Instagram said on its blog. “Yoti’s technology estimates your age based on your facial features and shares that estimate with us. Meta and Yoti then delete the image.” 
+Instagram said it wants to verify children’s ages to prevent unwanted contact from adult strangers and to limit some advertisers’ ability to reach children. Critics are concerned about privacy risks to children.  
+The video selfie is one of two options that Instagram is testing to determine children’s ages. The other involves asking friends to vouch for the child’s age. Children will be asked to provide an ID, which Instagram said will be encrypted, stored and then deleted from its servers within 30 days.
+Lawmakers have concerns about Instagram’s interactions with children. Sen. Marsha Blackburn, Tennessee Republican, criticized Instagram for endangering children. She authored the Kids Online Safety Act this year with Sen. Richard Blumenthal, Connecticut Democrat, to enhance child safety through new requirements for social platforms. 
+Ms. Blackburn said Instagram’s latest tests are ripe for disaster. 
+“Instagram has a proven track record of knowingly putting children at risk, and their new facial recognition proposal undeniably intrudes on children’s privacy,” Ms. Blackburn said in a statement to The Washington Times. “Instead of using less risky solutions, like those in my proposal for device-level verification, Instagram settled on a privacy nightmare waiting to happen.”
+The Blackburn-Blumenthal bill would order a federal study of age verification systems at the device or operating system level instead of leaving it up to platforms and apps.  
+Instagram is open to this idea. Its blog post said verifying ages through devices and app stores would be an “effective way” to address the problem.
+Instagram insists its new technology will not do facial recognition. Adam Mosseri, the head of Instagram, said the platform will scan an image to predict an age rather than try to identify or recognize a child online. 
+“I want to be clear: There’s no facial recognition, there’s no way to tell what your identity is,” Mr. Mosseri said in a video on Twitter. “It’s just about predicting age.”
+Meta spokesperson Stephanie Otway said in a statement that the technology “does not personally recognize anyone” and the images would be used for nothing other than the age estimate.
+Other companies are adopting different technological approaches to facial scans and recognition. Natasha Crampton. Microsoft’s chief responsible AI officer, said the company would end specific artificial intelligence capabilities in its facial recognition and scanning technologies designed to infer emotions and identify attributes such as age and gender. 
+“Taking emotional states as an example, we have decided we will not provide open-ended [application programming interface] access to technology that can scan people’s faces and purport to infer their emotional states based on their facial expressions or movements,” Ms. Crampton wrote on Microsoft’s blog this month. “Experts inside and outside the company have highlighted the lack of scientific consensus on the definition of ‘emotions,’ the challenges in how inferences generalize across use cases, regions, and demographics, and the heightened privacy concerns around this type of capability.”
+Microsoft said it will begin denying existing customers access to other facial recognition capabilities on June 30, 2023, if their application to use Microsoft’s facial recognition technology is not approved.
+Whether Instagram’s facial scanning tools for children outlast Microsoft’s technology remains to be seen.
+Mr. Mosseri said Instagram will do its utmost to respect people’s privacy. He canceled proposals for his company’s products for children after lawmakers cast doubt on some ideas. 
+Instagram planned to make an “Instagram Kids” experience aimed at children younger than 13, but Mr. Mosseri paused its development because of mounting criticism before his December appearance at a Senate subcommittee hearing led by Ms. Blackburn and Mr. Blumenthal. 
+Ms. Blackburn and Mr. Blumenthal introduced the Kids Online Safety Act in February. The bill would require platforms to provide choices about what children see and make the platforms mitigate the risks of harm to children through digital content. 
+The bill has yet to receive a final vote in the Senate. Instagram has made changes that appear to demonstrate that it does not want to cause problems for children. Earlier this month, Instagram announced it would roll out Amber Alerts to share notices of missing children. 
+• Ryan Lovelace can be reached at rlovelace@washingtontimes.com.
+Copyright © 2022 The Washington Times, LLC. 
+                        
+                          Click
+                            here for reprint permission.
+ Click to Read More and View Comments
+                    
+ Click to Hide 
+Terms of Use / Privacy Policy / Manage Newsletters

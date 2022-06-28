@@ -1,0 +1,37 @@
+
+Sign In
+
+Manage Newsletters
+Roe v. Wade overturned: Pro-lifers persistence paid off
+Kavanaugh’s Democratic assassins
+Founding Fathers never intended U.S. to be secular or hostile to religion
+The plot got thick quick as the FIDE Candidates Tournament kicked off last week in Madrid, with two Americans among the eight elite grandmasters competing for the right to take on world champion Magnus Carlsen of Norway later this year for the game’s ultimate prize.
+The very first round saw the Chinese GM Ding Liren, the event’s highest-rated player and the man Carlsen has said could be his toughest rival, lose in 32 moves with White to Russian GM Ian Nepomniachtchi. “Nepo,” you may recall, was last seen imploding in his own title match with Carlsen last year. Handicappers who reckoned that the Russian’s disastrous performance there would leave a permanent mark on his psyche are going to have to recalculate.
+And just a few feet an all-American heavyweight duel ended in a knockout as GM Fabiano Caruana defeated GM Hikaru Nakamura in the latest encounter in their long-running history of clashes. Just like that, two of the pre-tournament favorites were off to 0-1 starts.
+Ding’s play against Nepomniachtchi was puzzling in a well-known English line, perhaps reflecting jet lag or the first-round jitters for the man many think could be the first Chinese men’s world champ.
+Things look promising for White through 11. a3! (preparing to fianchetto and make the Black queen on e5 uncomfortable) Re8 12. b4 Ng4, and now the machines, the GM analysts and C-class club players around the world are all screaming for White to take the pawn on offer on e4 with 13. Nxg4 (or just right away with 13. Bxe4) Bxg4 14. Bxe4 Rad8 15. Bb2 Nc7 16. f3, and it’s not clear what compensation Black has.
+Instead, on the game’s 13. Bb2?! Qh5 14. h4? (not only does another chance to take on e4 go by the board, this move sets up an eventual Black breakthrough with a simple …g7-g5-g4 pawn push) Bg6 15. Qc2 Nxe3 16. dxe3 Bf5, the annoying pawn on e4 is firmly anchored and Nepomniachtchi can turn his undivided attention to a kingside attack. What Ding saw that made him so cautious is a mystery.
+White continues to dawdle (instead of the game’s 22. Qd2, GM Sam Shankland recommended the exchange sac 22. Rad1 Rae8 23. Rxd5!? cxd5 24. Rxd5 Qg6 to at least make Black sweat), and Black’s kingside break arrives with irresistible force: 25. Kg1 g5! 26. Nxb7 (a distraction that fails to divert Black from his business; 26. hxg5? hxg5 27. Nxb7 Rh6 28. Nd6 Qh2+ 29. Kf1 Bh3! leads to a quick mate) gxh4 27. Nc5 h3!, when 28. Bxe4 would lose to 28…h2+ 29. Kh1 [Kg2 Qh3+ 30. Kh1 Rxf2 is crushing, too) Rxf2 30. Bxd5 cxd5 31. Rf4 Rxf4 32. gxf4 Bxe2, with the deadly threat of 33…Bf3+.
+Black keeps his eye on the prize in the game’s finale after 28. Rxe4 hxg2! (White can have the rook with check, as Black will win a king) 29. Rxe8+ Kg7 30. f4 (on 30. f3, Shankland gives 30…Bxf3! 31. exf3 Qh1+ 32. Kf2 Rxf3+! 33. Kxf3 g1=Q+ and wins) Qh1+ 31. Kf2 Qxa1 32. Kxg2 Bh3+!, and White resigned as his king will soon be mated after 33. Kxh3 (Kf3 Qh1+ 34. Kf2 Qf1 mate; 33. Kh2 Qf1) Qh1+ 34. Kg4 h5+ 35. Kg5 Qh3.
+—-
+Caruana and Nakamura got a first-round pairing under FIDE rules that candidates from the same country shouldn’t meet in the final rounds to avoid temptations to collude. That’s unlikely: The two U.S. stars have a long and rich personal history at the chessboard, with Caruana holding a slight 8-6 edge in 47 classical games, while Nakamura has a big edge in rapid and blitz.
+Here Caruana as White sidesteps the more drawish lines in this Ruy Lopez Berlin, and his 8. Nb3!? (relatively rare in this position) Qe7 9. Na5! Rb8!? (the decision not to castle queenside will prove momentous) proves surprisingly awkward for Black to meet.
+With his nimble knights in a semi-blocked position, White has a small but pleasant edge when the game takes a fateful turn: 20. Nd2 a6 21. b3! (a useful waiting move that puts the onus on Black) 0-0? (Caruana thought much better was the idea 21…Kd7! 22. Rad1 Kc8, “castling by hand” to the less exposed flank), a misjudgment by Nakamura that soon leaves his king at the mercy of White’s pieces.
+Caruana displays a subtle feeling for the position — 28. c4! Re8 29. cxd5 Bxd5 30. Nf1! leaves Black’s bishop blocked while the knight heads for the dream blockading square e3 — and the White queen-knight tandem soon finds all sorts of weak spots to probe in the airy Black kingside.
+The computers say Black has drawing chances, but they’re hard to see at the board. After 42. Rd1 Be6 (Re7 43. Qf4) 43. Nd5 Rf8 (Bxd5 44. Rxd5 Re5 45. Rd8+ Kf7 46. Rd7+ Kg8 47. Rxg7+) 44. Qxe4, Black has lost a pawn and still hasn’t patched up his defensive holes.
+The high-stepping knight provides the climax after 45. Re1 Rd8 (see diagram) 46. Ne7+ Kf7 47. Nf5! Qf6 (or 47…Bxf5 48. Qe7+ Kg6 49. Qxd8) 48. Rf1, and Nakamura is totally tied up and must lose more material. The finale: 48…Bd5 49. Nh6+ Kg7 50. Qg4+, and now 50…Qg6 51. Nf5+ Kh7 (Kf7 52. Nh4+) 52. Qh4+ Kg8 53. Qxd8+ is hopeless; Nakamura resigned.
+Nakamura bounced back with a nice win over Azeri GM Teimour Radjabov in Round 2. Through three rounds on Monday’s first rest day, Caruana and Nepomniachtchi have an early half-point lead with a lot of chess still to play.
+Ding-Nepomniachtchi, FIDE Candidates Tournament, Madrid, June 2022
+1. c4 e5 2. g3 c6 3. Nf3 e4 4. Nd4 d5 5. cxd5 Qxd5 6. Nc2 Nf6 7. Nc3 Qe5 8. Bg2 Na6 9. O-O Be7 10. Ne3 O-O 11. a3 Re8 12. b4 Ng4 13. Bb2 Qh5 14. h4 Bf6 15. Qc2 Nxe3 16. dxe3 Bf5 17. Na4 Bxb2 18. Nxb2 Nc7 19. Nc4 Re6 20. Rfd1 Nd5 21. Rd4 h6 22. Qd2 Rae8 23. Kh2 Bg4 24. Na5 Rf6 25. Kg1 g5 26. Nxb7 gxh4 27. Nc5 h3 28. Rxe4 hxg2 29. Rxe8+ Kg7 30. f4 Qh1+ 31. Kf2 Qxa1 32. Kxg2 Bh3+ White resigns.
+Caruana-Nakamura, FIDE Candidates Tournament, Madrid, June 2022
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 Be6 7. O-O Bd6 8. Nb3 Qe7 9. Na5 Rb8 10. Bg5 h6 11. Bh4 g5 12. Bg3 Nd7 13. d4 f6 14. Qd3 h5 15. dxe5 Nxe5 16. Bxe5 fxe5 17. Nc4 Rd8 18. Nxd6+ cxd6 19. Qe3 g4 20. Nd2 a6 21. b3 O-O 22. f3 Qg7 23. fxg4 hxg4 24. Rad1 d5 25. exd5 cxd5 26. Rde1 e4 27. Rxf8+ Rxf8 28. c4 Re8 29. cxd5 Bxd5 30. Nf1 Qe5 31. Qh6 Qg7 32. Qd6 Bc6 33. Ne3 g3 34. hxg3 Qe5 35. Qg6+ Qg7 36. Qd6 Qe5 37. Qh6 Qxg3 38. Rf1 Qg7 39. Qh4 Qh7 40. Qg3+ Qg7 41. Qh4 Bd7 42. Rd1 Be6 43. Nd5 Rf8 44. Qxe4 Qh6 45. Re1 Rd8 46. Ne7+ Kf7 47. Nf5 Qf6 48. Rf1 Bd5 49. Nh6+ Kg7 50. Qg4+ Black resigns.
+• David R. Sands can be reached at 202/636-3178 or by email at dsands@washingtontimes.com.
+• David R. Sands can be reached at dsands@washingtontimes.com.
+Copyright © 2022 The Washington Times, LLC. 
+                        
+                          Click
+                            here for reprint permission.
+ Click to Read More and View Comments
+                    
+ Click to Hide 
+Terms of Use / Privacy Policy / Manage Newsletters

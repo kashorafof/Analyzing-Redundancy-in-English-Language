@@ -1,0 +1,28 @@
+
+Sign In
+
+Manage Newsletters
+Religious freedom wins! American exceptionalism wins!
+Roe v. Wade overturned: Pro-lifers persistence paid off
+Kavanaugh’s Democratic assassins
+Hospitals are allegedly sending patients’ private information to Facebook, potentially sharing health information with the social network through an advertising tracker.
+The tracker, called Meta Pixel, was present on 33 hospitals’ websites and sent data to Facebook any time someone clicked to schedule a doctor’s appointment, according to an investigation by The Markup and STAT.
+Meta Pixel refers to computer code that allows people to track visitors’ activity on their websites.
+“The 33 hospitals The Markup found sending patient appointment details to Facebook collectively reported more than 26 million patient admissions and outpatient visits in 2020, according to the most recent data available from the American Hospital Association,” The Markup’s report stated. “Our investigation was limited to just over 100 hospitals; the data sharing likely affects many more patients and institutions than we identified.”
+In response to questions about the ad-tracking tool, Facebook‘s parent company Meta said advertisers shouldn’t send sensitive data using the tool.
+“Advertisers should not send sensitive information about people through our Business Tools,” a Meta spokesperson said in a statement. “Doing so is against our policies and we educate advertisers on properly setting up Business tools to prevent this from occurring. Our system is designed to filter out potentially sensitive data it is able to detect.”
+Meta did not answer follow-up questions regarding how it intends for its tools to be used, and the functionality of the hospitals’ websites.
+The company’s sensitive health policy said it screens out health-related data from its ads systems that involve information about people’s treatment, location of treatment, medication, mental health, reproductive health, injuries, and a host of other information.
+The Markup’s investigators said they observed the Meta Pixel tool transmitting the text of the button clicked to schedule an appointment, the name of the doctor, medical conditions picked from a drop-down menu, and search terms used to find a doctor including “pregnancy termination.”
+Transmitting personally identifiable health information to Facebook may be prohibited by law, and The Markup pointed to potential violations of the Health Insurance Portability and Accountability Act (HIPAA).
+Congress is also debating a new privacy law that could affect the transmission of a patient’s health information online. The House Energy and Commerce Committee began review on Tuesday of a bipartisan proposal for a federal privacy law, the American Data Privacy and Protection Act.
+The bill’s authors include Reps. Frank Pallone, New Jersey Democrat, and Cathy McMorris Rodgers, Washington Republican, and Sen. Roger Wicker, Mississippi Republican.
+• Ryan Lovelace can be reached at rlovelace@washingtontimes.com.
+Copyright © 2022 The Washington Times, LLC. 
+                        
+                          Click
+                            here for reprint permission.
+ Click to Read More and View Comments
+                    
+ Click to Hide 
+Terms of Use / Privacy Policy / Manage Newsletters

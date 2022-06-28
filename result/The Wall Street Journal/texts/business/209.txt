@@ -1,0 +1,232 @@
+
+https://www.wsj.com/articles/tech-valuations-tumble-but-business-software-stocks-are-cushioned-by-the-cloud-11654164000
+Tech valuations have been whipsawed by rising interest rates, steep inflation and economic uncertainty—but not so much in enterprise software. Demand is holding steady as businesses continue to reorient themselves around cloud computing and data, CIOs say.
+Information-technology companies including International Business Machines Corp.,
+
+
+
+
+
+
+
+
+
+
+            Hewlett Packard Enterprise Co.
+
+
+      and
+
+
+
+
+
+
+
+
+
+
+            Oracle Corp.
+
+
+      have shown resilience amid a rout in technology stocks. All three have so far outperformed declining market benchmarks since the start of the year.
+As of Wednesday, the tech-heavy Nasdaq Composite Index had fallen more than 23% since January. Over the same period, share prices for IBM, which sells cloud-based enterprise software and services, rose 4.3%.
+Prices for HPE, a business software firm spun off computer maker Hewlett Packard, have held roughly steady. On Wednesday, the company reported $6.7 billion in sales for the quarter ended April 30, up 1.5% year-over-year, with online software orders roughly doubling from the previous year.
+ The Morning Download delivers daily insights and news on business technology from the CIO Journal team. 
+Shares of software company Oracle haven’t fared as well, falling roughly 17% this year through Wednesday. But its prices have consistently remained above sliding tech-market benchmarks. In March, the company reported double-digit growth in cloud revenue for the quarter ended in February.
+“Enterprise IT is considered safer and less fickle than consumer tech by investors,” said
+
+
+
+
+
+
+
+
+
+      
+      Karena Man,
+
+
+
+      consultant at management consulting firm Egon Zehnder. When the dotcom bubble burst in the early 2000s, consumer digital valuations were wiped out. “But enterprise tech was still where investors were putting their money,” she said.
+Demand for enterprise technology was evident last week when semiconductor giant
+
+
+
+
+
+
+
+
+
+
+            Broadcom Inc.
+
+
+      said it would acquire
+
+
+
+
+
+
+
+
+
+
+            VMware Inc.
+
+
+      in a deal valued at $61 billion. VMware is known for virtualization technology, in which software is used to replace more expensive physical equipment.
+“There’s more demand for technology than there ever was before,” said
+
+
+
+
+
+
+
+
+
+      
+      Jim Swanson,
+
+
+
+      executive vice president and enterprise chief information officer at New Brunswick, N.J.-based healthcare and consumer-goods giant
+
+
+
+
+
+
+
+
+
+
+            Johnson & Johnson.
+
+
+      The Covid-19 pandemic laid bare the importance of capabilities like cloud-based enterprise tools for adapting to sudden changes in the market and weathering uncertain times, he said.
+In the same way businesses turned to cloud computing in the pandemic—for remote work, customer services and productivity—they would be wise to continue, Ms. Man said. “Companies hoping to minimize risk exposure and anticipate future volatility challenges should be thinking about this now,” she said.
+Demand for cloud computing services, in which users rent computing resources, is strong. Global spending on public cloud services this year is expected to hit $494.7 billion, up 20.4% from last year, IT research and consulting firm
+
+
+
+
+
+
+
+
+
+
+            Gartner Inc.
+
+
+      estimates. Many companies employ multiple clouds, which creates a range of options for storing data or running applications.
+“The ability to easily choose where to place a workload based on cost efficiency is a key capability,” said
+
+
+
+
+
+
+
+
+
+      
+      Brennan Sullivan,
+
+
+
+      chief information officer at Quest Software Inc. “It’s such a basic necessity within any enterprise technology environment that at this point, I don’t see much correlation with the market’s moves.”
+Enterprise tech companies are benefiting from the ongoing demand for cloud computing.
+
+Salesforce Inc.,
+
+
+      the cloud market’s largest pure-play seller of subscription-based enterprise software, on Tuesday reported quarterly revenue of $7.4 billion, up 24% from the same period a year earlier. The company, whose core product is customer-relationship management software, is on track to surpass $30 billion in annual revenue this year.
+The cloud-computing units of tech titans like
+
+
+
+
+
+
+
+
+
+
+            Microsoft Corp.
+
+
+      and
+
+
+
+
+
+
+
+
+
+
+            Amazon.com Inc.
+
+
+      have also continued to generate growth. In April, Microsoft reported $23.4 billion in cloud revenue for the quarter through March, up 32% from a year earlier, the company said.
+For Amazon, the cloud was an island of strength in April, when the company posted its first quarterly loss in seven years. Amazon Web Services, the company’s cloud-computing service, reported $18.4 billion in first-quarter sales, up 37% from a year earlier. Companywide, sales rose 7% to $116.4 billion.
+Increasingly large stores of data are also becoming essential to the way most businesses operate, said
+
+
+
+
+
+
+
+
+
+      
+      Erik Bradley,
+
+
+
+      chief strategist at Enterprise Technology Research, a research firm. Mr. Bradley said he expects demand for enterprise-tech platforms offering data governance, data management and other analytic tools to continue growing regardless of economic conditions.
+Last year, data-analytics company Databricks Inc. raised $1.6 billion in a single fundraising round, lifting its private-market valuation to $38 billion. In February, the company reported $800 million in sales for 2021, an 80% increase from the previous year.
+CIOs are still keen on technology that helps their companies chase revenue growth, so there is “no real opportunity to retract spending,” said
+
+
+
+
+
+
+
+
+
+      
+      John-David Lovelock,
+
+
+
+      a research vice president and distinguished analyst at Gartner.
+—Isabelle Bousquette contributed to this article.
+Write to Angus Loten at angus.loten@wsj.com
+
+
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+
+      Appeared in the June 3, 2022, print edition as 'Enterprise-Tech Specialists Withstand Broader Slump.'
+    
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

@@ -1,0 +1,50 @@
+Analysis
+The automobile pioneer believed short-term interests must not squeeze out investment in a business’ resilience, a lesson many companies have learned the hard way since 2020.
+The American industrialist and inventor Henry Ford in Willow Run, Mich., around 1941.Credit...Hulton Archive/Getty Images
+Supported by
+Send any friend a story
+As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.
+By Peter S. Goodman
+DEARBORN, Mich. — Henry Ford, the godfather of mass production, was tormented by the possibility of running out of parts and raw materials. Suspicious of financiers — a spirit that animated his fervent antisemitism — he was especially distrustful of his suppliers. He was consumed with stockpiling enough materials to ensure that his assembly lines could continue operating without debilitating shortages.
+He bought his own coal mines in Kentucky and Virginia, along with railroads to carry their output to his factories. He amassed a fleet of ships that plied the Great Lakes, bearing a steady supply of iron ore and lumber harvested from Michigan’s Upper Peninsula. And he erected an enormous plant outside Detroit on the River Rouge, a complex of factories engineered to handle every stage of turning raw materials into a finished automobile.
+A century later, the Rouge plant remains in operation, yet it is bedeviled by a shortage of a crucial component that would have horrified Mr. Ford. The company he founded cannot buy enough semiconductors, the computer chips that are the brains of the modern-day car.
+Ford is heavily dependent on a single supplier of chips located more than 7,000 miles away, in Taiwan. With chips scarce throughout the global economy, Ford and other automakers have been forced to intermittently halt production.
+On a recent afternoon at the Rouge, hundreds of workers wielded tools to fit together the parts of Ford’s most popular vehicle, the F-150 pickup truck. Yet in recent months, Ford has been forced to stash thousands of finished vehicles in lots scattered throughout Dearborn — Henry Ford’s hometown — waiting for the arrival of chips that can bring them to life.
+“It’s exactly the kind of thing that Henry Ford feared,” said Matt Anderson, curator of transportation at the Henry Ford, a museum in Dearborn that explores his legacy and the history of American innovation. “He became more and more obsessed with controlling every aspect of his production process.”
+Popularly celebrated in his own era, Henry Ford’s legacy prompts condemnation today. He espoused white supremacist sentiments, along with strident antisemitism. He unleashed brutal violence on the labor movement that eventually organized his plants. He seized a monopolistic hold on the market for affordable automobiles.
+Yet his management philosophy — and especially his vigilance against getting pinched by suppliers — yields powerful insights about the culprits and lessons of the Great Supply Chain Disruption, which has become a leading source of inflation and product shortages.
+Mr. Ford grasped keenly that supply chains were fragile, necessitating constant scrutiny and backup plans. Despite his hostility toward labor unions, he understood the value of generous wages in motivating workers. And he warned that the demands of investors for short-term gains could threaten longer-term resilience.
+“He recognized that the supply chain even then was full of risks,” said Mike Skinner, a founder of the Henry Ford Heritage Association. If he were around today, “Ford would have been making their own chips,” Mr. Skinner added. “There’s no doubt about that.”
+The people running Ford say that’s an oversimplification. The F-150 pickup produced at the Rouge uses more than 800 types of chips, requiring dependence on specialists. And chips have limited shelf lives, making them difficult to stockpile.
+“It’s a lot of complexity,” Ford’s chief industrial platform officer, Hau Thai-Tang, said during a recent interview. For Ford, making its own chips, or even limiting its suppliers to North America, would pose “a Herculean task that would be very asset- and capital-intensive, and just not realistic,” he added.
+Yet Ford’s strategy in sourcing chips, Mr. Thai-Tang acknowledged, has been guided by the interests of a party that the company’s founder disdained as a potential threat to the vitality of his business — the shareholder.
+Ford’s embrace of so-called Just in Time inventory — in which warehouses are kept lean to minimize costs — “has been driven by the capital markets and is focused on return on invested capital,” Mr. Thai-Tang said.
+Henry Ford frequently staved off demands for dividends — payments that enrich investors — while preferring to apply his profits toward expansion.
+“We are against the kind of banker who regards a business as a melon to be cut,” Mr. Ford declared in his memoir.
+That tension burst into public view in 1916 when Mr. Ford clashed with some of his first investors, the Dodge brothers, who were themselves early innovators in the emerging auto industry.
+Ford’s profits the previous year had reached $16 million, and the company had more than $50 million in cash stashed in the bank. Mr. Ford was adamant that the money be directed toward building out his new factory, the Rouge.
+The Dodge brothers insisted on dividends, and they filed a lawsuit in pursuit. They petitioned a court for an injunction that would freeze Ford’s expansion plans at the Rouge.
+The court obliged, enraging Mr. Ford: The Dodge brothers were imperiling not only his plans for the Rouge, but also the central organizing principle of his company.
+“I do not believe that we should make such an awful profit on our cars,” he said on the witness stand during the ensuing trial. “It has been my policy to force the price of the car down as fast as production would permit, and give the benefits to users and laborers.”
+The conflict was fueled partly by Mr. Ford’s decision nearly two years earlier to roughly double the pay of his workers to a then-unheard-of $5 per day. Other business leaders accused him of imperiling their companies by pushing up wages throughout American industry.
+Mr. Ford insisted that he was simply being pragmatic. The advent of the assembly line had routinized the labor of making cars. Many workers chafed at what felt like a demotion to robotic and repetitive tasks, and they quit in droves. Mr. Ford cast higher pay — aimed partly at pre-empting a union drive — as the means to attract enough hands to produce growing volumes of cars.
+“A low-wage business is always insecure,” he declared.
+Given the stupendous success of the Model T, Ford dominated the market for popularly priced cars. Paying higher wages was thus a means of protecting its dominance, said Mark J. Roe, a professor at Harvard Law School.
+More broadly, Mr. Ford portrayed bountiful wages as the key to fostering the consumer economy that he championed, with affordable cars as the means toward pushing out the contours of cities, opening up new forms of housing, offices and leisure.
+“Most of the people of the country live on wages,” Mr. Ford would write in his memoir. “The scale of their living — the rate of their wages — determines the prosperity of the country.”
+Under withering cross-examination during the Dodge brothers lawsuit, Mr. Ford declared that the very point of his business was to provide jobs and build affordable cars, with money merely an incidental result, according to an account in Richard Snow’s biography “I Invented the Modern Age.”
+“Business is a service, not a bonanza,” Mr. Ford said.
+The Michigan Supreme Court ultimately rejected that conception. “A business corporation is organized and carried on primarily for the profit of the stockholders,” the court decreed.
+That decision now stands as a landmark on the march of the American shareholder toward primacy.
+The court ruled for the Dodge brothers and ordered Ford to distribute roughly $25 million in dividends, though — via an appeal — Mr. Ford secured the right to go ahead with building the Rouge.
+Mr. Ford later squeezed out the Dodge brothers, purchasing their shares and taking control of his company.
+But today more than half of Ford Motor’s shares are controlled by Wall Street institutions like Vanguard, the mutual fund company, and BlackRock, the world’s largest asset management company, now overseeing more than $10 trillion.
+In the three years leading up to the pandemic, Ford distributed dividends to shareholders reaching $7.9 billion, or 70 percent of its profits, according to data tabulated by William Lazonick, an economist at the University of Massachusetts Lowell.
+Compared with other publicly traded companies, Ford has shown greater inclination to limit dividends and preserve capital in the face of challenges, Mr. Lazonick said.
+But chip companies have catered heavily to their investors by limiting their capacity — a strategy to maintain high prices. Shortages of truck drivers and warehouse workers are frequently the result of the downgrading of such jobs, with wages cut as a way to reward shareholders.
+Mr. Ford would not have accepted the shortages resulting from undue dependence on a supplier that could not satisfy his company’s demands.
+“He’d probably go fire whoever did that,” said Willy C. Shih, an international trade expert at Harvard Business School. “He knew he had to get control of the company before he could deliver the car for the masses.”
+The parking lots that now hold F-150 pickup trucks awaiting chips lie in the shadow of Ford’s corporate headquarters in Dearborn. One sits across the street from Henry Ford Elementary School.
+Late last year, the company announced a partnership geared toward making chips in the United States.
+“We’re certainly reflecting on the past two years,” said Mr. Thai-Tang, the Ford executive.
+Advertisement

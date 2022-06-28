@@ -1,0 +1,40 @@
+
+Sign In
+
+Manage Newsletters
+Roe v. Wade overturned: Pro-lifers persistence paid off
+Kavanaugh’s Democratic assassins
+Religious freedom wins! American exceptionalism wins!
+The cellphone tracking tool that a federal agent allegedly used to track a former girlfriend may have been scuttled, but analysts say they fear police have even more invasive technology at their fingertips now.
+Adrian O. Pena, a deputy U.S. Marshal in Texas, was indicted this month by prosecutors who say he used Securus Technologies’ LBS platform to track people with whom he had “personal relationships,” violating the intent of the tool, which was to be used by cops engaged in official business.
+The conduct that earned Mr. Pena scrutiny came in 2016 and 2017, and Securus says it shut down the LBS platform, which relied on cellphone pinging, four years ago.
+But Aaron Mackey at the Electronic Frontier Foundation says it’s likely that cops have found more precise tools that use GPS or WiFi locations.
+“The demand for location data and the potential abuse by law enforcement agencies in their ability to collect it and their desire to get access to it hasn’t changed. What’s changed is the technical way they’re acquiring it,” Mr. Mackey said.
+According to an indictment, Mr. Pena used the tool to track at least nine people he wasn’t authorized to track. When investigators looked into the matter in 2017, they repeatedly queried him on whether he’d used the tool on ex-girlfriends.
+He denied abusing the tool, but prosecutors say he was lying.
+Mr. Pena gained access to the platform as part of a task force the U.S. Marshals Service ran with the Uvalde County Sheriff’s Office, which had a contract with Securus Technologies for its Location-Based Services platform.
+LBS relied on data purchased directly from telecommunications firms, delivering latitude and longitude coordinates for a phone’s whereabouts.
+The ability of police to track someone through a phone is deeply controversial, even without the system being abused by bad actors. But the relative ease of duping the system raised new questions.
+According to court documents, Securus LBS only required someone to log in, pick their target, upload a document justifying the search, then clock some buttons and get the cell location, according to court documents. And it turned out uploading junk documents worked just fine to clear that hurdle.
+The actions prosecutors attribute to Mr. Pena came in 2016 and 2017, but weren’t charged until now. It’s not clear why prosecutors waited so long, given court documents show investigators interviewed Mr. Pena in late 2017 and suspected he was lying at the time.
+During that time, federal prosecutors won a conviction against a Missouri sheriff who had used Securus’ LBS platform to track hundreds of people, including a state judge.
+Securus last week said it shut the tool down years ago.
+“The tool was engineered with safeguards and security protocols, but we also relied on the integrity of law enforcement to operate it ethically,” the company said in a statement. “All of this preceded our aggressive, multi-year transformation, and we wouldn’t and won’t provide the service ever again, period.”
+The country’s major cell service providers also say they have stopped selling the underlying data.
+But other methods of tracking people by smartphone exist.
+Private vendors have collected location data from apps people run, and Motherboard has reported that several federal agencies including the IRS and Customs and Border Protection have gotten access to some of that data.
+The legal framework for agencies accessing the data without a warrant is part of the ongoing debate, too.
+Analysts say that while the technology and policy are worrying enough, the system Securus set up allowed the abuses that have come to light.
+“No one was checking this,” said Mr. Mackey, of the Electronic Frontier Foundation. “There was no audit, either by Securus or the law enforcement agencies that had a contract with Securus.”
+The Uvalde County Sheriff’s Office, which had the contract prosecutors say covered Mr. Pena and his searching, didn’t respond to a request for comment.
+The U.S. Marshals Service didn’t answer questions about steps taken to prevent this kind of abuse in the future, instead focusing on Mr. Pena as a bad actor.
+“The alleged actions of this employee do not reflect the core values of the U.S. Marshals Service, and Pena has been relieved of his operational duties and placed on administrative leave,” the agency said. “An indictment is merely an allegation, and the defendant is presumed innocent until proven guilty beyond a reasonable doubt in a court of law.”
+• Stephen Dinan can be reached at sdinan@washingtontimes.com.
+Copyright © 2022 The Washington Times, LLC. 
+                        
+                          Click
+                            here for reprint permission.
+ Click to Read More and View Comments
+                    
+ Click to Hide 
+Terms of Use / Privacy Policy / Manage Newsletters

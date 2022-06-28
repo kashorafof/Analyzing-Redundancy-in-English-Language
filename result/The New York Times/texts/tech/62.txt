@@ -1,0 +1,128 @@
+Advertisement
+By Eleanor LutzJune 27, 2022
+
+	A decade after CRISPR started to become a major tool in genetic research, a new generation of scientists is growing up with the technology. Even high school students are able to run CRISPR experiments. Some specialized public high schools teach CRISPR as a hands-on lesson in biotechnology. These classes cover everything from molecular biology to pipetting to biomedical ethics and career options.
+
+
+	“Visualizing and comprehending what’s happening on the molecular level is usually always the challenge,” said Katy Gazda, a high school biotechnology teacher who taught CRISPR in her classroom last year. To help students better understand complex molecular movements, teachers use tools like paper models, 3-D printed models and online animations.
+
+Cas9 enzyme
+DNA
+Guide RNA
+Matching DNA
+Cas9 enzyme
+DNA
+Guide RNA
+Matching DNA
+
+1. Target the right gene
+
+
+	Scientists engineer a piece of RNA that is a match for the DNA they want to edit. This is called the guide RNA. Students can practice designing their own guide RNA sequences using the same free bioinformatics search tool that scientists use for research.
+
+
+2. Bind the target
+
+
+	An enzyme called Cas9 binds to a piece of DNA and temporarily unwinds a section of the DNA. Students can model the process with paper cutouts, pushing a paper DNA sequence along a printed guide RNA until they match.
+
+
+3. Cut the DNA
+
+
+	If the guide RNA matches a section of the DNA, the Cas9 enzyme cuts both strands of the DNA double helix. An interactive animation from the Howard Hughes Medical Institute shows students how the Cas9 enzyme changes its shape and snips through the DNA.
+
+Repaired DNA with edited section
+DNA fragments cut by Cas9
+Inserted DNA
+DNA fragments cut by Cas9
+Repaired DNA with edited section
+Inserted DNA
+
+4. Repair and edit the DNA
+
+
+	Machinery inside the cell rushes to fix the broken DNA. One repair process uses a similar-looking, unbroken piece of DNA as a template to stitch the broken pieces back together.
+
+
+	Scientists can introduce tailor-made DNA into the cell — tricking the repair machinery into using the engineered DNA as the template for stitching together the broken pieces.
+
+
+	Students also learn about real-life examples of DNA editing, such as  therapies for genetic illnesses including sickle cell disease and cystic fibrosis. In some exercises, they can see examples of the actual DNA sequence associated with each illness and evaluate specific gene edits proposed to cure the illness.
+
+
+	Ms. Gazda believes that hands-on lab lessons help students “open their minds to the idea that they can truly be a scientist.”  Several companies sell CRISPR curriculum kits to high schools and universities. One kit from Bio-Rad, a life science technology manufacturer, includes a prepackaged experiment using E. coli bacteria.
+
+Bacteria Altered With CRISPR
+Bacteria Without CRISPR
+E. coli
+bacteria colonies
+Petri
+dishes full of
+bacteria food
+1 cm
+Bacteria Without CRISPR
+E. coli
+bacteria
+colony
+Petri
+dish full of
+bacteria food
+1 cm
+Bacteria Altered With CRISPR
+E. coli
+colony
+Petri
+dish full of
+bacteria food
+1 cm
+
+
+
+Functional gene
+X-gal compound
+ß-gal enzyme
+E. coli DNA
+A gene in the bacteria encodes an enzyme, called ß-gal, which can help break down certain molecules.
+A bright blue color appears when X-gal is broken down by ß-gal.
+Functional gene
+E. coli DNA
+A gene in the bacteria encodes an enzyme, called ß-gal, which can help break down certain molecules.
+X-gal 
+compound
+ß-gal enzyme
+A bright blue color 
+appears when X-gal is 
+broken down by ß-gal.
+
+	The E. coli bacteria used in the Bio-Rad kit are grown on a food mixture that includes a compound called X-gal. Normally, these bacteria are able to use an enzyme to break down the compound into two parts: a sugar molecule and an indicator molecule.
+
+
+	The indicator molecule turns deep blue, showing students that the bacterial enzyme is working. This colorful display is an important part of the experiment. It shows students what to expect in an unaltered, or “control” group — a vital part of any scientific experiment.
+
+
+
+
+Non-functional gene
+The ß-gal  enzyme is not  produced.
+The X-gal compound cannot  be broken down without the  ß-gal enzyme, so the bright  blue indicator molecule is  never produced.
+E. coli DNA
+After the students use CRISPR to transform a section of the gene, the gene is no longer functional.
+Non-functional gene
+E. coli DNA
+After the students use CRISPR to transform a section of the gene, the gene is no longer functional.
+The ß-gal  enzyme is not  produced. The X-gal compound cannot  be broken down without the  ß-gal enzyme, so the bright  blue indicator molecule is  never produced.
+
+	The process of altering E. coli DNA with CRISPR involves lab techniques like pipetting liquids and carefully moving bacteria colonies. Teaching a new lab class like CRISPR can be intimidating, says Gregory Jubulis, a high school science teacher who uses the Bio-Rad kit in his biotechnology class. “It takes you a few years before you’re real comfortable with teaching something,” he said.
+
+
+	But when classroom CRISPR lab kits first became available, he knew he wanted to teach it. “I just want my kids to be ready for the future of science,” he said.
+
+
+	Ms. Gazda uses lab classes as an opportunity to share career options with students. In a CRISPR lab, students may learn about careers in anything from molecular and cellular biology to entrepreneurship and science journalism.
+
+
+	“Ethics always comes up,” says Mr. Jubulis, explaining how he relates the lab experiment to real-life CRISPR applications like gene therapy. Many of his students have friends or family with genetic illnesses, so the topic can be deeply personal.
+
+Sources: Howard Hughes Medical Institute; instructor materials from Bio-Rad’s Explorer education program
+Advertisement

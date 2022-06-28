@@ -1,0 +1,120 @@
+
+https://www.wsj.com/articles/inflation-puts-spotlight-on-companies-use-of-last-in-first-out-accounting-11656322200
+Concerns about rising inflation and slowing growth are putting the spotlight on an accounting method U.S. companies use to lower their federal tax bill by inflating their costs, which also squeezes their quarterly earnings.
+Companies including grocery chain
+
+
+
+
+
+
+
+
+
+
+            Kroger Co.
+
+
+      in recent weeks have said their use of last-in, first-out accounting, or LIFO, has increased costs and dented earnings.
+With LIFO—which is permitted under the U.S. Generally Accepted Accounting Principles, but not under International Financial Reporting Standards—companies recognize their most recently acquired inventory through their cost of goods sold. With inflation around a four-decade high, such inventory is more expensive than goods purchased earlier, and acts as a drag on earnings.
+Companies use LIFO to lower their taxable income. But to do so, they also must use it for financial accounting, even though it can ding financial results. By contrast, under first-in, first-out accounting—another popular accounting method—companies record the cost of their oldest inventory first.
+In 2021, approximately 15% of companies in the S&P 500 used LIFO as their primary inventory method and 50% used FIFO, according to
+
+
+
+
+
+
+
+
+
+
+            Credit Suisse Group AG
+
+
+      , citing annual reports. The remainder used an average-cost method, a combination of methods, or methods that couldn’t be determined, Credit Suisse said.
+Investors are scrutinizing accounting methods like the use of LIFO amid recent declines in the stock market to ensure they fully understand business models in their portfolios, said Ron Graziano, a managing director at Credit Suisse. “It really matters when it matters, and it matters a lot right now,” he said.
+ The Morning Ledger provides daily news and insights on corporate finance from the CFO Journal team. 
+Some companies recently disclosed millions of dollars in LIFO charges, or reserves. The charges show the difference in costs under LIFO versus FIFO, allowing investors to see the effect of the accounting method. LIFO is a cost assumption companies make on financial statements, but doesn’t reflect the actual flow of inventory in their operations.
+Kroger this month said it took a $93 million LIFO charge during the quarter ended May 21, compared with a $37 million LIFO charge in the year-earlier period. Sales rose 8%, to $44.6 billion from a year earlier. Profit jumped to $664 million, from $140 million a year earlier. Inventory increased 9% during the same period, to $7.4 billion.
+Kroger said it expects to take a full-year LIFO charge of $300 million this year, compared with a $197 million LIFO charge during the prior year, due to higher inflation. The company raised its full-year earnings guidance, citing strong sales, but said higher LIFO-related costs will be a drag on earnings in the year ahead.
+Rising prices also increased the LIFO accounting charge at Whole Foods Market supplier
+
+
+
+
+
+
+
+
+
+
+            United Natural Foods.
+
+
+      “Historically, the effect of LIFO has been relatively small, stable and predictable, but the recent inflationary environment has driven it meaningfully higher,” Chief Financial Officer
+
+
+
+
+
+
+
+
+
+      
+      John Howard
+
+
+
+      said on an earnings call this month.
+United Natural Foods during the quarter ended April 30 reported a LIFO charge of $72 million, up from $5 million a year earlier, and earned $67 million, up 40% from a year earlier. Inventory rose 12%, to $2.6 billion. The company has no plans to change its accounting method, but said this month it revised its metric for adjusted earnings to exclude the impact of LIFO.
+While companies across industries use LIFO, the oil industry in particular has been criticized for reaping the tax benefits when oil prices spike. When prices tumble, the value of the inventory companies deduct first declines, which means the tax benefits can diminish.
+“It is a big benefit” for a company’s taxes, even though it can put pressure on earnings, said Michelle Hanlon, an accounting professor at the Massachusetts Institute of Technology. LIFO allows companies to use additional cash upfront from their lower tax bills to invest in their businesses.
+Repealing LIFO in the U.S. could raise around $1 billion in annual tax revenue, according to Thornton Matheson, a senior fellow at the Urban-Brookings Tax Policy Center think tank. Taxing companies’ LIFO reserves could raise approximately $50 billion over four years, according to Ms. Matheson, citing a Congressional Budget Office estimate from 2020. That figure has likely doubled since then due to higher inflation and oil prices, she said.
+A coalition of industry associations that supports maintaining LIFO said in a letter to Congress this month the accounting method helps companies of all sizes mitigate the effects of inflation. LIFO has also drawn attention from lawmakers in Washington, who have called for tax relief for auto companies that have drawn down their inventory, which has increased their taxable income.
+U-Haul parent
+
+
+
+
+
+
+
+
+
+
+            Amerco
+
+
+      is also feeling the impact of higher costs on items such as boxes, tape and propane because it uses LIFO, said
+
+
+
+
+
+
+
+
+
+      
+      Jason Berg,
+
+
+
+      the company’s finance chief. Amerco’s cost of sales during the first quarter increased 21% from a year earlier, to $66.1 million. Profit rose 18%, to $86.7 million.
+However, Amerco has no plans to change its accounting method because of higher inflation, Mr. Berg said. “Our strategy has been to minimize the amount of taxes that we pay” to maximize cash flow, he said. 
+Write to Kristin Broughton at Kristin.Broughton@wsj.com
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+As companies weigh the strategic benefits of a blockchain-enabled metaverse, they may need to take a fresh approach to account for nonfungible tokens (NFTs) and other technologies.
+The Wall Street Journal news department was not involved in the creation of this content.
+As companies weigh the strategic benefits of a blockchain-enabled metaverse, they may need to take a fresh approach to account for nonfungible tokens (NFTs) and other technologies.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

@@ -1,0 +1,26 @@
+Advertisement
+Subscriber-only Newsletter
+Send any friend a story
+As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.
+By Paul Krugman
+Opinion Columnist
+Elon Musk is clearly having a moment; he’s trying to back out of his deal to buy Twitter, but he probably can’t without paying billions in damages. Perhaps that’s why he’s thinking about zooming off to Mars?
+OK, I’m being unfair. (Am I about to receive a poop emoji?) While Musk’s decision to talk up a scheme to send a million colonists to Mars may reflect a desire to change the subject, his plan calls for doing so by 2050 — and he has been talking about that idea for years.
+Still, the Mars talk caught my attention, largely because of the line about one million people (which I can’t help but say in my best Dr. Evil voice).
+What’s your reaction to that number? Does it seem absurdly high? In terms of the logistics of actually getting people to Mars, it probably is. But my original home field in economics was international trade. And if you know anything about trade, or for that matter the realities of industry, you realize that one million is actually an absurdly low number of people — far too few to support a modern economy.
+Let’s instead treat the SpaceX chief’s Mars fantasies as a teachable moment — a chance to talk about the economics of globalization more generally.
+Musk’s comments immediately called to mind for me a great essay by one of my favorite science fiction writers, Charlie Stross, that posed precisely this question: “What is the minimum number of people you need in order to maintain (not necessarily to extend) our current level of technological civilization?”
+Stross’s answer was that given the complexity of modern society, you’d need a lot of people. In fact, writing back in 2010 — when Musk’s Tesla was still a struggling company that had only survived the Great Recession thanks to an Obama administration bailout — he explained how Musk’s current plan is thinking far too small: “Colonizing Mars might well be practical, but only if we can start out by plonking a hundred million people down there.” I agree — if anything, that’s on the low side. To understand why, you need to think about why nations engage in international trade.
+One reason is that countries have different resources and climates: It’s hard to grow pineapples in Norway. But another reason is that in the modern world there are often huge economies of scale in production. These economies of scale make it efficient to supply the entire world market for some goods from only a handful of locations — sometimes just a single location — with international trade delivering those goods to customers in other countries.
+For example, a recent shortage of semiconductor chips — which seems, finally, to be easing — has drawn attention to the role of photolithography machines, which use light to etch microscopic circuits on silicon wafers. (Any sufficiently advanced technology is indistinguishable from magic.) The world market for these it turns out, is dominated by a single firm in the Netherlands, ASML, which has a complete monopoly on the latest generation of machines, which use extreme ultraviolet light to make circuits even more microscopic.
+So how many factories does ASML have assembling these cutting-edge machines? One. (It has other factories producing subsystems.)
+These economies of scale mean that no one country can reasonably produce the full range of goods required to operate a modern, high-technology economy. International trade is essential, and more essential the smaller the economy — which is why Canada is far more dependent on imports than the United States, Belgium far more dependent than Germany, and so on:
+Now, given access to world markets, even small countries can have full access to the benefits of modern technology; life in Luxembourg is pretty good. But unless we actually invent the Epstein Drive or something, the realities of transportation costs mean that Musk’s hypothetical Mars colony would have to be largely self-sufficient, cut off from the rest of the solar system economy. And it wouldn’t have enough people to pull that off with anything like a modern standard of living.
+As I said, I see Musk on Mars as a teachable moment, an unintended thought experiment that helps remind us of the positive aspects of international trade. Yes, there are downsides to globalization, especially to rapid change that can disrupt whole communities. But you really wouldn’t want to live in a world without extensive international trade. And you really, really wouldn’t want to live on another planet, cut off from the globalization we’ve created on this one.
+Vaccine supply and international trade.
+Ideas are getting more expensive.
+Distance is a major barrier to trade, even on Earth.
+Just to be fair, Musk is doing a lot to make space travel cheaper.
+FeedbackIf you’re enjoying what you’re reading, please consider recommending it to friends. They can sign up here. If you want to share your thoughts on an item in this week’s newsletter or on the newsletter in general, please email me at krugman-newsletter@nytimes.com.
+Maybe the aliens will colonize us instead.
+Advertisement

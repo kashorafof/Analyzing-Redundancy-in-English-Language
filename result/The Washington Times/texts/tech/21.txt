@@ -1,0 +1,46 @@
+
+Sign In
+
+
+            A 'lot of people bring conspiracy theories and things to the bureau all of the time'
+Manage Newsletters
+Roe v. Wade overturned: Pro-lifers persistence paid off
+Kavanaugh’s Democratic assassins
+Founding Fathers never intended U.S. to be secular or hostile to religion
+Jim Crow
+OPINION:
+We can now lay to rest the Hillary Clinton campaign’s Alfa Bank-Donald Trump hoax. We can lower the Alfa casket next to the infamous Democratic-financed dossier as well as a list of other Russia scandals that never happened.
+While FBI Washington clung to Christopher Steele’s dossier until even the anti-Trump “seventh floor” had to let go, FBI Chicago — with a rookie agent no less — greeted the Alfa case with immediate skepticism.
+FBI testimony at the trial of former Clinton campaign lawyer Michael Sussmann showed the 2016 internet data he presented to journalists and former bureau General Counsel James A. Baker was shoddy. 
+Worse, the Trump email domain which was Mr. Sussmann’s nexus for Trump-Moscow secrecy was never activated. Difficult to have secret communication on a dead domain. 
+A D.C. jury found Mr. Sussmann not guilty on May 31 on the charge of lying to the FBI in special counsel John Durham’s first trial. But new details emerged from testimony, exhibits and Durham pretrial filings on how the Clinton operation coaxed FBI headquarters to pursue candidate Trump.
+The seventh floor, where then-Director James B. Comey and Deputy Andrew McCabe ruled, was “fired up” by the Sussmann delivery, an internal email disclosed. The idea of a secret channel from former President Donald Trump to an oligarch-run bank in Putin-ville was tempting, but the party was short-lived since the Chicago field office was waving red flags.
+Court filings show it was Rodney Joffe, a tech executive at Neustar Inc. in Northern Virginia, who got the hoax rolling. He had access to Domain Name System tables that match emails with internet protocol numerical addresses enabling him to spy on the Trump family. 
+He reinforced his surveillance reach by enlisting computer scientists at Georgia Tech University. They too had special DNS access via a federal government agency. The Joffe team concluded Mr. Trump was talking to Mr. Alfa. 
+The Sussmann-Joffe-Georgia data production landed in Chicago with rookie agent Allison Sands. She had only opened a few cases before being handed one of the most politically important probes in FBI history along with a mentor and host of cyber and counterintelligence experts. 
+On the afternoon of May 23, she told the Chicago story to a pro-Sussmann D.C. jury and Obama-appointed judge. Now an executive for Roku streaming, Ms. Sands displayed objectivity, not out to stop or start Mr. Trump. 
+She said: The domain which was the Sussmann/media focus in Pennsylvania — mail1.trump-email.com — was never operational.  Questioned by prosecutor Brittain Shaw, Ms. Sands said, “the particular domain in question that was mentioned in the [Sussmann] white paper, that one was dormant. It was largely dormant for the lifespan of its life, was currently inactive and that it was entirely a ‘from’ email address. So it only sent outbound messages.”
+Then there is the quality of Mr. Sussmann’s presentation of white papers and thumb drives to James Baker in September 2016.
+“It was text files, which is not a real DNS log. It was, you know, screenshots of things,” Ms. Sands said. “It wasn’t like an actual data set that you would normally want in a cyber investigation.”
+This forced Chicago agents to create their own spreadsheet “from scratch,” she said. They obtained 130,000 records from server-provider Listrak in Pennsylvania; and more than 500,000 each from spam-marketer Central Dynamic and GoDaddy, the web host.
+She testified, “That’s why we reached out to GoDaddy, and [Listrak], and the company that owned the domain, basically pulling the data from every possible location so that we could reconstruct what was happening from scratch, which is, like, the equivalent of basically like, you know, we know that there’s a puzzle, and we have to recreate this puzzle, but we don’t have the box to look at. We have to, like, do it from scratch.”
+After five months of studying FBI reconstructed internet tables, there was no evidence Mr. Trump and Alfa were communicating. Ms. Sands closed the case.
+“That there was no evidence on — from all of the U.S. companies we had spoken to, of the logs that we had looked at, as well as the Mandiant report from the Alfa-Bank servers [in Moscow], there was no evidence that this covert communication channel existed,” she testified. (Hired by Alfa, the Virginia-based Mandiant concluded that hackers created non-authentic domains not owned by either Mr. Trump or the bank. The hackers then pinged servers to make it look like a communication link.)
+Washington FBI headquarters never let the Sands team talk to Mr. Sussmann or Mr. Joffe.
+“We asked to interview the source of the white paper several times, because from the very beginning it was obvious that the data that was being provided was incomplete at the very least,” she said.
+To an extent, she said, if she did meet with them it would be difficult to rebut their data because she could not share everything.
+“We have information that is not publicly available,” she said. “We would have a hard time refuting their claims given just purely open-source information.”
+Anyway, she said, a “lot of people bring conspiracy theories and things to the bureau all of the time.”
+Counterintelligence special agent Ryan Gaynor helped the Chicago office. As a trial witness, he was asked about Mr. Joffe, who was an official FBI confidential human source. As he collected Trump DNS data, Mr. Joffe was in line to get hired if Mrs. Clinton won the presidency. 
+Andrew DeFilippis, one of four Durham prosecutors in the U.S. District Courtroom, asked this question of Mr. Gaynor:
+“If you were to learn that the source of this information or the provider, the person who gave it to Mr. Sussmann, was a confidential human source who had multiple contracts with the FBI and was working with the Clinton campaign, would you have volunteered for this project?”
+Mr. Gaynor answered, “I would not have volunteered for this project.”
+• Rowan Scarborough is a columnist with The Washington Times.
+Copyright © 2022 The Washington Times, LLC. 
+                        
+                          Click
+                            here for reprint permission.
+ Click to Read More and View Comments
+                    
+ Click to Hide 
+Terms of Use / Privacy Policy / Manage Newsletters

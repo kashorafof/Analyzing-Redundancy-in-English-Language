@@ -1,0 +1,150 @@
+
+https://www.wsj.com/articles/companies-skewer-secs-climate-disclosures-plan-in-comment-letters-11655834912
+Companies are tearing into the Securities and Exchange Commission’s proposal to impose mandatory disclosure requirements concerning climate risks and greenhouse-gas emissions, saying it poses heightened legal liability, hefty costs and reporting burdens.
+The U.S. securities regulator asked the public to comment on its plans over a three-month period that ended June 17. The proposed rule, unveiled in March, would require publicly traded companies to report their emissions, including—in certain cases—those from customers and suppliers. Companies’ estimates of these emissions would require independent assurance, a type of review that’s usually performed by engineering, consulting or audit firms. Businesses also would have to review the impact of climate risks stemming from extreme weather events, such as floods, on their finances.
+Many businesses already report such data, but the SEC’s proposal seeks to standardize the process so investors find it easier to make comparisons. The regulator extended the comment period to 90 days from 60 days after getting complaints from interest groups that it wasn’t allowing enough time for analysis.
+ The Morning Ledger provides daily news and insights on corporate finance from the CFO Journal team. 
+The SEC has received more than 3,400 letters with feedback—a significantly higher volume than it generally receives for its proposals—from a mix of companies, investors, auditors, academics, trade groups and others. More than 40 U.S.-listed companies have submitted letters, according to the SEC’s website.
+Next, the SEC considers the feedback in deciding whether to amend the proposal and vote on a final rule. The regulator didn’t respond to requests for comment. 
+Among the public companies that commented were chemical maker
+
+
+
+
+
+
+
+
+
+
+            Dow Inc.,
+
+
+      apparel retailer
+
+
+
+
+
+
+
+
+
+
+            Gap Inc.,
+
+
+      delivery giant
+
+
+
+
+
+
+
+
+
+
+            United Parcel Service Inc.,
+
+
+      business-software provider
+
+
+
+
+
+
+
+
+
+
+            Salesforce Inc.
+
+
+      and industrial-technology firm
+
+
+
+
+
+
+
+
+
+
+            Fortive Corp.
+
+Opposition from companies is only one of the challenges the SEC faces: Republican lawmakers and law professors are questioning whether the regulator has the legal authority to set such a rule. 
+The SEC has said it expects additional costs related to the proposal of $420,000 a year on average for a publicly listed small company and $530,000 a year for a bigger firm.
+Gap Chief Financial Officer
+
+
+
+
+
+
+
+
+
+      
+      Katrina O’Connell
+
+
+
+      said in a June 2 letter to the SEC that the regulator didn’t provide enough clarity about how it defines what is material to shareholders, which is the threshold for certain disclosures. That would result in her company and others providing investors with inconsistent information, Ms. O’Connell said. 
+The San Francisco-based retailer, which also owns the Old Navy and Banana Republic brands, also questioned the proposed timing for disclosing Scope 3 emissions, which includes those from suppliers, saying it receives emissions data from its suppliers 10 to 12 months after its fiscal year ends in January and would be unable to include those details in its annual filing. Under the proposal, companies must disclose Scope 3 emissions if they deem the output of greenhouse gases significant to investors or if they outline specific targets for them.
+Gap is unable to compel suppliers to provide more specific data, Ms. O’Connell said. Therefore, the company faces increased liability from including the data in its filings, she said. The company said it has around 900 suppliers and sources from countries such as the U.S., China and India.
+Lawyers that represent corporations and investors have said the SEC’s proposal could be a potent source of securities fraud litigation, which targets companies over alleged lies or even half-truths told to the investing public. The idea is that making a company talk more—on the record, in their mandatory disclosures like annual reports—means people are more likely to catch it in a mistake.
+The SEC’s proposal said that companies required to disclose Scope 3 details wouldn’t be held liable for the estimates if they were provided in good faith.
+Dow, meanwhile, said the proposal would require the chemicals maker and other businesses to maintain two separate sets of records on greenhouse-gas emissions, resulting in higher costs and the need for more resources. 
+That’s because the company would have to provide emissions data separate from the emissions it calculates in accordance with standards from the Greenhouse Gas Protocol, a coalition of environmental groups and businesses,
+
+
+
+
+
+
+
+
+
+      
+      Howard Ungerleider,
+
+
+
+      Dow’s president and CFO, said in a May 19 letter to the SEC. The company expects it will still follow those standards to calculate certain emissions, in order to satisfy the reporting rules of other standard setters, he said. 
+The SEC should more closely align its plan with the proposals released in late March by the International Sustainability Standards Board, a newly created body that sets climate-disclosure rules, because the latter doesn’t involve separate records, Mr. Ungerleider said.
+Some companies said they oppose the SEC’s proposal to require companies to disclose whether climate change is expected to affect more than 1% of a line item—such as revenue or debt—and explain the impact. Tracking the absolute value of each impact on a line-by-line basis and calculating the impacts against the 1% threshold would impose additional costs on companies and weigh on existing processes and capacity,
+
+
+
+
+
+
+
+
+
+      
+      Peter Underwood,
+
+
+
+      senior vice president and general counsel at Fortive, said in a June 8 letter.
+Mr. Underwood also said disclosing the results of a scenario analysis that companies use to assess how resilient their strategies around climate risks are could present greater liability risk because that information is often too competitively sensitive to share. “We believe this requirement is likely to have a negative consequence and a ‘chilling effect’ on the progress of voluntary climate action by companies in the form of scenario analysis,” he said.
+
+
+Write to Mark Maurer at Mark.Maurer@wsj.com
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+As companies weigh the strategic benefits of a blockchain-enabled metaverse, they may need to take a fresh approach to account for nonfungible tokens (NFTs) and other technologies.
+The Wall Street Journal news department was not involved in the creation of this content.
+As companies weigh the strategic benefits of a blockchain-enabled metaverse, they may need to take a fresh approach to account for nonfungible tokens (NFTs) and other technologies.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

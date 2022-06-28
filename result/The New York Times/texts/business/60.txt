@@ -1,0 +1,384 @@
+The latest Consumer Price Index showed a reacceleration in inflation, dashing hopes that price increases had peaked.
++
+14
+%
+Inflation
++
+12
++
+10
++8.6%
+in May
++
+8
++
+6
++6.0%
+excluding
+food and
+energy
++
+4
++
+2
+0
+–
+2
+1970
+’80
+’90
+2000
+’10
+’20
++
+14
+%
++
+12
+Inflation
++
+10
++
+8
++8.6%
+in May
++
+6
++6.0%
+excluding
+food and
+energy
++
+4
++
+2
+0
+–
+2
+1965
+’70
+’75
+’80
+’85
+’90
+’95
+2000
+’05
+’10
+’15
+’20
++
+14
+%
+Inflation
++
+12
++
+10
++
+8
++8.6%
+in May
++
+6
++6.0%
+excluding
+food and
+energy
++
+4
++
+2
+0
+–
+2
+1965
+’70
+’75
+’80
+’85
+’90
+’95
+2000
+’05
+’10
+’15
+’20
+Year-over-year percentage change in the Consumer Price Index
+Source: Bureau of Labor Statistics
+By The New York Times
+Inflation soared again in May, fresh data showed.
+The inflation report underscores a challenge for Biden.
+Airfares and other travel costs jumped.
+As oil supply remains tight, energy again leads inflation higher.
+Food inflation accelerated, driven by soaring prices for eggs, dairy and meat.
+Rents climbed, a pain for tenants and policymakers alike.
+Markets recoil as investors react to higher-than-expected inflation.
+Prices climbed 8.6 percent in the year through May, a reacceleration of inflation that makes it increasingly difficult for consumers to afford everyday purchases and poses a major challenge for the Federal Reserve and White House as they try to secure a strong and stable economy.
+The Consumer Price Index climbed 1 percent from April — far more quickly than in the previous month — and by 0.6 percent after stripping out food and fuel prices, which can be volatile. That so-called core inflation reading matched April’s reading.
+Fed officials are watching for signs that inflation is cooling on a monthly basis as they try to guide price increases back down to their goal, but Friday’s report offered more reason for worry than comfort. The headline inflation rate was the fastest since late 1981, as a broad array of products and services including rents, gas, used cars and food became sharply more expensive.
+Policymakers aim for 2 percent inflation over time using a different but related index, which is also sharply elevated. Central bankers are raising interest rates to make borrowing money more expensive, hoping to cool off consumer and business demand and give supply a chance to catch up, setting the stage for more moderate inflation.
+The Fed’s attempt to temper inflation by slowing down the economy is contributing to an already sour economic mood. Consumer confidence has been sinking all year as households shoulder the burden of higher prices, and President Biden’s approval ratings have also suffered. Both Wall Street economists and small business owners increasingly worry that a recession is possible in the next year.
+That glum attitude spells trouble for Mr. Biden and Democrats as November midterm elections approach. As climbing prices weigh on voters’ wallets and minds, policymakers across the administration have been clear that helping to return inflation to a more sustainable pace is their top priority, but that doing so mainly falls to the Fed.
+Economists warn that wrestling inflation lower could be a slow and painful process. Production and shipping snarls tied to the pandemic have shown early signs of easing but remain pronounced, keeping products like cars and trucks in short supply. The war in Ukraine is elevating food and fuel prices, and its trajectory is unpredictable. And consumer demand remains strong, buoyed by savings amassed during the pandemic and wages that are rising quickly, albeit not enough to fully offset inflation.
+“There does seem to be considerable resilience in consumer spending,” Matthew Luzzetti, chief U.S. economist at Deutsche Bank, said ahead of the report, explaining that he expects consumer prices to still be climbing at 7.3 percent over the year as of December.
+While uncertainty is high, economists in a Bloomberg survey expect inflation as measured by the Consumer Price Index to remain at 6.3 percent — lower than today, but still sharply elevated — in the final quarter of 2022.
+— Jeanna Smialek 
+Fuel oil
++
+16.9
+%
+Airline fares
++
+12.6
+Piped utility gas service
++
+8.0
+Gasoline (all types)
++
+4.1
+Dairy products
++
+2.9
+Used cars and trucks
++
+1.8
+Monthly price
+changes in May
+Nonalcoholic beverages
++
+1.7
+Cereals and bakery products
++
+1.5
+Electricity
++
+1.3
+Meats, poultry, fish and eggs
++
+1.1
+All items
++
+1.0
+New vehicles
++
+1.0
+Tobacco products
++
+0.9
+Apparel
++
+0.7
+Fruits and vegetables
++
+0.6
+Rent of primary residence
++
+0.6
+Owners' equivalent rent
++
+0.6
+Alcoholic beverages
++
+0.5
+Hospital services
++
+0.5
+Motor vehicle maintenance
++
+0.5
+Motor vehicle insurance
++
+0.5
+Medical care services
++
+0.4
+Medical care commodities
++
+0.3
+–0.1%
+Physicians’ services
+Fuel oil
++
+16.9
+%
+Airline fares
++
+12.6
+Piped utility gas service
++
+8.0
+Gasoline (all types)
++
+4.1
+Dairy products
++
+2.9
+Used cars and trucks
++
+1.8
+Nonalcoholic beverages
++
+1.7
+Monthly price
+changes in May
+Cereals and bakery products
++
+1.5
+Electricity
++
+1.3
+Meats, poultry, fish and eggs
++
+1.1
+All items
+1.0
++
+New vehicles
++
+1.0
+Tobacco and smoking products
++
+0.9
+Apparel
++
+0.7
+Fruits and vegetables
++
+0.6
+Rent of primary residence
++
+0.6
+Owners' equivalent rent of residences
++
+0.6
+Alcoholic beverages
++
+0.5
+Hospital services
++
+0.5
+Motor vehicle maintenance and repair
++
+0.5
+Motor vehicle insurance
++
+0.5
+Medical care services
++
+0.4
+Medical care commodities
++
+0.3
+Physicians’ services
+–0.1%
+April-to-May changes in a selection of categories of the Consumer Price Index
+Source: Bureau of Labor Statistics
+A new acceleration of inflation in May deepened the political challenges for President Biden and his economic team, who have sought in recent weeks to reassure wary Americans that the specter of inflation is beginning to fade and the country is shifting toward more stable growth.
+The president has identified inflation as his top economic priority, saying that he understands the pain consumers are feeling from soaring costs for gasoline, housing, food and other necessities. Yet his top advisers have expressed confidence that price growth is beginning to cool across much of the economy, as the Federal Reserve moves to raise interest rates and government efforts to repair pandemic-snarled supply chains show more signs of success.
+Friday’s release of Consumer Price Index data from the Labor Department contradicted, at least for a month, some of the administration’s more optimistic predictions. It showed prices of goods, like cars, eggs and clothing, growing faster in May than they did in April. A senior White House official told reporters in a background call on Thursday that the administration expected goods inflation to moderate in the months to come, specifically citing the car market, which has been pinched by semiconductor shortages and a resurgence of demand for vehicles.
+The report also illustrated the degree to which the global shocks of the war in Ukraine continue to push American prices higher, particularly for energy and food.
+Polls consistently show voters rate inflation as the country’s top economic problem and expect it to worsen. Mr. Biden has sought to empathize with those concerns while trying to persuade Americans that the economy is on stronger footing than they might believe — and, crucially, that his administration and the Fed have the country on the road to improvement.
+After Friday’s report, Mr. Biden issued a statement blaming Russian President Vladimir V. Putin for rising prices and vowed to “continue to do everything we can to lower prices for the American people.”
+“Today’s report underscores why I have made fighting inflation my top economic priority,” the president said in a statement. “While it is good to see critical ‘core’ inflation moderating, it is not coming down as sharply and as quickly as we must see.”
+White House officials have declined to set a timeline for when they expect price growth to slow considerably. But they have pointed to progress in the labor market — like a decline in the number of job openings per unemployed worker — as a sign that the economy is beginning to rebalance.
+In a speech Friday at the Port of Los Angeles, Mr. Biden expressed empathy with Americans struggling with higher prices. He criticized global shipping companies for raising prices and domestic oil drillers for buying back stock instead of investing in new drilling wells. He repeatedly championed his administration’s efforts to unclog ports and untangle supply chains over the last year, while praising the strength of the job market. 
+“Because of the strong foundation we built, we are better positioned than just about any country in the world to overcome the global inflation we’re seeing,” Mr. Biden said. 
+The economy, he said, “is strong as can be, but for inflation — but for gas and food.”
+— Jim Tankersley 
+Travel isn’t getting any cheaper.
+Strong demand after two years of pandemic lockdowns and other factors drove up already high airfare and hotel prices last month, with both reaching record highs.
+Flight prices in May were up nearly 13 percent from the month before and almost 38 percent from May 2021. Hotel prices increased only slightly from April to May, but were up 22 percent from a year earlier.
+The price of an overnight stay at a hotel, motel or other form of lodging away from home has risen relatively steadily over the past three decades, though it fluctuated when demand for travel was disrupted by the Sept. 11 terrorist attacks, the 2008 financial crisis and coronavirus pandemic.
+Airfares have been more erratic, stagnating for years after the terrorist attacks in 2001. Ticket prices climbed steadily from 2009 to 2013, when prices peaked. In the years that followed, though, fares slowly declined and then plunged when the pandemic took hold.
+“If you look at fares, while they’re up a lot from prepandemic lows, in real terms our fares in the second quarter are going to be back to about where they were in 2014,” Scott Kirby, the chief executive of United Airlines, said at an investor conference last week.
+The average price of a domestic round-trip flight is $403, up 33 percent compared with the same time in 2019, according to Hopper, a travel booking site. International trips are averaging $1039, up 17 percent from 2019.
+Demand for flights is especially high this year because pandemic restrictions have been eliminated or eased in much of the country. Many people have also been eager to shift their spending from goods to services after not traveling much in the last two years. Fares have also been driven higher by the rising cost of jet fuel. Airlines have also been cautious about adding too many flights this summer for fear that tight schedules would make it difficult to overcome disruptions, causing a repeat of several disastrous episodes last summer and over the winter holidays.
+Weekend getaways are especially popular this summer, as travelers take shorter trips than they had before the pandemic, according to Hopper. Within the United States, Atlanta, Denver, Las Vegas, Los Angeles, Miami and San Juan, P.R., are popular weekend destinations. Popular international destinations include Cancun, Mexico; Mexico City; Vancouver, British Columbia; and Toronto.
+Hopper found that fares for flights later in the summer are generally a better deal than those earlier in the season. Travelers can save more than $100 each on the cost of a domestic flight and hotel stay if they plan trips in late August rather than in June or July.
+— Niraj Chokshi 
+Energy prices were a major source of Americans’ inflation woes last month as attempts to increase oil production yielded little new supply and drivers began vacation road trips.
+The price of gasoline rose 4.1 percent in May over the previous month, bringing the increase from a year ago to 48.7 percent. According to the Energy Information Administration, gas averaged $4.88 per gallon in the most recent weekly survey, up nearly $2 from last May and a record in nominal terms — though still below the inflation-adjusted record of about $5.50 in July 2008.
+High gasoline prices disproportionately hurt lower-income drivers, who have far fewer electric vehicles and tend to drive older, less efficient cars. In recognition of the price increases, the Internal Revenue Service on Thursday took the unusual step of issuing a midyear update to the rates for mileage that taxpayers can deduct as a business expense.
+Despite rising prices, Americans overall have continued to increase their mileage for travel and daily commutes, according to data published by the Department of Transportation.
+As a whole, the energy price index rose 3.9 percent for the month and is 34.6 percent higher than a year ago.
+Fuel oil, although a lesser contributor to the overall inflation number, rose 16.9 percent, and stands at 106.7 percent above the rate this month last year.
+The stomach-churning prices result from several factors: demand returning to the global economy while supply remains stubbornly low, a widespread boycott of oil from Russia since its invasion of Ukraine and China’s decision to restrict exports of its own oil.
+The White House has taken steps to keep prices in check, such as releasing a million barrels a day from the Strategic Petroleum Reserve and trying to repair relations with Saudi Arabia. But the cartel dominated by the Saudis, the Organization of the Petroleum Exporting Countries, has benefited from keeping prices high.
+“Even last week, when they accelerated their production increases, the additional amount of oil they agreed to put on the market was negligible,” said Mark Finley, a former economist for BP who is now a fellow at Rice University’s Baker Institute for Public Policy.
+The U.S. Department of Energy expects gasoline prices to decline in the third quarter, but as domestic inventories continue to fall and geopolitical tensions persist, that’s far from a sure bet.
+— Lydia DePillis 
+Food prices rose 1.2 percent in May from the previous month, pushing up overall inflation as consumers were forced to shell out more for eggs, dairy products and meat at the grocery store.
+The increase was driven by a 5 percent increase in the price of eggs from the previous month, as bird flu continued to decimate chicken stocks, as well as a 2.9 percent increase in the price of dairy products and 1.7 percent increase in nonalcoholic beverages.
+The monthly growth rate for overall food prices accelerated from a 0.9 percent increase the prior month. On an annual basis, the food index rose 10.1 percent, the first increase to top 10 percent since 1981, according to the Bureau of Labor Statistics.
+An index measuring the price of food at home climbed 11.9 percent over the past year, the largest annual increase since 1979, as five of the government’s six major categories for grocery store food rose by more than 10 percent. The price of food at restaurants also continued to rise. The index for food away from home rose 7.4 percent from the previous year, the biggest increase since 1981.
+While soaring prices for rent and gasoline also helped to push up overall inflation in May, food prices are one of the most tangible aspects of inflation for consumers, and one that hits poor households particularly hard.
+Rising costs for fertilizer, gasoline and other farm inputs have made it more expensive to produce and transport food in the United States and around the world, translating into higher food prices for consumers.
+The conflict in Ukraine, which has halted shipments of wheat, edible oils and fertilizer, continues to put upward pressure on food prices, along with ongoing port congestion, the U.S. Department of Agriculture has said.
+An outbreak of the bird flu has also led to the loss of millions of chickens in Iowa and surrounding states. That has made supplies of poultry and eggs scarce and sent prices soaring, though it has also reduced international demand for these American products.
+The U.S. Department of Agriculture predicts that the price of eggs received at the farm will soar roughly 75 percent this year, translating to a 19.5 to 20.5 percent increase at the store, where prices tend to be less volatile.
+— Ana Swanson 
+The cost of renting an apartment or home is climbing quickly, keeping inflation high and making life tougher for households on a tight budget.
+The price of renting a primary residence climbed by 5.2 percent in the year through May, with the cost rising 0.6 percent compared with the prior month, matching its quick pace in April. A measure that uses rents to estimate the consumption value of owning a home is also picking up rapidly, and actually accelerated slightly on a monthly basis.
+Housing costs make up a big part of the overall inflation index, so they are keeping pressure on prices overall even as the Federal Reserve raises interest rates to cool inflation down. In fact, there could be a period when higher mortgage rates prevent renters from moving into homeownership, keeping the rental market stretched.
+Further rent inflation is a near inevitability. Market rents increased sharply throughout 2021, and those trends seep slowly into the official inflation data, since they measure not just new leases but also existing rentals. 
+“The rental market feels very tight: Vacancies are very low, and because of that rents are raising at a strong clip,” Igor Popov, the chief economist at Apartment List, a listing site, said ahead of the inflation report. “Rent growth and occupancy are off of Everest peak and back at base camp, but we’re still a long way from the sea.”
+— Jeanna Smialek 
+June 23
+					
+June 24
+					
+3,750
+					
+3,800
+					
+3,850
+					
+3,900
+					
+Data delayed at least 15 minutes
+Source: FactSet
+Stocks tumbled and bond yields jumped after consumer price data for May showed a higher-than-expected surge in inflation, indicating that policymakers would need to continue their aggressive attempts to slow the economy.
+The S&P 500 fell 2.9 percent on Friday. Yields on short-term government bonds, which serve as benchmarks for borrowing costs, rose sharply. The two-year Treasury note rose above 3 percent.
+For investors, the critical question was whether the inflation data would spur the Federal Reserve to raise interest rates higher or more quickly than expected, and what the rapid rise in borrowing costs could mean for the economy. The central bank is expected to raise its benchmark rate by half a percentage point next week.
+It would be “a massive surprise” if the Fed didn’t raise interest rates by a half-point in July, Jim Reid of Deutsche Bank wrote in a morning note, so the market’s main reaction would come from investors reassessing the size of a September increase based on the details in the inflation report.
+The S&P 500 dropped 2.4 percent on Thursday, its largest daily decline in about three weeks. The index ended the week with a drop of more than 5 percent, its worst showing since late January.
+Those losses mean that the index is now down 18.7 percent from its Jan. 3 record, bringing it back within reach of bear-market territory — a drop of 20 percent from a high — which signals a serious shift in investor sentiment on Wall Street. The index briefly dipped into bear territory last month, before recovering and closing just above that psychologically significant level.
+— Jason Karaian and Jeff Sommer 
+It can be helpful to think of the causes of today’s inflation as falling into three related buckets.
+Strong demand. Consumers are spending big. Early in the pandemic, households amassed savings as they were stuck at home, and government support that continued into 2021 helped them put away even more money. Now people are taking jobs and winning wage increases. All those factors have padded household bank accounts, enabling families to spend on everything from backyard grills and beach vacations to cars and kitchen tables.
+Too few goods. As families have taken pandemic savings and tried to buy pickup trucks and computer screens, they have run into a problem: There have been too few goods to go around. Factory shutdowns tied to the pandemic, global shipping backlogs and reduced production have snowballed into a parts-and-products shortage. Because demand has outstripped the supply of goods, companies have been able to charge more without losing customers.
+Now, China’s latest lockdowns are exacerbating supply chain snarls. At the same time, the war in Ukraine is cutting into the world’s supply of food and fuel, pushing overall inflation higher and feeding into the cost of other products and services. Gas prices are averaging around $5 a gallon nationally, up from just over $3 a year ago.
+Service-sector pressures. More recently, people have been shifting their spending away from things and back toward experiences as they learn to live with the coronavirus — and inflation has been bubbling up in service industries. Rents are climbing swiftly as Americans compete for a limited supply of apartments, restaurant bills are heading higher as food and labor costs rise, and airline tickets and hotel rooms cost more because people are eager to travel and because inputs like fuel and labor are more expensive.
+You might be wondering: What role does corporate greed play in all this? It is true that companies have been raking in unusually big profits as they raise prices by more than is needed to cover rising costs. But they are able to do that because demand is so strong — consumers are spending right through price increases. It is unclear how long that pricing power will last. Some companies, like Target, have already signaled that they will begin to lower prices as they try to clear out inventory and keep customers coming.
+— Jeanna Smialek 
+Economists and policymakers are closely watching America’s two primary inflation gauges: The Consumer Price Index, which was released on Friday, and the Personal Consumption Expenditures index.
+The C.P.I. captures how much consumers pay out of pocket for things they buy, and it comes out earlier, making it the nation’s first clear glimpse at what inflation did the month before. Data from the index is also used to come up with the P.C.E. figures.
+The P.C.E. index, which will be released next on June 30, tracks how much things actually cost. For instance, it counts the price of health care procedures even when the government and insurance help pay for them. It tends to be less volatile, and it is the index the Federal Reserve looks to when it tries to achieve 2 percent inflation on average over time. As of April, the P.C.E. index was climbing by 6.3 percent compared with the prior year — more than three times the central bank target.
+Fed officials are paying close attention to changes in month-to-month inflation to get a sense of its momentum.
+Policymakers are also particularly attuned to the so-called core inflation measure, which strips out food and fuel prices. While groceries and gas make up a big part of household budgets, they also jump around in price in response to changes in global supply. As a result, they don’t give as clear a read on the underlying inflationary pressures in the economy — the ones the Fed believes it can do something about.
+“I’m going to be looking to see a consistent string of decelerating monthly prints on core inflation before I’m going to feel more confident that we’re getting to the kind of inflation trajectory that’s going to get us back to our 2 percent goal,” Lael Brainard, the vice chair of the Fed and one of its key public messengers, said during a CNBC interview last week.
+— Jeanna Smialek 
+How long prices will continue to climb rapidly is anyone’s guess: Inflation has confounded experts repeatedly since the pandemic took hold in 2020. But based on the drivers behind today’s hot prices, a few outcomes appear likely.
+For one, quick inflation seems unlikely to go away entirely on its own. Wages are climbing much more rapidly than normal. That means unless companies suddenly get more efficient, they will probably try to continue to increase prices to cover their labor costs.
+As a result, the Fed is raising interest rates to slow demand and tamp down wage and price growth. The central bank’s policy response means that the economy is almost surely headed for a slowdown. Already, higher borrowing costs have begun to cool off the housing market.
+The question — and big uncertainty — is how much Fed action will be needed to bring inflation under control. If America gets lucky and supply chain shortages ease, the Fed might be able to let the economy down gently, slowing the job market enough to temper wage growth without causing a recession.
+In that optimistic scenario, often called a soft landing, companies will be forced to lower their prices and pare their big profits as supply and demand come into balance and they compete for customers again.
+But it is also possible that supply issues will persist, leaving the Fed with a more difficult task: raising rates more drastically to slow demand enough to bring price increases under control.
+“The path toward a soft landing is a very narrow one — narrow to the point where we expect a recession as the baseline,” said Matthew Luzzetti, chief U.S. economist at Deutsche Bank. That’s partly because consumer spending shows little sign of cracking so far.
+Households still have about $2.3 trillion of excess savings to help them weather higher rates and prices, Mr. Luzzetti’s team has estimated.
+“There continues to be deep pockets of pent-up demand,” Anthony G. Capuano, chief executive of the hotel company Marriott International, said during a June 7 call with analysts. “Unlike previous economic cycles and economic downturns, here you have this added dimension which was folks were locked down for 12 to 24 months.”
+While uncertainty is high, economists in a Bloomberg survey said they expected Consumer Price Index inflation to remain at 6.3 percent — lower, but still sharply elevated — as of the end of this year.
+— Jeanna Smialek 
+Russia’s invasion of Ukraine has caused inflation to become stubbornly entrenched in countries around the globe.
+Prices rose last year on the back of supply chain clogs, shutdowns related to Covid-19 and rising energy costs — problems that were expected to fade in 2022.
+Six months ago, the Organization for Economic Cooperation and Development estimated that hardly any of its 38 members would see inflation rates rise above 6 percent. The main exceptions were Turkey and Argentina, which were already contending with runaway inflation mostly unrelated to the pandemic.
+Since then, sanctions against Russia, one of the world’s top energy and grain producers, have supercharged food, fuel and fertilizer prices. Russian bombing, blockades and seizures have cut off the flow of grain from Ukraine, another top producer, raising the specter of famine in the poorest food-importing nations.
+At the same time, China’s policy of locking down areas where there are Covid-19 outbreaks has exacerbated the problem.
+This week, the O.E.C.D. announced sobering updates. In seven eastern European nations, the inflation rate is now expected to surge past double digits. The estimated rate for the Netherlands this year nearly tripled to 9.2 percent; Australia’s doubled to 5.3 percent. And like the United States, where inflation rose 8.6 percent through May, Britain and Germany have seen inflation rates hit four-decade highs, well above previous forecasts.
+This is likely to eat away at households’ incomes and savings while stunting efforts by companies to invest and create jobs.
+Central banks in the United States, Britain, Australia and India have all recently moved aggressively to contain rapidly rising prices by raising interest rates. Even the European Central Bank, which had been reluctant to raise rates for fear of triggering a recession, said Thursday that it would end asset purchases and raise its key interest rate by a quarter-point at its meeting next month, and possibly by even more in September.
+But there is a limit to what political and financial leaders can do about rising inflation — especially given the varying causes. In many regions, like Europe, inflation is driven by significant spikes in food and energy prices. Raising rates won’t solve the underlying supply problems, the O.E.C.D. warned.
+By contrast, the organization partly blamed inflation in the United States on “over-buoyant demand,” which is more responsive to tighter monetary policy. Compared with Europe, the U.S. labor market is tighter and nominal wage growth is higher.
+Though inflation is causing intense pain in some spots, the longer-term forecast is more positive. The World Bank expects the rate of global consumer price inflation to drop below 3 percent next year.
+— Patricia Cohen 

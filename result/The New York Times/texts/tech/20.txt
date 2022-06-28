@@ -1,0 +1,100 @@
+
+The gene-editing technology has led to innovations in medicine, evolution and agriculture — and raised profound ethical questions about altering human DNA.
+Credit...Mirko Ilić
+Supported by
+Send any friend a story
+As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.
+By Carl Zimmer
+Ten years ago this week, Jennifer Doudna and her colleagues published the results of a test-tube experiment on bacterial genes. When the study came out in the journal Science on June 28, 2012, it did not make headline news. In fact, over the next few weeks, it did not make any news at all.
+Looking back, Dr. Doudna wondered if the oversight had something to do with the wonky title she and her colleagues had chosen for the study: “A Programmable Dual RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity.”
+“I suppose if I were writing the paper today, I would have chosen a different title,” Dr. Doudna, a biochemist at the University of California, Berkeley, said in an interview.
+Far from an esoteric finding, the discovery pointed to a new method for editing DNA, one that might even make it possible to change human genes.
+“I remember thinking very clearly, when we publish this paper, it’s like firing the starting gun at a race,” she said.
+In just a decade, CRISPR has become one of the most celebrated inventions in modern biology. It is swiftly changing how medical researchers study diseases: Cancer biologists are using the method to discover hidden vulnerabilities of tumor cells. Doctors are using CRISPR to edit genes that cause hereditary diseases.
+Cas9 enzyme
+DNA
+Guide RNA
+Matching DNA
+1. Target the right gene
+Scientists engineer a piece of RNA that is a match for the DNA they want to edit. This is called the guide RNA.
+2. Bind the target
+An enzyme called Cas9 binds to a piece of DNA and temporarily unwinds a section of the DNA.
+3. Cut the DNA
+If the guide RNA matches a section of the DNA, the Cas9 enzyme cuts both strands of the DNA double helix.
+Repaired DNA with edited section
+DNA fragments cut by Cas9
+Inserted DNA
+4. Repair and edit the DNA
+Machinery inside the cell rushes to fix the broken DNA. One repair process uses a similar-looking, unbroken piece of DNA as a template to stitch the broken pieces back together.
+Scientists can introduce tailor-made DNA into the cell — tricking the repair machinery into using the engineered DNA as the template for stitching together the broken pieces.
+Cas9 enzyme
+DNA
+Guide RNA
+Matching DNA
+1. Target the right gene
+Scientists engineer a piece of RNA that is a match for the DNA they want to edit. This is called the guide RNA.
+2. Bind the target
+An enzyme called Cas9 binds to a piece of DNA and temporarily unwinds a section of the DNA.
+3. Cut the DNA
+If the guide RNA matches a section of the DNA, the Cas9 enzyme cuts both strands of the DNA double helix.
+DNA fragments cut by Cas9
+Repaired DNA with edited section
+Inserted DNA
+4. Repair and edit the DNA
+Machinery inside the cell rushes to fix the broken DNA. One repair process uses a similar-looking, unbroken piece of DNA as a template to stitch the broken pieces back together.
+Scientists can introduce tailor-made DNA into the cell — tricking the repair machinery into using the engineered DNA as the template for stitching together the broken pieces.
+Note: Diagram is simplified.
+Source: Howard Hughes Medical Institute; instructor materials from Bio-Rad’s Explorer education program
+Eleanor Lutz
+“The era of human gene editing isn’t coming,” said David Liu, a biologist at Harvard University. “It’s here.”
+But CRISPR’s influence extends far beyond medicine. Evolutionary biologists are using the technology to study Neanderthal brains and to investigate how our ape ancestors lost their tails. Plant biologists have edited seeds to produce crops with new vitamins or with the ability to withstand diseases. Some of them may reach supermarket shelves in the next few years.
+CRISPR has had such a quick impact that Dr. Doudna and her collaborator, Emmanuelle Charpentier of the Max Planck Unit for the Science of Pathogens in Berlin, won the 2020 Nobel Prize for chemistry. The award committee hailed their 2012 study as “an epoch-making experiment.”
+Dr. Doudna recognized early on that CRISPR would pose a number of thorny ethical questions, and after a decade of its development, those questions are more urgent than ever.
+Will the coming wave of CRISPR-altered crops feed the world and help poor farmers or only enrich agribusiness giants that invest in the technology? Will CRISPR-based medicine improve health for vulnerable people across the world, or come with a million-dollar price tag?
+The most profound ethical question about CRISPR is how future generations might use the technology to alter human embryos. This notion was simply a thought experiment until 2018, when He Jiankui, a biophysicist in China, edited a gene in human embryos to confer resistance to H.I.V. Three of the modified embryos were implanted in women in the Chinese city of Shenzen.
+In 2019, a court sentenced Dr. He to prison for “illegal medical practices.” MIT Technology Review reported in April that he had recently been released. Little is known about the health of the three children, who are now toddlers.
+Scientists don’t know of anyone else who has followed Dr. He’s example — yet. But as CRISPR continues to improve, editing human embryos may eventually become a safe and effective treatment for a variety of diseases.
+Will it then become acceptable, or even routine, to repair disease-causing genes in an embryo in the lab? What if parents wanted to insert traits that they found more desirable — like those related to height, eye color or intelligence?
+Françoise Baylis, a bioethicist at Dalhousie University in Nova Scotia, worries that the public is still not ready to grapple with such questions.
+“I’m skeptical about the depth of understanding about what’s at issue there,” she said. “There’s a difference between making people better and making better people.”
+Dr. Doudna and Dr. Charpentier did not invent their gene-editing method from scratch. They borrowed their molecular tools from bacteria.
+In the 1980s, microbiologists discovered puzzling stretches of DNA in bacteria, later called Clustered Regularly Interspaced Short Palindromic Repeats. Further research revealed that bacteria used these CRISPR sequences as weapons against invading viruses.
+The bacteria turned these sequences into genetic material, called RNA, that could stick precisely to a short stretch of an invading virus’s genes. These RNA molecules carry proteins with them that act like molecular scissors, slicing the viral genes and halting the infection.
+As Dr. Doudna and Dr. Charpentier investigated CRISPR, they realized that the system might allow them to cut a sequence of DNA of their own choosing. All they needed to do was make a matching piece of RNA.
+To test this revolutionary idea, they created a batch of identical pieces of DNA. They then crafted another batch of RNA molecules, programming all of them to home in on the same spot on the DNA. Finally, they mixed the DNA, the RNA and molecular scissors together in test tubes. They discovered that many of the DNA molecules had been cut at precisely the right spot.
+For months Dr. Doudna oversaw a series of round-the-clock experiments to see if CRISPR might work not only in a test tube, but also in living cells. She pushed her team hard, suspecting that many other scientists were also on the chase. That hunch soon proved correct.
+In January 2013, five teams of scientists published studies in which they successfully used CRISPR in living animal or human cells. Dr. Doudna did not win that race; the first two published papers came from two labs in Cambridge, Mass. — one at the Broad Institute of M.I.T. and Harvard, and the other at Harvard.
+Lukas Dow, a cancer biologist at Weill Cornell Medicine, vividly remembers learning about CRISPR’s potential. “Reading the papers, it looked amazing,” he recalled.
+Dr. Dow and his colleagues soon found that the method reliably snipped out pieces of DNA in human cancer cells.
+“It became a verb to drop,” Dr. Dow said. “A lot of people would say, ‘Did you CRISPR that?’”
+Cancer biologists began systematically altering every gene in cancer cells to see which ones mattered to the disease. Researchers at KSQ Therapeutics, also in Cambridge, used CRISPR to discover a gene that is essential for the growth of certain tumors, for example, and last year, they began a clinical trial of a drug that blocks the gene.
+Caribou Biosciences, co-founded by Dr. Doudna, and CRISPR Therapeutics, co-founded by Dr. Charpentier, are both running clinical trials for CRISPR treatments that fight cancer in another way: by editing immune cells to more aggressively attack tumors.
+Those companies and several others are also using CRISPR to try to reverse hereditary diseases. On June 12, researchers from CRISPR Therapeutics and Vertex, a Boston-based biotech firm, presented at a scientific meeting new results from their clinical trial involving 75 volunteers who had sickle-cell anemia or beta thalassemia. These diseases impair hemoglobin, a protein in red blood cells that carries oxygen.
+The researchers took advantage of the fact that humans have more than one hemoglobin gene. One copy, called fetal hemoglobin, is typically active only in fetuses, shutting down within a few months after birth.
+The researchers extracted immature blood cells from the bone marrow of the volunteers. They then used CRISPR to snip out the switch that would typically turn off the fetal hemoglobin gene. When the edited cells were returned to patients, they could develop into red blood cells rife with hemoglobin.
+Speaking at a hematology conference, the researchers reported that out of 44 treated patients with beta thalassemia, 42 no longer needed regular blood transfusions. None of the 31 sickle cell patients experienced painful drops in oxygen that would have normally sent them to the hospital.
+CRISPR Therapeutics and Vertex expect to ask government regulators by the end of year to approve the treatment.
+Other companies are injecting CRISPR molecules directly into the body. Intellia Therapeutics, based in Cambridge and also co-founded by Dr. Doudna, has teamed up with Regeneron, based in Westchester County, N.Y., to begin a clinical trial to treat transthyretin amyloidosis, a rare disease in which a damaged liver protein becomes lethal as it builds up in the blood.
+Doctors injected CRISPR molecules into the volunteers’ livers to shut down the defective gene. Speaking at a scientific conference last Friday, Intellia researchers reported that a single dose of the treatment produced a significant drop in the protein level in volunteers’ blood for as long as a year thus far.
+The same technology that allows medical researchers to tinker with human cells is letting agricultural scientists alter crop genes. When the first wave of CRISPR studies came out, Catherine Feuillet, an expert on wheat, who was then at the French National Institute for Agricultural Research, immediately saw its potential for her own work.
+“I said, ‘Oh my God, we have a tool,’” she said. “We can put breeding on steroids.”
+At Inari Agriculture, a company in Cambridge, Dr. Feuillet is overseeing efforts to use CRISPR to make breeds of soybeans and other crops that use less water and fertilizer. Outside of the United States, British researchers have used CRISPR to breed a tomato that can produce vitamin D.
+Kevin Pixley, a plant scientist at the International Maize and Wheat Improvement Center in Mexico City, said that CRISPR is important to plant breeding not only because it’s powerful, but because it’s relatively cheap. Even small labs can create disease-resistant cassavas or drought-resistant bananas, which could benefit poor nations but would not interest companies looking for hefty financial returns.
+Because of CRISPR’s use for so many different industries, its patent has been the subject of a long-running dispute. Groups led by the Broad Institute and the University of California both filed patents for the original version of gene editing based on CRISPR-Cas9 in living cells. The Broad Institute won a patent in 2014, and the University of California responded with a court challenge.
+In February of this year, the U.S. Patent Trial and Appeal Board issued what is most likely the final word on this dispute. They ruled in favor of the Broad Institute.
+Jacob Sherkow, an expert on biotech patents at the University of Illinois College of Law, predicted that companies that have licensed the CRISPR technology from the University of California will need to honor the Broad Institute patent.
+“The big-ticket CRISPR companies, the ones that are farthest along in clinical trials, are almost certainly going to need to write the Broad Institute a really big check,” he said.
+The original CRISPR system, known as CRISPR-Cas9, leaves plenty of room for improvement. The molecules are good at snipping out DNA, but they’re not as good at inserting new pieces in their place. Sometimes CRISPR-Cas9 misses its target, cutting DNA in the wrong place. And even when the molecules do their jobs correctly, cells can make mistakes as they repair the loose ends of DNA left behind.
+A number of scientists have invented new versions of CRISPR that overcome some of these shortcomings. At Harvard, for example, Dr. Liu and his colleagues have used CRISPR to make a nick in one of DNA’s two strands, rather than breaking them entirely. This process, known as base editing, lets them precisely change a single genetic letter of DNA with much less risk of genetic damage.
+Dr. Liu has co-founded a company called Beam Therapeutics to create base-editing drugs. Later this year, the company will test its first drug on people with sickle cell anemia.
+Dr. Liu and his colleagues have also attached CRISPR molecules to a protein that viruses use to insert their genes into their host’s DNA. This new method, called prime editing, could enable CRISPR to alter longer stretches of genetic material.
+“Prime editors are kind of like DNA word processors,” Dr. Liu said. “They actually perform a search and replace function on DNA.”
+Rodolphe Barrangou, a CRISPR expert at North Carolina State University and a founder of Intellia Therapeutics, predicted that prime editing would eventually become a part of the standard CRISPR toolbox. But for now, he said, the technique was still too complex to become widely used. “It’s not quite ready for prime time, pun intended,” he said.
+Advances like prime editing didn’t yet exist in 2018, when Dr. He set out to edit human embryos in Shenzen. He used the standard CRISPR-Cas9 system that Dr. Doudna and others had developed years before.
+Dr. He hoped to endow babies with resistance to H.I.V. by snipping a piece of a gene called CCR5 from the DNA of embryos. People who naturally carry the same mutation rarely get infected by H.I.V.
+In November 2018, Dr. He announced that a pair of twin girls had been born with his gene edits. The announcement took many scientists like Dr. Doudna by surprise, and they roundly condemned him for putting the health of the babies in jeopardy with untested procedures.
+Dr. Baylis of Dalhousie University criticized Dr. He for the way he reportedly presented the procedure to the parents, downplaying the radical experiment they were about to undertake. “You could not get an informed consent, unless you were saying, ‘This is pie in the sky. Nobody’s ever done it,’” she said.
+In the nearly four years since Dr. He’s announcement, scientists have continued to use CRISPR on human embryos. But they have studied embryos only when they’re tiny clumps of cells to find clues about the earliest stages of development. These studies could potentially lead to new treatments for infertility.
+Bieke Bekaert, a graduate student in reproductive biology at Ghent University in Belgium, said that CRISPR remains challenging to use in human embryos. Breaking DNA in these cells can lead to drastic rearrangements in the chromosomes. “It’s more difficult than we thought,” said Ms. Bekaert, the lead author of a recent review of the subject. “We don’t really know what is happening.”
+Still, Ms. Bekaert held out hope that prime editing and other improvements on CRISPR could allow scientists to make reliably precise changes to human embryos. “Five years is way too early, but I think in my lifetime it may happen,” she said.
+Advertisement

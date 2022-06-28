@@ -1,0 +1,67 @@
+
+https://www.wsj.com/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883
+Artificial-intelligence startup investors are turning their focus to accounting software, a traditionally subdued corner of business technology, as companies prepare for a potential economic slowdown.
+Many investors are betting that inflation, higher interest rates and recession fears will prompt companies to redouble efforts to track and control spending, boosting demand for automated accounting tools. At the same time, investors say, many businesses are likely to hit pause on spending in areas of IT with no immediate impact on the bottom line.
+World-wide, startups making AI-powered accounting software amassed $233.3 million in venture capital between January and the end of March, surpassing the $210.2 million in funding for all of 2021, according to research provider PitchBook Data Inc. By contrast, funding declined over the first quarter for startups building AI-enabled tools in areas like media and entertainment, processor design and autonomous vehicles, among dozens of other software categories, said Brendan Burke, PitchBook’s senior analyst for emerging technology. 
+ The Morning Download delivers daily insights and news on business technology from the CIO Journal team. 
+The most advanced AI accounting platforms include capabilities like computer vision that can rapidly extract data from receipts and invoices with a high degree of accuracy—even leveraging machine learning and predictive analytics to fill in missing entries in expense reports, say investors, industry analysts and startup founders.
+Demand for spending management and expense-report apps is expected to rise as companies brace for rising inflation and higher interest rates by keeping a closer eye on spending, they say.
+Many companies are counting on such tools to help streamline and automate certain financial operations, freeing staff for higher-level work.
+“Core accounting has become increasingly complex due to economic factors like supply-chain disruptions, labor shortages and inflation,” said Bonita Stewart, a board partner at venture-capital firm Gradient Ventures, an investor in AI accounting startup Botkeeper Inc.
+Though the wider accounting-software market is dominated by enterprise-tech stalwarts such as
+
+
+
+
+
+
+
+
+
+
+            Microsoft Corp.
+
+
+      ,
+
+
+
+
+
+
+
+
+
+
+            Oracle Corp.
+
+
+      and Intuit Inc., smaller developers are attracting attention by turbocharging standard number-crunching apps with AI and machine-learning capabilities.
+
+Lemonade Inc.,
+
+
+      a New York-based insurance firm with 1.5 million customers and more than $120 million in annual sales, according to the company, uses an AI accounting platform developed by Dallas-based startup Trullion Ltd. to automate the process of managing entries in its general ledger and regulatory disclosures.
+“No more sifting through lengthy leases to find a handful of meaningful financial terms,” said Anthony Irwin, Lemonade’s senior director of finance and controller.
+PitchBook tracked six funding deals involving AI accounting startups during the first quarter of 2022, putting the year on pace to surpass the 17 deals struck in 2021.
+“AI accounting automation investment is growing from a low base,” PitchBook’s Mr. Burke said. Many of these startups are gaining wider attention among investors by adapting and fine-tuning computer-vision systems, a field of AI that enables computers to identify digital images and video, which are already driving growth for other financial technology companies in areas like lending and insurance, he said.
+The global accounting-software market is expected to expand over the next five years by a compound annual growth rate of nearly 10%, or roughly $7 billion annually, according to market research firm Technavio.
+Yokoy Group AG, a Switzerland-based AI accounting startup, raised $80 million in a Series B funding round in March, led by Sequoia Capital. Founded three years ago as Expense Robot, the company, which designs end-to-end automation for invoice processing and expense management, raised more than $100 million in the span of just five months.
+Philippe Sahli, Yokoy’s co-founder and chief executive, said the firm’s corporate customers are preparing for economic uncertainty by sharpening their focus on spending cuts and increased efficiency. Demand for the platform has grown over the past year, he said.
+Yokoy’s AI software automatically flags anomalous spending patterns, while its corporate credit cards linked to an algorithmic model can identify transactions that aren’t in line with a company’s expense policies, among other capabilities.
+Trullion co-founder and CEO Isaac Heller said macro effects on the industry such as the Great Resignation, shorter supply of certified public accountants and hybrid workplaces have companies focused on technology. At the same time, Mr. Heller said, market turmoil has shifted company mind-sets away from top-line revenue growth and back toward profitability. 
+Trullion’s AI algorithms are trained to recognize and pull data from a company’s financial records and generate detailed accounting entries and regulatory disclosures. The company has brought in more than 100 new corporate customers within the past six months, Mr. Heller said. Over the same period, revenue has more than doubled, he said. In February, the company closed a $15 million Series A funding round, co-led by Aleph and Third Point Ventures.
+Write to Angus Loten at angus.loten@wsj.com
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

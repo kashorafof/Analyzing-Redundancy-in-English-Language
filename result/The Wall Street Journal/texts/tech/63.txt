@@ -1,0 +1,133 @@
+
+https://www.wsj.com/articles/a-warming-arctic-emerges-as-a-route-for-subsea-cables-11655323903
+Northern countries are racing to build undersea communications cables through the waters of the Arctic, as shrinking ice coverage opens the region to new business opportunities and heightens geopolitical rivalries between Russia and the West.
+Planned cables by a group of Alaskan, Finnish and Japanese companies as well as by the Russian government are competing to create better digital infrastructure in a fragile yet increasingly vital area for defense and scientific research.
+Subsea cables, bundles of fiber-optic lines, carry about 95% of intercontinental voice and data traffic. There are currently over 400 such cables, with signal delay roughly proportional to the length of each cable.
+Because the geographical distance between continents is less at the Arctic than further south, a cable through the region would promise faster communications, experts say. The possibility of a route has become more feasible as accelerated warming has opened the area to development.
+ The Morning Download delivers daily insights and news on business technology from the CIO Journal team. 
+A bank in London transmitting data to Tokyo could do so 30% to 40% faster via an Arctic route than through existing routes which go from London and head East crossing Egypt, said
+
+
+
+
+
+
+
+
+
+      
+      Tim Stronge,
+
+
+
+      analyst at subsea cable analysis firm TeleGeography. Industries like defense, petroleum, gas and fishing as well as scientists doing climate research in the Arctic would all benefit from faster communications, he said, adding that communities living there would also have better internet access.
+Alaskan company Far North Digital LLC, which is partnering with Finland’s Cinia Ltd. and Japan’s
+
+
+
+
+
+
+
+
+
+
+            Arteria Networks Corp.
+
+
+      , plans to build a cable through the Northwest passage, the route that curls around northern Alaska and scattered Canadian islands and loops under Greenland, linking the Atlantic with the Pacific. The company expects to deploy ships to begin survey work in the summer of 2023.
+The proposed Far North Fiber route, which aims to be operational by the end of 2026, would travel approximately 14,000 kilometers, or 8,699 miles, east from Japan, through the Northwest passage and then on to Europe, according to
+
+
+
+
+
+
+
+
+
+      
+      Ethan Berkowitz,
+
+
+
+      a co-founder of Far North Digital. The project has been in the works for several years, he said.
+Mr. Berkowitz said the project has obtained an engineering, procurement and construction contract from Alcatel Submarine Networks and begun the permitting process “at various locations around the route.” The companies are in advanced talks to finance the project, he said, which is expected to cost approximately 1 billion euros, or $1.04 billion.
+Far North Digital is hardly the only company staking a claim on the Northern frontier. A Russian state company, Morsvyazsputnik, made headlines in August when it said it started construction on a 12,650-kilometer cable around its northern and eastern coast.
+The Russian government has been quiet about it since then.  TeleGeography’s Mr. Stronge commented, “It’s our understanding from industry sources that certain segments are active.”
+As the Arctic’s melting opens the region to economic opportunity, the area has become increasingly politicized and geo-economically competitive, said
+
+
+
+
+
+
+
+
+
+      
+      Tim Reilly,
+
+
+
+      a research fellow at the University of Cambridge’s Scott Polar Research Institute. Russia’s war in Ukraine further heightened those tensions, he said.
+“The strategic issue is the quiet, vicious fight for governance of the region using technological means instead of outright conflict,” Dr. Reilly said.
+
+
+
+
+
+
+
+
+
+
+      
+      Nima Khorrami,
+
+
+
+      a Stockholm-based research associate at The Arctic Institute, commented, “Having control over the passage of data, that, in and of itself, is a source of power.”
+The cables represent an intelligence, strategic and economic advantage, said Dr. Reilly. They could help countries manage and intercept big data, better control space-based missile guidance systems and satellites that deliver content and services as a means of global influence, he said.
+“With the likely admission of Finland into NATO, as well as Sweden, it is going to enable communications that we wouldn’t otherwise have,” said Mr. Berkowitz. “This route is more secure and less dependent on the good graces of non-NATO members.”
+
+
+But building a subsea cable in frigid Arctic waters is no small feat, according to
+
+
+
+
+
+
+
+
+
+      
+      Matt Peterson,
+
+
+
+      chief technology officer of Quintillion Subsea Operations, LLC, which operates a 1,180-mile subsea cable around the coast of Alaska.
+The first difficulty is that cable can only be built or worked on during the summer months when ice sheets don’t cover the water’s surface, he said.
+Another risk is when ice plates shift, especially in the shallower waters surrounding Alaska, they risk severing the fiber, he added. Quintillion contracted Alcatel Submarine Networks to create a sea plow that was able to bury the cable deep underneath the seabed in order to avoid that problem, he said.
+Like Far North Digital, Quintillion is also planning to lay new cable. It expects to complete construction on a section connecting Alaska to Asia in about three years, and after that to begin on the Canada to Europe leg.
+Arctic ice does have its advantages, Mr. Berkowitz said. Many subsea cable problems come from boats and anchors dragging and ripping up the bottom. “You don’t have those problems when you have an ice cover,” he said.
+Mr. Berkowitz said he had been thinking about an Arctic cable for about a decade, before the region’s melting made the idea more realistic. “This is an essential piece of infrastructure,” he said.
+“To me, it’s a question of: You look at a map and you see a need,” he said.
+Corrections & Amplifications 
+		
+	There are currently over 400 subsea cables, with signal delay roughly proportional to the length of each cable. An earlier version of this article stated there are currently over 400 such cables, with speed of communications roughly proportional to the length of each cable. (Corrected on June 17)
+Write to Isabelle Bousquette at Isabelle.Bousquette@wsj.com
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

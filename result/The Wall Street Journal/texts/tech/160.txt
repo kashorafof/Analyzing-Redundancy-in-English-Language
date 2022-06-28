@@ -1,0 +1,278 @@
+
+https://www.wsj.com/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470
+Facebook is shifting its artificial-intelligence development out of central research labs and into its product groups, a move aimed at accelerating the technology’s adoption as it pushes for faster growth.
+The move breaks with recent practice at many companies, including Facebook, which concentrated AI research efforts in centralized hubs.
+
+Meta Platforms Inc.,
+
+
+      the social media giant’s parent company, announced plans last week to go the other way—decentralizing how it develops advanced AI and machine learning tools.
+In an online post Thursday,
+
+
+
+
+
+
+
+
+
+
+        Meta’s
+
+
+      Chief Technology Officer
+
+
+
+
+
+
+
+
+
+      
+      Andrew Bosworth
+
+
+
+      said the company’s previous approach, centered around a handful of stand-alone R&D hubs, made it difficult to integrate new AI capabilities across the business.
+“In the new model we will distribute the ownership of these AI systems back to
+
+
+
+
+
+
+
+
+
+
+        Meta’s
+
+
+      product groups,” Mr. Bosworth said. “We believe that this will accelerate the adoption of important new technology across the company while allowing us to continue to push the envelope.”
+ The Morning Download delivers daily insights and news on business technology from the CIO Journal team. 
+After posting lackluster first-quarter earnings and the slowest quarterly sales growth since going public a decade ago,
+
+
+
+
+
+
+
+
+
+
+        Meta
+
+
+      is looking to extract more value out of everything.
+
+
+
+
+
+
+
+
+
+      
+      Javier Olivan,
+
+
+
+      who last week was named successor to departing Chief Operating Officer
+
+
+
+
+
+
+
+
+
+      
+      Sheryl Sandberg,
+
+
+
+      is known for focusing on growth and said he would emphasize growth and efficiencies.
+As part of the restructuring,
+
+
+
+
+
+
+
+
+
+      
+      Jerome Pesenti,
+
+
+
+      who has led overall AI research as head of
+
+
+
+
+
+
+
+
+
+
+        Meta
+
+
+      AI for the past four years, is expected to leave at the end of the month. Mr. Pesenti oversaw key projects such as the ongoing development of an AI supercomputer. 
+Like Meta, many companies with central AI development hubs have found it difficult to convert the emerging capabilities they generated into business assets. With little involvement from other divisions, the hubs operated much like an outsourced AI service.
+“It sends a strong message that they believe it is time to focus on embedding AI into their products,”  said
+
+
+
+
+
+
+
+
+
+      
+      Bill Gropp,
+
+
+
+      director of the National Center for Supercomputing Applications at the University of Illinois at Urbana-Champaign, said of Meta’s reshuffle. The shift signals the company’s focus will be on identifying business applications of AI, rather than a general pursuit of emerging capabilities for their own sake, he said.
+
+
+
+
+
+
+
+
+
+
+      
+      Jon Carvill,
+
+
+
+      a Meta spokesman, said the overall mission of the company’s AI research efforts will remain unchanged under the new structure, as will much of its leadership.
+
+
+
+
+
+
+
+
+
+      
+      Joelle Pineau
+
+
+
+      and
+
+
+
+
+
+
+
+
+
+      
+      Antoine Bordes,
+
+
+
+      who co-lead Facebook AI Research, the company’s core AI research hub, known as FAIR, will remain in those roles, he said. 
+Going forward, however, the research hub itself will operate as part of Meta’s Reality Labs Research group, a division that oversees work on virtual reality, augmented reality and other key components of the metaverse, the company said.
+At its annual developer conference in October, Chief Executive
+
+
+
+
+
+
+
+
+
+      Mark Zuckerberg
+      
+
+
+
+      said changing Facebook’s name to Meta Platforms reflected growth opportunities in the metaverse, where users interact via avatars in video game-like environments, using digital headsets and other tools to work, shop and play. Most tech experts say the metaverse is still several years away.
+In an indication of the company’s commitment, the Reality Labs unit lost nearly $3 billion in the first quarter, the result of added spending on developing headsets, software and other VR tools. Even so, the unit provided one of the few highlights of Meta’s pallid first-quarter earnings, which dropped 21% from a year ago to $7.46 billion: it generated $695 million in sales, up from $534 million a year earlier.
+
+
+
+
+
+
+
+
+
+
+      
+      Nick van der Meulen,
+
+
+
+      a research scientist at the Massachusetts Institute of Technology’s Sloan Center for Information Systems Research, said Meta’s shift to decentralize AI development “emphasizes the importance they place on the role of AI in the future of the metaverse.”
+For a tech-focused organization like Meta, Mr. van der Meulen said, it may no longer make business sense to have the future development of products hinge on a single organizational unit or group: “They have gathered enough experience with AI for it to have become pervasive, and thus core to all of their products,” he said.
+Allowing a product group, like Reality Labs, to develop their own technology means “they don’t have to continuously compete for resources from a centralized team, or state their case for development priorities,” Mr. van der Meulen said. Instead, they can develop their own solutions based on direct feedback from customers, he said.
+“Think of it as research first, then eventually you need proper engineering management and deliverables,” said
+
+
+
+
+
+
+
+
+
+      
+      Eric Schmidt,
+
+
+
+      former chief executive of
+
+
+
+
+
+
+
+
+
+
+            Alphabet Inc.’s
+
+
+      Google and chairman of the federal National Security Commission on Artificial Intelligence. “This is a good example of AI becoming mainstream.”
+Write to Angus Loten at angus.loten@wsj.com
+
+
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+
+      Appeared in the June 7, 2022, print edition as 'Meta Shakes Up AI Unit Amid Drive for Faster Growth.'
+    
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

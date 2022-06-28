@@ -1,0 +1,28 @@
+Advertisement
+By Josh HolderUpdated June 27, 2022
+
+	More than 5.23 billion people worldwide have received a dose of a Covid-19 vaccine, equal to about 68.1 percent of the world population. This map shows the stark gap between vaccination programs in different countries.
+
+
+	The data is compiled from government sources by the Our World in Data project at the University of Oxford. A vaccinated person refers to someone who has received at least one dose of a vaccine, and a fully vaccinated person has received either a single-dose vaccine or both doses of a two-dose vaccine, such as the Pfizer-BioNTech and Moderna shots.
+
+
+	Vaccine doses remain relatively scarce globally. But concerns around waning immunity have prompted many countries, including the United States and Israel, to start administering additional doses.
+
+
+	Additional doses include booster doses given to fully vaccinated individuals when the protection from the original shots has begun to decline, as well as extra shots given to people, such as the immunocompromised, who did not have a strong immune response from their initial doses. More than 2.08 billion additional doses have been administered worldwide, with many more countries expected to start administering them soon.
+
+
+	Less wealthy countries are relying on a vaccine-sharing arrangement called Covax, which originally aimed to provide two billion doses by the end of 2021 but repeatedly cut its forecasts because of production problems, export bans and vaccine hoarding by wealthy nations.
+
+
+	This has led to a striking divide between regions of the world. Africa has the slowest vaccination rate of any continent, with just 22.9 percent of the population receiving at least one dose of a vaccine.
+
+
+	Vaccination rates continue to lag in low-income countries, where only 18 percent of the population has received at least one dose of a vaccine. In high- and upper-middle-income countries, 81 percent of the population has received at least one dose.
+
+
+	Most of the vaccines currently in use require two doses for a patient to be fully vaccinated. In February 2021, the Food and Drug Administration authorized a one-shot vaccine by pharmaceutical giant Johnson & Johnson for emergency use in the United States.
+
+Note: Vaccination data is based on government reports and is provided by the Our World in Data project at the University of Oxford. Data is based on reports at the time of publication. At times, officials revise reports or offer incomplete information. Data for some countries may differ from Our World in Data as The New York Times verifies this information. Visit this page for more information about data for the United States, which includes doses provided to Palau, Micronesia and the Marshall Islands. World totals include Gibraltar and the Isle of Man, but counts for these places are not included in the data for the United Kingdom. Data for Russia was collected by gogov.ru from a variety of regional sources, including government websites and media reports. Russia is reporting data for Crimea, a peninsula it annexed in 2014 in a move that led to international sanctions. Population data and income classifications are from the World Bank.
+Advertisement

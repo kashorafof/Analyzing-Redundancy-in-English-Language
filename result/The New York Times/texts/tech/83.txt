@@ -1,0 +1,31 @@
+Advertisement
+Supported by
+tech fix
+Soon, iPhone owners will be able to edit text messages, and Android owners will be able to send high-resolution photos. Many of the changes are long overdue.
+Send any friend a story
+As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.
+By Brian X. Chen
+CUPERTINO, Calif. — Around this time every year, our smartphones become a reminder to always be ready for change.
+That’s because Apple and Google announce updates to the operating systems that power our iPhones and Android phones. Soon, the software that makes the devices tick will have design tweaks and new features — in other words, new things to learn.
+On Monday, Apple unveiled iOS 16, the next version of its iPhone operating system. It will include new features like a redesigned lock screen and the ability to edit text messages. Last month, Google introduced Android 13, which features a streamlined wallet app for storing credit cards and important documents like vaccine records. Both companies also said they were improving their apps for sending text messages.
+The new iPhone and Android operating systems will arrive on our phones as free updates this fall.
+Apple and Google often accompany these software updates with highfalutin language and promises. “Today we’re going to push our platforms further than ever,” Timothy D. Cook, Apple’s chief executive, said in a prerecorded video for the event announcing the new software.
+But in reality, lots of the changes — especially the ability to retroactively edit a text — are incremental improvements that feel as if they should have happened a long time ago. Here are the most noteworthy updates to look for.
+Apple said it was making a change to the first thing anyone sees when using an iPhone: the lock screen.
+In the past, people could modify only the wallpaper on their lock screens. But with iOS 16, iPhone users can customize the lock screen by choosing from different fonts and colors for the clock. People will also be able to pin “widgets,” which are essentially shortcuts to apps like the phone’s calendar and fitness data tracker, to the lock screen.
+These customizations could help us tailor our phones to our lifestyles. Consider that the new software will let an iPhone user create a number of custom lock screens for different scenarios.
+For example, a lock screen dedicated to work could show a wallpaper of your office building and contain a calendar widget with your next meeting appointment. A lock screen for personal time could show a wallpaper of your dog and an exercise widget. The idea is that people will be able to switch among lock screens to better accommodate their needs throughout the day.
+The pandemic accelerated the use of mobile purchases as many people shifted toward contactless digital payments to avoid touching cash. Apple has had a robust offering for electronic payments for more than five years with its Wallet software for iPhones, which lets people make credit card purchases and carry important documents like boarding passes and health data.
+Google, which has struggled to market its mobile payments technology, took the opportunity last month to delve itself further into payments with Android 13. For years, its Google Pay system severely lagged Apple’s payment system because few Android users understood how to use the technology.
+Last month, Google renamed its digital payments app Google Wallet. The company simplified the technology by embedding a shortcut to the wallet into the Android lock screen. It also plans to expand the software beyond credit cards, to include documents like boarding passes, movie tickets and Covid-19 vaccination proof.
+Anyone who has sent text messages with a phone is familiar with the digital divide between the so-called green bubble and blue bubble.
+When a text message is sent from an Android phone, it shows up as a green bubble on the recipient’s screen, with pictures and videos often pixelated and distorted. That’s because a green bubble message is sent through the phone carrier’s network, which automatically degrades the quality of the image.
+In contrast, blue bubble messages sent between iPhone users go through iMessage, Apple’s proprietary messaging service, which maintains a high-quality look for photos and videos.
+With Android 13, Google is trying to create a blue bubble experience of its own. The company is building into its messaging app a technology called Rich Communication Services, which can send high-resolution images and large files. It will also let people create group conversations, like most modern messaging apps.
+Apple, meanwhile, is making changes to iMessage so that iPhone users can edit or recall messages after they are sent. Retroactive message editing, which would spare us the embarrassment of bizarre autocorrect typos or the accidental pocket text, has been a feature people have wanted for years.
+These days, no software update would be complete without a Big Tech company’s proclaiming that it cares about our privacy. That’s because the tech companies want users to feel safe sharing personal data, especially as European regulators and others have cracked down on them over the issue.
+So naturally, Apple and Google said they were offering more protections to user data in their next operating systems.
+Apple, which has long allowed iPhone users to give family members and romantic partners permanent access to their location data, said it would provide deeper controls for such data sharing should an intimate relationship go awry. Its new software feature, Safety Check, will let people quickly review and revoke access to such data so that they can protect their information from abusers.
+Google said it would give users more control over what data was shared with third-party apps. In the next version of Android, people will also be able to give apps access to just certain photos instead of their entire camera roll — a measure of protection against malicious apps that disguise themselves as photo-editing software.
+If many of these tweaks feel long overdue, that’s because they are. Just as smartphone hardware upgrades have become more and more incremental, the software is also inching toward becoming better — but unremarkably so.
+Advertisement

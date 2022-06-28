@@ -1,0 +1,221 @@
+
+https://www.wsj.com/articles/financial-firms-seek-edge-in-algorithms-inspired-by-quantum-computing-11654855200
+Quantum computing, which promises to significantly increase processing speeds, is still years away from full-scale commercial deployment, but some financial-services firms are turning to quantum-inspired technology for interim benefits.
+Traditional computers store information as either zeros or ones. Quantum computers use quantum bits, or qubits, which represent and store information in a quantum state that is a complex mix of zero and one. Machines capable of supporting this quantum state have the potential to sort through vast numbers of possibilities in nearly real time, potentially allowing them to solve problems beyond the grasp of today’s most advanced computers.
+ The Morning Download delivers daily insights and news on business technology from the CIO Journal team. 
+Quantum-inspired technology is a broad term that relates to using certain algorithms that typically run on quantum computers on fast-processing classical computers instead. These types of algorithms are well suited to solving optimization problems, which are common in the financial-services sector and include things like risk analysis and derivative pricing, according to
+
+
+
+
+
+
+
+
+
+      
+      Carl Dukatz,
+
+
+
+      quantum program lead at
+
+
+
+
+
+
+
+
+
+
+            Accenture
+
+
+      PLC. 
+Interest in quantum-inspired technology has grown as executives hear about developments in true quantum computing, analysts said. Firms including
+
+
+
+
+
+
+
+
+
+
+            HSBC
+
+
+      Holdings PLC,
+
+
+
+
+
+
+
+
+
+
+            Ally Financial Inc.
+
+
+      and Spanish multinational bank
+
+
+
+
+
+
+
+
+
+
+            BBVA
+
+
+      are looking to quantum-inspired technology for near-term advantages.
+Applications of quantum-inspired optimization problems can yield solutions anywhere from 1% to 10% more accurate than existing approaches and can come to solutions anywhere from two to three times as fast, according to
+
+
+
+
+
+
+
+
+
+      
+      Troels Steenstrup,
+
+
+
+      technology head of KPMG’s Global Quantum Hub. 
+According to
+
+
+
+
+
+
+
+
+
+      
+      Will Zeng,
+
+
+
+      head of quantum research at
+
+
+
+
+
+
+
+
+
+
+            Goldman Sachs Group Inc.,
+
+
+      it makes sense that demand from financial services is so high because the industry has well-specified mathematical problems, in which incremental improvements in computing can make huge differences to the bottom line.
+“There’s definitely big, valuable problems that have a theoretical quantum advantage,” Dr. Zeng said.
+Still, quantum computers today are far from ready for large-scale commercial operation. Qubits, the quantum version of a computer bit, are delicate, easily disrupted by changes in temperature, noise or frequency. The number of qubits running in today’s quantum machines remains relatively small, meaning experiments are currently limited to a narrow swath of information. 
+When Google announced plans last year to create a commercial-grade quantum computer by 2029, it said it was aiming for a 1-million-qubit machine, while its systems at the time had less than 100 qubits. 
+
+““There’s definitely big, valuable problems that have a theoretical quantum advantage.””
+
+“The main focus in the near term is really on the quantum-inspired type activity,” said
+
+
+
+
+
+
+
+
+
+      
+      Steve Suarez,
+
+
+
+      HSBC global head of innovation, global functions. The London-based bank initiated an official quantum program in August 2021. 
+Currently, the applications the bank is exploring involve portfolio optimization and pricing, said
+
+
+
+
+
+
+
+
+
+      
+      Philip Intallura,
+
+
+
+      HSBC global business lead for quantum computing. 
+“The inspired technologies lend themselves quite well to that,” Dr. Intallura said.
+Transforming these processes into quantum-inspired solutions first involves rewriting the traditional algorithm as an algorithm that typically runs on quantum machines, according to KPMG’s Dr. Steenstrup. 
+Companies often do optimization problems using linear equations. In one mode of quantum-inspired, those linear equations are rewritten as quadratic equations, in which multiple variables can be multiplied by each other. That is one of a handful of differences between the initial equation and the quantum-inspired process, Dr. Steenstrup said. 
+After the algorithm is rewritten, it is a question of testing it on certain types of classical machines to determine whether the new algorithm works faster and more effectively than the traditional ones.
+Ally Financial started its work in this area during late 2021. Chief Information, Data and Digital Officer
+
+
+
+
+
+
+
+
+
+      
+      Sathish Muthukrishnan
+
+
+
+      said the company has built some quantum-inspired algorithms and is in the process of testing them. He said that currently the work is focused on areas like pricing, portfolio optimization and other business use cases. 
+
+
+Mr. Muthukrishnan said that he hasn’t yet found a quantum-inspired solution that functions so much better than a traditional equation that he has to rush to implement it. 
+“I also want to make sure that I go to market with the most impactful quantum-inspired algorithm I can,” he added. 
+Testing these solutions is also a priority for
+
+
+
+
+
+
+
+
+
+      
+      Escolástico Sánchez,
+
+
+
+      quantum discipline leader at BBVA. Dr. Sánchez said he has been working on proof of concept for several solutions in this area, including an algorithm designed to help with portfolio management.
+Running the algorithm on past data sets has shown promising results, Dr. Sánchez said, although the bank needs to do more work to ensure the solution will work on present and future data sets before it creates a plan to implement. 
+In terms of true quantum, Dr. Sánchez said, “sooner or later, I think that this hardware is going to be valuable and robust enough to resolve some problems better than classical [computers].” 
+Write to Isabelle Bousquette at Isabelle.Bousquette@wsj.com
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+
+      Appeared in the June 13, 2022, print edition as 'Financial Firms Turn to Quantum-Inspired Tech.'
+    
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

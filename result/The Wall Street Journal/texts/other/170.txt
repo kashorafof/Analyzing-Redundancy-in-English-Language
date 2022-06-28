@@ -1,0 +1,96 @@
+
+https://www.wsj.com/articles/insurers-harness-data-to-help-clients-weather-storms-floods-11656063001
+Insurers are using rapidly evolving data tools to help predict, and potentially prevent, storm-related losses, an effort they hope will yield benefits during this year’s hurricane season. 
+The past six years had higher-than-average Atlantic hurricane activity, an unlucky streak for communities in the way. This year’s season—typically defined as June through November—is predicted to be another busy one.
+Though scientists are split on how climate change might be influencing the number of hurricanes, warming is expected to intensify storm surges and rainfall, leading to more flooding.
+Insurers and data providers to that sector have invested in data analysts and climate scientists to build and refine advanced models that can help map out potential damage well before any bad weather hits.
+ Our Morning Risk Report features insights and news on governance, risk and compliance. 
+A street might flood while an adjacent building stays dry, so small inaccuracies in old databases can give a misleading impression on a given site’s vulnerability to flooding, said Dr. Kelly Hereid, a climate scientist who heads the catastrophe research and development unit at Boston-based Liberty Mutual Insurance Co.
+One Liberty tool uses a combination of aerial imagery and machine learning to define buildings’ footprints and give a more accurate impression of risk, which then can be shared with clients to help shore up their defenses.
+“What was available 10 years ago versus what’s available now has really dramatically changed,” Dr. Hereid said. “There is a massive ecosystem of improved flood analytics tools that are out there.”
+Understanding the risk and taking proactive measures can make a big difference for companies. In the wake of 2017’s Hurricane Harvey, Dr. Hereid noted, the staff at Houston’s MD Anderson Cancer Center were able to walk and kayak through flooded streets to a working facility. The cancer hospital, after earlier floods, had installed floodgates that allowed it to continue to operate even as the surrounding area was inundated with water.
+Warming skies and oceans, a result of climate change, are widely believed to be making things worse. Munich-based insurer
+
+
+
+
+
+
+
+
+
+
+            Allianz SE
+
+
+      noted that hurricane rainfall, a major factor in Ida’s destructive and, in some cases, deadly impact, is believed to be 11% more intense than it was before the industrial age. 
+In last year’s season, Hurricane Ida tore through the Caribbean into Louisiana before dumping huge amounts of rain in scattered locales, causing an estimated $36 billion in insured losses, Allianz said in a recent report. 
+Better modeling has also helped the insurance industry stay solvent despite having to pay for heavy weather-related losses in recent years, said
+
+
+
+
+
+
+
+
+
+      
+      Mark Anquillare,
+
+
+
+      president of
+
+
+
+
+
+
+
+
+
+
+            Verisk Analytics Inc.,
+
+
+      a risk analytics company that provides advanced modeling to major insurers.
+Verisk databases that store information on commercial property, for example, can distinguish between 14 types of restaurants—from a pub to a white-tablecloth establishment. Such granular data can provide insights on the risks an insurance company faces in a certain area, Mr. Anquillare said.
+“All that data and all those analytics that are constantly improving, it’s made the industry better,” Mr. Anquillare said.
+Cole Mayer, a senior structurer at the commercial insurance arm of
+
+
+
+
+
+
+
+
+
+
+            Swiss Re,
+
+
+      a Zurich-based provider of insurance and reinsurance, said more advanced modeling has helped with some of the company’s more complicated products. Those include parametrics, an increasingly popular type of catastrophe insurance that operates as a kind of bet on future weather.
+A parametric policy will quickly pay out, for example, when wind speed at a precise location exceeds an agreed-on speed, without the business needing to do a time-consuming proof of its losses.
+“That data year-on-year gets better and better and more granular,” Mr. Mayer said.
+
+
+Insurers said their client companies have made changes to be able to move quickly if their regions are struck by hurricanes or flooding. One Allianz client, for example, provides temporary on-site housing for essential employees whose homes might be damaged by flooding, said Thomas Varney, Allianz’s North American head of risk consulting. 
+Another large client has placed generators in various locations to provide backups in case a storm disrupts electricity, Mr. Varney said.
+In this warmer, wetter world, insurers have sought to collaborate more with clients on getting ahead of their climate risks, a practice that has the added bonus of reducing how much insurers might ultimately pay out, Liberty’s Dr. Hereid said. Clients are thinking more about the big picture and how climate change can affect their bottom line, she said.
+“We as a society have a lot of work to do to acknowledge that the climate of the past is not going to be the climate of the future,” Dr. Hereid said. “We have to do adaptation today.”
+Write to Richard Vanderford at richard.vanderford@wsj.com
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+As companies weigh the strategic benefits of a blockchain-enabled metaverse, they may need to take a fresh approach to account for nonfungible tokens (NFTs) and other technologies.
+The Wall Street Journal news department was not involved in the creation of this content.
+As companies weigh the strategic benefits of a blockchain-enabled metaverse, they may need to take a fresh approach to account for nonfungible tokens (NFTs) and other technologies.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

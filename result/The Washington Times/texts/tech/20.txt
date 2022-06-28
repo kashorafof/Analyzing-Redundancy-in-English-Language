@@ -1,0 +1,31 @@
+
+Sign In
+
+Manage Newsletters
+Roe v. Wade overturned: Pro-lifers persistence paid off
+Kavanaugh’s Democratic assassins
+Founding Fathers never intended U.S. to be secular or hostile to religion
+TikTok said it has made changes to its storage of Americans’ data following new allegations that the platform’s China-based parent company accessed U.S. users’ data.
+Engineers in China had access to U.S. data between September 2021 and January 2022, according to leaked audio from more than 80 internal TikTok meetings obtained by BuzzFeed.
+Albert Calamug, TikTok U.S. security public policy official, wrote on the company’s blog that TikTok is partnering with the American tech company Oracle to create data management protocols that Oracle will audit.
+“We’ve changed the default storage location of U.S. user data,” Mr. Calamug wrote Friday on TikTok‘s blog. “Today, 100% of U.S. user traffic is being routed to Oracle Cloud Infrastructure. We still use our U.S. and Singapore data centers for backup, but as we continue our work we expect to delete U.S. users’ private data from our own data centers and fully pivot to Oracle cloud servers located in the U.S.”
+TikTok has previously said its U.S. workers control Americans’ data on the video-based platform.
+TikTok Vice President Michael Beckerman told the Senate Commerce Committee in October that access to Americans’ data was controlled by its U.S. team, and he sparred with Sen. Ted Cruz, Texas Republican, about its China-based owner ByteDance‘s access to people’s data.
+Mr. Breckerman’s testimony stands in stark contrast to the private conversations of his coworkers revealed in the leaked audio of the company’s deliberations.
+A member of TikTok‘s trust and safety team said in September everything is seen in China, and another September meeting featured an employee identifying a Beijing engineer as a “Master Admin” with complete access, according to BuzzFeed.
+Lawmakers are champing at the bit for answers from TikTok. Rep. Cathy McMorris Rodgers, Washington Republican, said she wants to expose how tech sends Americans’ data to China.
+“House Energy and Commerce [Committee] Republicans have previously requested that TikTok testify for our committee and will continue to urge that they testify to provide complete and honest answers for Americans,” Ms. Rodgers said in a statement. “If they continue to refuse to appear before the committee, then we will be forced to consider compelling their testimony.”
+House Republicans are not the only lawmakers eager for explanations from TikTok. Six Republican senators wrote a letter to TikTok CEO Shou Zi Chew demanding information on the company’s misinformation and disinformation policies relating to Russian state-approved media about its war in Ukraine.
+The company’s failure to enforce its own policies appears to have allowed a flood of Russian propaganda and amplified the “Kremlin’s lies,” wrote GOP Sens. Steve Daines of Montana, John Barrasso of Wyoming, John Cornyn of Texas, James Lankford of Oklahoma, Cynthia Lummis of Wyoming and Roger Wicker of Mississippi.
+“We are deeply concerned that, through its failure to equally enforce this policy, TikTok is enabling the spread of pro-war propaganda to the Russian public, which risks adding to an already devastating human toll for both Ukrainians and Russians,” the senators wrote.
+TikTok spokesperson Brooke Oberwetter said the company has brought in external experts to strengthen its data security.
+“In May, we created a new in-house department, U.S. Data Security (USDS), with U.S.-based leadership, to provide a greater level of focus and governance on U.S. data security,” Ms. Oberwetter said in a statement. “The creation of this organization is part of our ongoing effort and commitment to strengthen our data protection policies and protocols, further protect our users, and build confidence in our systems and controls.”
+• Ryan Lovelace can be reached at rlovelace@washingtontimes.com.
+Copyright © 2022 The Washington Times, LLC. 
+                        
+                          Click
+                            here for reprint permission.
+ Click to Read More and View Comments
+                    
+ Click to Hide 
+Terms of Use / Privacy Policy / Manage Newsletters

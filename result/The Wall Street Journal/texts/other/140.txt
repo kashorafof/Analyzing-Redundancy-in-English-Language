@@ -1,0 +1,109 @@
+
+https://www.wsj.com/articles/cios-expect-solid-tech-budgets-despite-recession-fears-11656068401
+Chief information officers said they are facing pressure to ramp up some tech investments and reduce others as fears of a recession mount, though they don’t expect tightening on the same scale as in previous downturns. 
+That’s partly because the Covid-19 pandemic and the rise of cloud computing have illustrated the importance of enterprise technology and digital transformation, CIOs said. 
+Discretionary spending such as proof-of-concept tests—which validate whether an emerging technology is ready for commercialization—could get pushed back, but businesses see more value than ever in tech that will enhance the customer experience and give them an edge in an increasingly tight market, executives and analysts said.
+ The Morning Download delivers daily insights and news on business technology from the CIO Journal team. 
+Corporate boards and other business leaders today are more likely to understand technology’s value, CIOs said. If cuts do occur, CIOs, who have gotten closer to core business operations in recent years, said they expected to play an important role in those conversations.
+About 90% percent of a CIO’s budget includes vital spending like cloud subscriptions that need to be paid no matter what, said John-David Lovelock, a research vice president at tech research and advisory firm
+
+
+
+
+
+
+
+
+
+
+            Gartner Inc.
+
+
+      The remaining 10% includes things like proof-of-concept tests, new laptops or tablets for employees, and licensed software updates, he said. That second discretionary area is where spending could be reduced for a year or two, although Mr. Lovelock said such expenses aren’t likely to face big cuts because the overall cost savings would be low and employees would feel the effects right away.
+Federal Reserve Chairman
+
+
+
+
+
+
+
+
+
+      
+      Jerome Powell
+
+
+
+      said Wednesday that the central bank’s battle against inflation could lead it to raise interest rates high enough to cause an economic downturn, the latest warning of an impending recession.
+As companies grapple with economic uncertainty, CIOs at Rocket Mortgage LLC,
+
+
+
+
+
+
+
+
+
+
+            Salesforce Inc.
+
+
+      and other companies said tech projects with real business cases will only become more important.
+“I feel pressure to use technology to create more efficiency, to create more scale, to automate more,” said Brian Woodring, CIO of Detroit-based Rocket Mortgage. As the size of the mortgage industry shrinks, he said, now is the time to ramp up tech spending to create a better customer experience and gain market share.
+“The message I hear from most of my business partners is look, this is going to be a rough year,” he said, but “recessions are the time to lean in.” Mr. Woodring said the company could actually end up increasing spending on key technology projects this year.
+Still, this isn’t necessarily the case across the board. When cuts are called for, expect work in areas with less of an immediate business case to be among first to go, said Salesforce CIO
+
+
+
+
+
+
+
+
+
+      
+      Juan Perez.
+
+
+
+      
+“Some of the ‘nice to haves’ are probably going to be pushed out in some companies,” he said. He added that proof-of-concept tests on emerging technologies could be one area that faces cuts.
+“Some things will get off the table until things improve or they can come back again, but the CIOs will play a critical role in making those types of decisions,” he added.
+At the same time, he said, CIOs who have become increasingly business-savvy in recent years are in a great position to communicate to the leadership team when tech is vital to the organization and when “this is not that important, push it aside. We’ll tackle that later.’’
+Gartner’s Mr. Lovelock said that planning horizons for tech budgets have gotten shorter, meaning CIOs might be signing two-year, one-year or six-month contracts where they used to sign for three to five years. While their long-term goals might be the same, he said, CIOs are facing pressure to build off ramps on the way.
+The decline in IT spending during the 2008 recession was less severe than it was during the 2001 recession, and in the market turmoil of 2020, IT spending actually went up, Mr. Lovelock said. He added that in this recession, IT will be vital in helping businesses pivot to find new ways to drive up revenue and he expects budget cuts in other business areas instead of technology.
+Kevin Vasconi, CIO of
+
+
+
+
+
+
+
+
+
+
+            Wendy’s Co.
+
+
+      , said he is investing in artificial-intelligence-enabled voice technology to enhance the customer experience at the fast-food chain’s locations. He said that even as budgets are tightening, the business case for this type of technology, which he believes will lead to productivity gains, is going to stand on its own.
+“We’re pretty bullish about always trying to build a pretty rock-solid business case for technology. And if it’s there, and the market constricts a little bit, it’s still going to be there,” Mr. Vasconi said.
+In a recession this year, he said, “I don’t think it’s going to be, ‘Let’s just go cut the tech budget.’ I think it’s going to be, ‘Hey, we’ve got to be more circumspect about what we spend money on, and let’s make sure that those are the things that are going to drive the business.”
+
+
+Write to Isabelle Bousquette at Isabelle.Bousquette@wsj.com
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

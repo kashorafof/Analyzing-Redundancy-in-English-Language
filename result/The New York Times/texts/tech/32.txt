@@ -1,0 +1,70 @@
+Advertisement
+Supported by
+The tests screen for cancers that often go undetected, but they are expensive and some experts worry they could lead to unnecessary treatments without saving patients’ lives.
+Send any friend a story
+As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.
+By Gina Kolata
+Jim Ford considers himself a lucky man: An experimental blood test found his pancreatic cancer when it was at an early stage. It is among the deadliest of all common cancers and is too often found too late.
+After scans, a biopsy and surgery, then chemotherapy and radiation, Mr. Ford, 77, who lives in Sacramento, has no detectable cancer.
+“As my doctor said, I hit the lottery,” he said.
+Tests like the one that diagnosed him have won praise from President Biden, who made them a priority of his Cancer Moonshot program. A bill in Congress with 254 cosponsors would authorize Medicare to pay for the tests as soon as the Food and Drug Administration approved them.
+But companies are not waiting for a nod from regulators. One, GRAIL, is selling its annual test, with a list price of $949, in advance of approval, and another company, Exact Sciences, expects to follow suit, using a provision known as laboratory developed tests.
+The tests, which look for minuscule shards of cancer DNA or proteins, are a new frontier in screening. Companies developing them say they can find dozens of cancers. While standard screening tests are commonly used to detect cancer of the breast, colon, cervix and prostate, 73 percent of people who die of cancer had cancers that are not detected by standard tests.
+Supporters say the tests can slash cancer death rates by finding tumors when they are still small and curable. But a definitive study to determine whether the tests prevent cancer deaths would have to involve more than a million healthy adults randomly assigned to have an annual blood test for cancer or not. Results would take a decade or longer.
+“We’re at a point now where the blood tests are in their early days,” said Dr. Tomasz Beer, a cancer researcher at Oregon Health & Science University, who is directing a GRAIL-sponsored study of the test that found Mr. Ford’s cancer. “Some people in an informed manner can choose to be early adapters.”
+The companies would like to get the tests approved with studies less rigorous than the F.D.A. typically requires, and they stand to make huge profits if that happens.
+“GRAIL proposes to test every Medicare beneficiary every year, making it the screening test that could bankrupt Medicare,” said Dr. H. Gilbert Welch, a senior investigator in the Center for Surgery and Public Health at Brigham and Women’s Hospital.
+With 44 million Medicare beneficiaries and an annual test costing about $1,000 a year plus expensive scans and biopsies for those whose tests are positive, the price tag could be substantial.
+He and other critics warn that the risks of unleashing the tests are substantial. Paradoxical as it may sound, finding cancers earlier could mean just as many deaths, with the same timing as without early diagnosis. That is because — at least with current treatments — cancers destined to kill are not necessarily cured if found early.
+And there are other risks. For example, some will have a positive test, but doctors will be unable to locate the cancer. Others will be treated aggressively with surgery or chemotherapy for cancers that, if left alone, would not have grown and spread and may even have gone away.
+Dr. Beer acknowledges that a cancer blood test “doesn’t come without risks or costs, and it is not going to detect every cancer.”
+But, he said, “I think there’s promise for a real impact.”
+Other experts are worried.
+Dr. Barnett Kramer, a member of the Lisa Schwartz Foundation for Truth in Medicine and former director of the Division of Cancer Prevention at the National Cancer Institute, fears that the tests will come into widespread use without ever showing they are beneficial. Once that happens, he said, “it is difficult to unring the bell.”
+“I hope we are not halfway through a nightmare,” Dr. Kramer said.
+When Susan Iorio Bell, 73, a nurse who lives in Forty Fort, Pa., saw an ad on Facebook recruiting women her age for a study of a cancer blood test, she immediately signed up. It fit with her advocacy for preventive medicine and her belief in clinical trials.
+The study was of a test, now owned by Exact Sciences, that involved women who are patients with Geisinger, a large health care network. The test looks for proteins and DNA shed by tumors.
+Ms. Bell’s result was troubling: Alpha-fetoprotein turned up in her blood, which can signal liver or ovarian cancer.
+She was worried — her father had had colon cancer and her mother had breast cancer.
+Ms. Bell had seen what happened when patients get a dire prognosis. “All of a sudden, your life can be changed overnight,” she said.
+But a PET scan and abdominal M.R.I. failed to find a tumor. Is the test result a false positive, or does she have a tumor too small to be seen? For now, it is impossible to know. All Ms. Bell can do is have regular cancer screenings and monitoring of her liver function.
+“I just go day by day,” she said. “I am a faith-based person and believe God has a plan for me. Good or bad, it’s his will.”
+Some cancer experts say Ms. Bell’s experience exemplifies a concern with the blood tests. The situation may involve only a small percentage of people because most who are tested will be told their test did not find cancer. Among those whose tests detect cancer, scans or biopsies can often locate it.
+But Dr. Susan Domchek, a breast cancer researcher at the University of Pennsylvania, warned that when large numbers of people get tested, false positives become “a real problem,” adding, “we need to know what to do with those results and what they mean.”
+Dr. Daniel Hayes, a breast cancer researcher at the University of Michigan, refers to the situation as a Damocles syndrome: “You’ve got this thing hanging over your head, but you don’t know what to do about it.”
+So far, the Geisinger study is the only published one asking whether the blood tests find early, undetected cancers.
+In addition to Ms. Bell, the study involved 10,000 women aged 65 to 75 who had the blood test and were encouraged to also have routine cancer screening.
+The blood test found 26 patients who had cancers: two lymphomas, one thyroid cancer, one breast cancer, nine lung cancers, one kidney cancer, two colorectal cancers, one cancer of the appendix, two cancers of the uterus, six ovarian cancers and one unknown case in which there were cancer cells in the woman’s body but it was not clear where the cancer started.
+Seventeen of these women, or 65 percent, had early stage disease.
+Conventional screening found an additional 24 cancers that the blood tests missed.
+Dr. Bert Vogelstein, a cancer researcher at Johns Hopkins Medicine who helped to develop the test, said the study was not designed to show risks and benefits. That will require much larger and more detailed studies.
+GRAIL’s study, led by Dr. Beer, involved 6,629 participants. Its interim data, presented at a professional meeting last year, showed the test found cancer signals in 92 participants. After these subjects had additional tests like CT and PET scans and biopsies, the researchers concluded that 29 had cancer. Among those cancers, 23 were new cancers and nine were early stage. The rest were recurrences in people who had already had cancer.
+A 12-month follow-up is forthcoming, Dr. Beer said.
+“We are particularly interested in the false positive question,” he said. “We will find out what happens when folks get a test result that is suggestive of cancer but no cancer was found. Is there a cancer that comes up clinically in the next six months?”
+“The goal here is to reduce the morbidity and mortality from cancer,” Dr. Beer said. “That is a noble and important effort.”
+When GRAIL was first formed, its leaders invited Donald Berry, a statistician at MD Anderson Cancer Center in Houston, to be on its scientific advisory board.
+“They said they needed a skeptic,” Dr. Berry said. “I told them I was a skeptic and I was quite negative. I told them there was this real hurdle — they will have to run very large clinical trials and the endpoint must be survival. They have to show that detecting cancer early is more than just detecting cancer early. It has to mean something.”
+Progress in the field. In recent years, advancements in research have changed the way cancer is treated. Here are some recent updates:
+Uterine cancer. Cancer of the uterus is on the rise, especially among Black women. Experts say the cancer will eventually become the third most common type among women, and recent studies show that it is not only more likely to strike Black women, but also more likely to be deadly.
+Blood tests. New blood tests that look for minuscule shards of DNA or proteins to detect a variety of cancers have won praise from President Biden, who made them a priority of his Cancer Moonshot program. Supporters say the tests can find tumors when they are still small and curable, but a definitive study to determine whether the tests could prevent cancer deaths has yet to come.
+Melanoma. A large study found that participants who ate high quantities of fish each week had a greater risk of developing melanoma, the most serious type of skin cancer. It is not clear what’s behind the surprising association between fish intake and melanoma, and the lead author of the study cautioned that the findings are not a reason to remove fish from a healthy diet.
+Rectal cancer. A small trial that saw 18 rectal cancer patients taking the same drug, dostarlimab, appears to have produced an astonishing result: The cancer vanished in every single participant, undetectable by physical exam, endoscopy, PET scans or M.R.I. scans. Experts believe it to be the first time in history that a study has led to complete remission in every single cancer patient.
+Breast cancer trial. A treatment with trastuzumab deruxtecan, a drug that targets cancer cells with laserlike precision, was found to be stunningly successful at slowing tumor growth and extending life in clinical trial participants who had metastatic breast cancer.
+The effect of weight loss. A new study found that people who lost significant amounts of weight through bariatric surgery had a 32 percent lower risk of developing cancer and a 48 percent lower risk of dying from cancer, compared with people who did not have the surgery. According to the study, the more weight people lost, the more their cancer risk fell.
+A few years later, the company restructured its scientific advisory board to include many new experts, and Dr. Berry is no longer a member. He is not sure why.
+“Being generous, I’d say they no longer needed my expertise,” Dr. Berry said. “Being realistic, they got tired of hearing my complaints that finding cancer early was not enough.”
+Yet difficult questions from him and other critics remain.
+One is overdiagnosis: finding small tumors that would never have been noticed and may not have caused any harm. Some cancers simply fail to grow or are destroyed by the body’s immune system. But without knowing if the cancer is dangerous, it will be treated as though it is, subjecting people to therapies that are often difficult or debilitating and may be unnecessary.
+Dr. Kramer said this also happens with standard screening tests, which can result in the removal of thyroid glands, breasts or prostates for small tumors that are actually harmless.
+There are a few sobering examples, like a screening test for babies once widely used in Japan for neuroblastoma, a cancer of the adrenal glands, that found harmless tumors but missed the deadly ones.
+But, Dr. Kramer added, with blood tests looking for dozens of cancers, “it’s going to be even worse.”
+“We will dip more and more deeply into the iceberg of disease,” Dr. Kramer said, finding “lesions that look like a cancer to the pathologist but may not have the same natural history at all.”
+It may not even be possible to find the most aggressive cancers early enough for a cure, Dr. Kramer added. The tumors that shed the most DNA and proteins into the blood are the largest tumors.
+“There is a real cost to adopting things before we know if they work,” said Dr. David Ransohoff, a cancer researcher at the University of North Carolina.
+Dr. Vogelstein agrees that what is really needed is a randomized clinical trial. But, he says, it does not have to take 20 years. It would have to be large but, he said, “you don’t have to wait to show it reduces mortality.” Intermediate endpoints could suffice, he says, and Exact Sciences, the company that owns the test he worked on, is discussing proper test design with the F.D.A.
+Dr. Joshua Ofman, president and chief medical officer at GRAIL, said the company has begun a study working with institutions in Britain that should have results within a few years. It will enroll 140,000 people there who will be randomized to have the GRAIL test along with standard cancer screening tests or to have the standard tests alone. The goal is to see a reduction in metastatic cancers in those who take the GRAIL test.
+“We are absolutely expecting to find it,” he said of the reduction.
+Dr. Berry, though, is not assuaged and fears that the public’s faith in early detection which, he says, “is like a religion,” will rule the day, even without good evidence.
+“Everybody loves early detection, but it comes with harms,” Dr. Berry said.
+“The harms, we know,” he added. “The benefits are very uncertain.”
+Advertisement

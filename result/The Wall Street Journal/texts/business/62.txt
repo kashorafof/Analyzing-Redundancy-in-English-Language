@@ -1,0 +1,206 @@
+
+https://www.wsj.com/articles/tech-layoffs-might-ease-it-hiring-woes-11655499373
+Corporate technology recruiters say they see a chance to fill vacancies as layoffs and hiring freezes across the technology sector ease an historically tight market for information technology workers.
+Falling stock prices, a crypto meltdown and fears of recession have prompted layoffs across the tech universe in the past month. On Tuesday,
+
+
+
+
+
+
+
+
+
+
+            Coinbase Global Inc.
+
+
+      said it would cut 1,100 employees from its workforce, a reduction of about 18% in its staff, the latest example of the cool-down.
+Last month,
+
+
+
+
+
+
+
+
+
+
+            Microsoft Corp.
+
+
+      said it would slow hiring in its software group;
+
+
+
+
+
+
+
+
+
+
+            Meta Platforms Inc.
+
+
+      declared a hiring freeze for some teams, and smaller social-media rivals
+
+
+
+
+
+
+
+
+
+
+            Twitter Inc.
+
+
+      and
+
+
+
+
+
+
+
+
+
+
+            Snap Inc.
+
+
+      followed suit with similar hit-the-brakes memos.
+Some chief information officers, wearied of the relentless recruitment effort, see an opportunity.
+“I do expect we will start to see more candidates that were part of layoffs,” said
+
+
+
+
+
+
+
+
+
+      
+      Katrina Agusti,
+
+
+
+      CIO of Dearborn, Mich.-based workwear brand Carhartt Inc.
+When Ms. Agusti took up the CIO role in March, she aimed to give priority to recruiting tech personnel. As tech stocks began to unravel in May, she watched closely in anticipation of layoffs that might bring fresh candidates into the hiring pool, she said.
+ The Morning Download delivers daily insights and news on business technology from the CIO Journal team. 
+Carhartt has yet to see that additional hiring momentum, but Ms. Agusti said she is expecting a longer-term influx of new candidates for tech roles.
+Even a small break in the IT talent war has been a long time coming. Over the past several years, CIOs have amped up their recruiting efforts, raised salaries and touted their company cultures to attract the talent needed for vital digital transformation efforts. Still, the high number of tech job postings and shortage of candidates largely continued.
+
+Kroger Co.
+
+
+      , also looking for workers, is seeing more applicants coming through the door than it did a year ago, said
+
+
+
+
+
+
+
+
+
+      
+      Yael Cosset,
+
+
+
+      the company’s CIO. It is difficult to say, however, whether that is the result of other companies pulling back on recruiting or Kroger’s own ramped-up efforts in this area, he said.
+The grocer has been expanding its partnership with universities, expanding the locations it hires in, and training store associates to fill tech roles in areas like cybersecurity, Mr. Cosset said.
+“There is still a massive shortage of talent,” he said, but added that the company is “making good progress” in recruiting. 
+Last month, U.S. employers in all sectors hired an estimated 2,000 new tech workers, after cutting some 215,000 tech jobs in April, according to IT trade group CompTIA. Despite the hiring uptick in May, the overall unemployment rate for IT workers in the U.S. remained roughly unchanged at 2.1%, up from 1.7% in January, the group said.
+Declines in tech stocks and cryptocurrencies have led some tech-heavy employers to cut staff. Besides Coinbase, two other prominent crypto companies, Crypto.com and BlockFi, this week said they would be letting people go.
+“The recent layoffs in the crypto market will provide some relief to companies in need of engineers and other technologists,” said
+
+
+
+
+
+
+
+
+
+      
+      Martha Heller,
+
+
+
+      chief executive of recruiting firm Heller Search Associates. But on the whole, crypto layoffs “represent a drop in the bucket,” she added.
+In May, U.S. employers posted ads for more than 620,000 tech jobs, a roughly 50% increase over the same month in 2021, according to CompTIA.
+
+
+
+
+
+
+
+
+
+      
+      Tim Herbert,
+
+
+
+      the group’s chief researcher, said hiring freezes and layoffs across sectors are being offset by other companies looking to scoop up newly available workers.
+“The data shows examples of companies pulling back, companies increasing hiring activity, and those that could be considered maintaining the status quo,” Mr. Herbert said.
+
+
+
+
+
+
+
+
+
+
+      
+      Keegan Banks,
+
+
+
+      senior vice president of client delivery at recruiting firm Harvey Nash USA, said the market for tech workers remains tight. Most of her clients are still looking to fill IT jobs, she said: “Some of that is due to openings from turnover, but we are still receiving a good bit of new roles as well.”
+
+
+
+
+
+
+
+
+
+
+      
+      John Markey,
+
+
+
+      managing director of client services at AMS, a recruitment and advisory firm, said employers may be posting job ads aimed at attracting laid-off tech workers, but that hardly means qualified workers are rushing to apply.
+“People are taking their time between roles before going back into the job market,” Mr. Markey said.
+Write to Isabelle Bousquette at Isabelle.Bousquette@wsj.com and Angus Loten at angus.loten@wsj.com
+
+
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+
+      Appeared in the June 18, 2022, print edition as 'Tech Layoffs Seen as a Boon for Filling IT Vacancies.'
+    
+Related coverage, selected by the editors
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+CIOs are well-positioned to map data for sustainability metrics and reporting—and their own technology strategy and leadership can make an even greater difference.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

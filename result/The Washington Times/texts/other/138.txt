@@ -1,0 +1,65 @@
+
+Sign In
+
+Manage Newsletters
+Roe v. Wade overturned: Pro-lifers persistence paid off
+Kavanaugh’s Democratic assassins
+Founding Fathers never intended U.S. to be secular or hostile to religion
+NEWS AND ANALYSIS:
+Tensions between China’s military and two U.S. allies increased recently after People’s Liberation Army fighter planes conducted what officials say were dangerous aerial encounters.
+On June 1, a Canadian Air Force CP-140 Aurora long-range patrol aircraft was flying in international airspace near North Korea when a Chinese jet fighter flew dangerously close to the aircraft “on several occasions,” according to a statement by the Canadian military. The CP-140 is the Canadian version of the Lockheed P-3 Orion maritime patrol aircraft.
+“In these interactions, [People’s Liberation Army air force] aircraft did not adhere to international air safety norms,” the statement said. The “unprofessional” flyby “put the safety of our [Royal Canadian Air Force] personnel at risk.”
+According to the statement, the pilot flying the Aurora was forced to abruptly change course to “increase separation and avoid a potential collision with the intercepting aircraft.” The Chinese interceptor jets, which were not identified by type, attempted to divert the patrol aircraft from its flight path.
+“The Canadian armed forces’ primary concern is the safety of our aircrew, and the importance of [Chinese military] aircraft maintaining a professional distance from [Canadian Air Force] aircraft flying in a U.N.-sanctioned mission occurring in international airspace,” the statement said, noting the encounters were taking place within increasing frequency.
+Canadian Prime Minister Justin Trudeau on Monday said the Chinese actions were “provocative and irresponsible.”
+
+
+  
+  
+    SEE ALSO: Congress tells Navy not to retire warships
+  
+  
+The Canadian aircraft was taking part in a U.N. mission and was flying out of the U.S. air base at Kadena, Japan, for operations that spanned April 26 to May 26.
+Disclosure of the harassment of Canadian aircraft followed an earlier provocative encounter between an Australian P-8 maritime patrol jet and a Chinese military jet over the disputed South China Sea. Australia’s Defense Ministry said in a statement Sunday that on May 26 a Chinese J-16 conducted a “dangerous” intercept of the P-8 as it was flying in international airspace over the sea.
+“The intercept resulted in a dangerous maneuver which posed a safety threat to the P-8 aircraft and its crew,” the statement said, noting that Canberra filed a diplomatic protest with the Chinese government over the incident. “[Australia] has for decades undertaken maritime surveillance activities in the region and does so in accordance with international law, exercising the right to freedom of navigation and overflight in international waters and airspace.”
+Australian Defense Minister Richard Marles told reporters Monday that the J-16 flew “very close” to the P-8 and “released flares.” The Chinese plane then accelerated and cut across the nose of the P-8 and settled in front of the jet at very close range.
+“At that moment, it then released a bundle of chaff which contained small pieces of aluminum, some of which were ingested into the engine of the P-8 aircraft,” Mr. Marles said. “Quite obviously, this is very dangerous.”
+The aircraft returned to base safely.
+The Australian jet is one of two P-8s based at Clark Air Base in the Philippines and conducts routine flights over the sea. Additional P-8 surveillance flights were carried out June 3.
+Chinese military spokesmen denied that PLA aircraft harassed Canadian and Australian aircraft, saying it was the U.S. allies who were at fault in the incidents.
+“China firmly opposes this provocative behavior of the Canadian side,” Sr. Col. Wu Qian, a Defense Ministry spokesperson, said Monday. “The Chinese military urges the Canadian military to face up to the seriousness of the situation, strictly discipline its front-line troops and must not conduct any risky and provocative acts, otherwise, all serious consequences arising therefrom should be borne by the Canadian side.”
+PLA Sr. Col. Tan Kefei, another defense spokesperson, said Monday that the Australian P-8 conducted a close-in reconnaissance flight “and continuously approached China’s territorial airspace over the Xisha Islands in disregard of repeated warnings from the Chinese side.”
+Xisha is China’s name for the disputed Paracel Islands in the northern part of the South China Sea.
+“The Australian warplane has seriously threatened China’s sovereignty and security, and the countermeasures taken by the Chinese military [were] professional, safe, reasonable and legitimate,” Col. Tan. said.
+The PLA spokesperson claimed Australia has repeatedly put out false information and instigated the hostile confrontation.
+Australia and China last clashed in February when an Australian P-8 conducted monitoring operations over a PLA navy task group that had entered Australia’s northern economic exclusive zone. The Australian military asserted that a PLA navy warship illuminated the P-8 with a laser, a provocative action that signaled preparation for a strike.
+The Chinese Communist Party-affiliated Global Times reported Tuesday that the Australian P-8 attempted to violate Chinese airspace and was warned away by the J-16.
+Analysts say the Chinese appeared to be attempting to pressure Australia’s new liberal Prime Minister Anthony Albanese, who was elected last month.
+Mr. Albanese, however, appeared unbowed. He responded sharply to a reporter’s question on Wednesday stating that the Chinese jet encounter with the P-8 was “very dangerous.”
+The last time China’s air force carried out similar provocations was in April 2001, when a Chinese jet collided with a Navy EP-3, killing the Chinese pilot and nearly causing the surveillance aircraft to crash.
+The EP-3 landed at China’s Hainan Island where the crew were imprisoned for several days.
+CISA details Chinese cyberattacks
+Chinese government-linked hackers are exploiting software vulnerabilities in foreign computer networks, creating infrastructure used for stealing information through cyber intrusions, according to a report made public Tuesday by the Cybersecurity and Infrastructure Security Agency, an arm of the Department of Homeland Security.
+The report said CISA, the National Security Agency and FBI all found that state-sponsored hackers “continue to exploit publicly known vulnerabilities in order to establish a broad network of compromised infrastructure.”
+“These actors use the network to exploit a wide variety of targets worldwide, including public and private sector organizations,” the report said.
+The study detailed how Chinese hackers have been using a system of pirated networks to attack a wide variety of targets worldwide, including telecommunications companies and network service providers, since 2020. The Chinese have been successful against “unpatched” networks — those that have not updated software to close holes that can be used for remote intrusions.
+The report urged U.S. network administrators to apply security patches as soon as possible, disable unneeded ports and replace computers and equipment at the end of their production life.
+China’s government has engaged in major cyberattacks over the past decade, including the 2015 theft of sensitive records from the White House Office of Personnel Management; the 2017 hack of the credit reporting service Equifax, and, more recently, the use of the log4J software vulnerability to attack six state government networks.
+Apple chips linked to Chinese military
+Apple’s forthcoming iPhone 14 will be equipped with a semiconductor produced by a Chinese company with ties to the Chinese military, according to a technology report made public Wednesday. The 20-page report identified Yangtze Memory Technologies Company as a Chinese semiconductor maker with known ties to the Chinese military.
+“The Chinese government wants to disrupt the global memory chip market and win leadership for YMTC,” the report said. “As of May 2022, Apple reportedly will ship the iPhone 14 with YMTC memory chips.”
+The report, “Silicon Sellout: How Apple’s Partnership with Chinese Military Chip Maker YMTC Threatens American National Security,” was authored by Roslyn Layton, co-founder of the think tank China Tech Threat, and Jeff Ferry, chief economist with the Coalition for a Prosperous America, a think tank.
+The researchers warn that the Chinese chips could compromise iPhone users’ security and privacy through unvetted Chinese technology. Also, the use of the Yangtze chips would further concentrate microchip production in China, increasing the vulnerability of the U.S. supply chain.
+Apple also will be giving “legitimacy to state-subsidized military-linked YMTC as a chipmaker.”
+“Ideally, Apple will voluntarily end its partnership with YMTC,” the report said. “It can source its chips from existing suppliers like Micron, Kioxia, Samsung, SK Hynix, Western Digital and Intel.”
+If Apple fails to cut ties to YMTC, the report urges U.S. policymakers to restrict technology exports to and imports from YMTC.
+• Contact Bill Gertz on Twitter @BillGertz.
+• Bill Gertz can be reached at bgertz@washingtontimes.com.
+Copyright © 2022 The Washington Times, LLC. 
+                        
+                          Click
+                            here for reprint permission.
+ Click to Read More and View Comments
+                    
+ Click to Hide 
+Terms of Use / Privacy Policy / Manage Newsletters

@@ -1,0 +1,25 @@
+Advertisement
+Supported by
+Delays in setting up the spacecraft’s navigation software mean the mission may not reach the asteroid until 2029 or 2030, rather than 2026.
+Send any friend a story
+As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.
+By Kenneth Chang
+Computer software delays pushed back the launch of a NASA spacecraft to explore what appears to be a metal asteroid that may be the core of a protoplanet that was blown apart in the early days of the solar system by a giant collision.
+Now the mission will not get off the ground at all this year, NASA announced on Friday.
+The completed spacecraft, named Psyche after the asteroid it is to visit in the main belt between Mars and Jupiter, is sitting at the Kennedy Space Center in Florida and had been scheduled to launch from there on Aug. 1 aboard a SpaceX Falcon Heavy rocket. However, the key navigation software for guiding and controlling the spacecraft’s movements in space was several months late.
+In addition, the testing setup, which sends signals to the spacecraft computer making it think it is already in space, did not work properly when engineers tried to merge components from NASA’s Jet Propulsion Laboratory in California, which is managing the mission, and Maxar, the company that built the Psyche spacecraft.
+The testing setup is working now, mission officials said, and they know of no problems with the software. But the debugging process will require weeks to months more to finish.
+“We just ran out of time on this one,” Lindy Elkins-Tanton of Arizona State University, the principal investigator for the mission, said Friday during a news conference.
+Last month, NASA announced that the launch attempt would be pushed back to no earlier than Sept. 20, rather than Aug. 1. In order to successfully meet up with the asteroid when conditions would be best for studying it, the mission would have had to launch by Oct. 11.
+“We have looked at many, many options,” said Laurie Leshin, director of the Jet Propulsion Laboratory, “and even with a very aggressive adjustment, we did not feel confident enough that we would reach this, that we would successfully reach this window with a mission that we were confident to fly.”
+NASA is forming an independent review panel to investigate what went wrong and suggest what should be done next. NASA officials said it was too early to know how much the delay would add to the $985 million price tag, which includes the Falcon Heavy launch. The review panel could even recommend canceling the mission.
+NASA had selected the Psyche mission in 2017 as one of two low-cost missions submitted by scientists. (The other, Lucy, to study so-called Trojan asteroids caught in the same orbit as Jupiter by the planet’s gravity, launched last year. That spacecraft has had problems with one of its solar power arrays, but continues to travel.)
+From radar observations, Psyche the asteroid appears ellipsoid in shape, about as wide as Massachusetts. It is also much denser than most asteroids. 
+Psyche is also very bright, adding to suspicions that it is made of metal.
+The mission was originally scheduled to launch in 2023, but development went smoothly enough to move the launch date up by a year. The revised trajectory would have arrived earlier, in 2026 instead of 2030.
+Now, the Psyche mission team is back to considering launches in 2023 and 2024, and the spacecraft would not reach the asteroid until 2029 or 2030.
+The setback does not just delay Psyche, but also the Janus mission, two small identical spacecraft that are to tag along for launch before heading off to explore two pairs of binary asteroids. The delay from August to September had already scrambled the plans to reach the original targets. Now that mission will have to look for other asteroids to visit.
+Another NASA mission at the Kennedy Space Center announced better news on Friday. In preparation of the maiden launch of the Space Launch System, the huge rocket that is to take astronauts back to the moon, NASA engineers have been conducting practice countdowns of the rocket at the launchpad including the loading of liquid propellants.
+The fourth attempt at the dress rehearsal, which ended on Monday, counted down to 29 seconds. NASA had hoped that practice would count down to about 9 seconds, just before the engines would ignite for a real launch. But a persistent fuel line connector leak prevented that.
+Still, NASA officials decided they now have enough data to get the rocket ready for its launch, a mission that will send a capsule, without astronauts aboard, on a trip around the moon. That could still occur in late August, the officials said, but it was too early to set a more precise launch date.
+Advertisement
