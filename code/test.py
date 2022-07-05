@@ -21,12 +21,10 @@ import os
 # arr = [ [word.lemma_ ,child.lemma_] for doc in res for word in doc if word.pos_ == 'VERB' for child in word.children  if child.pos_ == 'ADP']
 # print(f'it give: {100 * len(arr)/num_word:.2f} phrasal verbs per 100 words')
 
-from mainConfig import *
-file = open(result_path + '/The Guardian/The Guardian_Links.txt', 'r+' , encoding='utf-8' )
-res = open('The Guardian_Links.txt', 'w+', encoding= 'utf-8')
-text = file.readlines()
-for line in text:
-    line = line.strip()
-    if line.lower().endswith(forbidden_ends):
-        continue
-    res.write(line + '\n')
+# saveDict = dict.fromkeys(website_list.keys(), 0)
+# for website_name in website_list.keys():
+#     path = result_path + '/'+website_name + '/' + website_name + '_Links.txt'
+#     file = open(path, 'r+' , encoding='utf-8' )
+#     text = file.readlines()
+#     saveDict[website_name] = len(text)
+# print(saveDict)

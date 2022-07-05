@@ -8,28 +8,6 @@ import copy
 import textProccessing
 from mainConfig import *
 
-def scrapLinks(link):
-
-    headers = requests.utils.default_headers()
-    headers.update(
-        {
-            'Content-Type': 'application/json',
-            'User-Agent': 'My User Agent 1.0',
-        }
-    )
-
-    url_extract = requests.get(link, headers= headers).text
-    s = ""
-    if link == "https://nypost.com/":
-        link = link + "20"
-    soup = BeautifulSoup(url_extract, )
-    texts = soup.find_all('a')
-    for L in texts:
-        s+= str(L)
-    s = set(s.split('"'))
-    return s
-
-
 
 
 def get_statistics(text, acc):
@@ -55,5 +33,38 @@ def num_links():
             i = i+len(links)
     print(i)
 
+def filter_links():
+    for website_name in website_list.keys():
+        path = result_path + '/'+website_name + '/' + website_name + '_Links.txt'
+        file = open(path, 'r+' , encoding='utf-8' )
+        s = ''
+        text = file.readlines()
+        for line in text:
+            line = line.strip()
+            if line.lower().endswith(forbidden_ends):
+                continue
+            s += line + '\n'
+        open( path , 'w+', encoding= 'utf-8').write(s)
 
-num_links()
+
+def num_link():
+    num_link = dict.fromkeys(website_list.keys(), 0)
+    for website_name in website_list.keys():
+        path = result_path + '/'+website_name + '/' + website_name + '_Links.txt'
+        file = open(path, 'r+' , encoding='utf-8' )
+        text = file.readlines()
+        num_link[website_name] = len(text)
+    return num_link
+
+def save(dict):
+    with open('result.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(dict.keys())
+        writer.writerow(dict.values())
+def load():
+    with open('result.csv', 'r') as csvfile:
+        reader = csv.reader(csvfile)
+        return dict(zip(next(reader), next(reader)))
+
+
+print (int (load()['bbc']))

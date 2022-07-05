@@ -1,0 +1,88 @@
+
+https://www.wsj.com/articles/studios-battle-for-players-of-hypercasual-videogames-the-latest-mobile-distraction-11656324001
+One of the hottest videogames on the market in June 2022 isn’t a fantastical action-adventure, or a multiplayer shooter with stunning visual effects. It is a mobile game that asks players to stock a virtual refrigerator with milk and other sundry items.
+“Fill the Fridge,” a creation of Istanbul-based studio Rollic Games, is “hypercasual,” an increasingly popular mobile genre distinguished by ultrasimple gameplay, repetitive and low-stakes challenges, oftentimes rudimentary graphics, and a business model that relies heavily on advertising.
+Users can learn how to play within a matter of seconds and often without instructions. And some hypercasual games don’t feel like games at all, instead tapping into the trend for autonomous sensory meridian response videos by asking players to paint virtual nails, pop virtual bubble wrap and slice virtual objects.
+But the publishers and studios behind these apps are starting to add some elements of complexity—such as leaderboards, multiplayer formats and in-app purchases—to historically uncomplicated games, looking to retain players as the market saturates and landmark shifts in technology make it harder to monetize apps with advertising.
+ CMO Today delivers the most important news of the day for media and marketing professionals. 
+“Hypercasual is still in its genesis phase with so much runway to be innovated on around this wonderfully pure notion of essentially a single gameplay loop,” said Clive Downie, senior vice president and general manager at
+
+
+
+
+
+
+
+
+
+
+            Unity Technologies Inc.,
+
+
+      a 3-D content development platform that is used by hypercasual game designers. “Developers are looking for additional ways to add complexity and challenge to games.”
+Hypercasual’s popularity has boomed in the past two years. The number of hypercasual game downloads in 2021 increased to 15.6 billion from 12.6 billion in 2020 and 7.51 billion in 2019, according to Data.AI, the mobile and data analytics company formerly known as App Annie.
+Investment in the space has increased at pace. “Words With Friends” publisher Zynga Inc., which last month was acquired by “Grand Theft Auto” publisher Take-Two, in 2020 purchased an 80% stake in Rollic for roughly $180 million, while studios including Homa Games, Ace Games and Spyke Games have in the past year each raised several million dollars in funding rounds led by venture-capital and private-equity firms.
+Recent cash injections have put more pressure on a market already saturated with hypercasual games, according to Jay Uppal, a management consultant at videogames market data firm Newzoo.
+Hypercasual games are fast and cheap to develop, and studios employ a strategy of throwing volumes of them on online app stores to test user interest and see which resonate, he said.
+“We are able to test roughly 800 different prototypes per month on the App Store with real users, and very quickly we can see whether a game has potential,” said Alexandre Yazdi, the chief executive of Voodoo SAS, a
+
+
+
+
+
+
+
+
+
+
+            Goldman Sachs
+
+
+      -backed French developer and publisher of hypercasual games. “On average, two become hit games.”
+Studios’ land grabs for players have led to a phenomenon of clones. Developers periodically copy other studios’ successful game concepts, tweak them enough to avoid intellectual property disputes, and upload their own versions with similar names and descriptions. For players captivated by “Fill the Fridge,” for example, there is also “Fill Up Fridge,” “Fridge Restock,” “Fridge Organizing” and “Fridge Master 3D.”
+Hypercasual games publishers also spend heavily on promoting their games as ads on other games, as well as across social-media platforms such as TikTok, in their quest for user acquisition, videogame executives say.
+Alongside traditional interstitial ads, many publishers offer rewarded ads, which entice players to watch a certain number of commercials in exchange for an in-game bonus, and playable ads, which let users play a demo version of an advertised game.
+A scramble for users has pushed some advertisers to get creative. Some advertise gameplay that doesn’t reflect the true content of the game being advertised, or depict someone playing a game deliberately poorly to appeal to gamers’ sense of competition, Newzoo’s Mr. Uppal said.
+An ad for nail salon game “Acrylic Nails,” for instance, shows a player cutting a virtual client’s nails so badly that they bleed—despite the fact it doesn’t appear possible to do in the game itself. CrazyLabs, the studio behind the game, didn’t respond to requests for comment.
+Hypercasual’s simplicity means that gamers play for shorter time periods—and lose interest more quickly—than those of more complex games, Mr. Uppal said. That means publishers have historically relied on a steady stream of new users to make a game profitable from advertising revenue and developed a “new users at all costs” culture, he said.
+That appears to be shifting in favor of strategies focused on retaining existing players, which studios hope will ease the cost pressures of never-ending user-acquisition campaigns, and diversify revenue beyond advertising.
+Voodoo is starting to build more games that offer in-app purchases, let users win cash or cryptocurrency, and challenge them with long-term goals and objectives, Mr. Yazdi said. The idea is to keep them hooked, rather than pushing them to quickly cycle through various other games, he added.
+
+Apple Inc.’s
+
+
+      2021 update to its operating system’s privacy policy, which makes it more difficult for companies including Snap Inc. and
+
+
+
+
+
+
+
+
+
+
+            Meta Platforms Inc.
+
+
+      to collect data that informs which ads are shown to which users, further persuaded Voodoo to develop more games that can generate some revenue from in-app purchases, rather than advertising alone, he added.
+Rollic, meanwhile, is updating some of its most popular games with new layers of gameplay to keep gamers invested, according to Burak Vardal, the company’s co-founder and CEO.
+“High Heels,” a game that challenges players to walk a model down a runway in vertiginous stilettos while collecting gems and dodging obstacles, now offers players the chance to adopt pets for their avatar, for instance. Rollic has also begun adding online leaderboards putting players in real-time competition with one another to other games to heighten the gameplay stakes, Mr. Vardal said.
+“If you’d suggested adding this to a hypercasual game two years ago, [the industry] would have laughed at you,” he said. “But we did it, and it’s worked very well.”
+Write to Katie Deighton at katie.deighton@wsj.com
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+
+      Appeared in the June 28, 2022, print edition as 'Studios Battle for Players of ‘Hypercasual’ Videogames.'
+    
+As the metaverse and its underlying Web 3.0 infrastructure continue to develop, retail organizations and consumer products companies are exploring potential uses and new business opportunities.
+The Wall Street Journal news department was not involved in the creation of this content.
+As the metaverse and its underlying Web 3.0 infrastructure continue to develop, retail organizations and consumer products companies are exploring potential uses and new business opportunities.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

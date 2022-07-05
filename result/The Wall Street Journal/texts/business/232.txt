@@ -1,0 +1,235 @@
+
+https://www.wsj.com/articles/companies-review-hedging-strategies-as-strong-dollar-cuts-profits-11655897400
+Companies are reviewing their hedging strategies in light of the strong U.S. dollar, which is denting the value of overseas earnings. The strength of the currency also is making some American products less competitive overseas, forcing businesses to look for ways to cut costs as they struggle to maintain margins.
+The dollar in recent months has appreciated significantly against other currencies as weaker global economic growth drives investors toward safe havens. Steps by the Federal Reserve to tighten its monetary policy and increase interest rates also support the dollar. 
+The WSJ Dollar Index, which measures the performance of the U.S. currency against 16 others, is up more than 12% compared with this time last year and is more than 8% higher than at the beginning of the year. That is causing issues for companies in the S&P 500, as many of them generate a chunk of their revenue—on average about 30%—overseas and consolidate it in the U.S.
+Some businesses benefit from natural hedges, for example having both revenue and expenses in local currencies, but others don’t, making them more reliant on hedging programs to reduce some of the currency risk and provide them with visibility into what future revenue from abroad will likely look like.
+“Higher volatility and interest rates across the globe have raised the cost of hedging currency risk, as well as the risks of not hedging,” said
+
+
+
+
+
+
+
+
+
+      
+      Flavio Figueiredo,
+
+
+
+      global head of
+
+
+
+
+
+
+
+
+
+
+            Citigroup Inc.’s
+
+
+      rates and currencies corporate sales division. “This has pushed companies to take a more active approach to how currency risk is managed in order to more effectively manage the impacts on results.”
+Companies in the S&P 500 reported a total of $7.42 billion more in foreign-exchange effects in the first quarter of the year compared with the prior-year period, and a combined $12.57 billion less in gains from hedges and derivatives, according to FactSet, a data provider. Foreign-exchange analysts expect similar impacts in the second quarter.
+ The Morning Ledger provides daily news and insights on corporate finance from the CFO Journal team. 
+Mentions of foreign-exchange effects in earnings calls of S&P 500 companies have gone up in recent weeks, to 220 since the beginning of the year through June 20, up from 183 during the prior-year period, data provider S&P Global Market Intelligence found. Similar patterns occur for keywords such as hedging and currency headwinds, S&P said.
+“The strength of the U.S. dollar depresses the value of overseas earnings,” said
+
+
+
+
+
+
+
+
+
+      
+      Anthony Carfang,
+
+
+
+      managing director of Carfang Group LLC, a provider of treasury services. “Companies have to grow their overseas revenues just to be even,” with 2021, he said.
+
+Coca-Cola Co.
+
+
+      ,
+
+
+
+
+
+
+
+
+
+
+            Microsoft Corp.
+
+
+      and
+
+
+
+
+
+
+
+
+
+
+            Salesforce Inc.
+
+
+      are among the companies that in recent weeks pointed out the negative effect of the strong dollar on their financial results.
+Microsoft earlier this month cut its earnings and revenue guidance for the quarter ending June 30, pointing to unfavorable foreign-exchange rate movements. Salesforce, a San Francisco-based software company, expects a foreign-exchange headwind of around $600 million for the fiscal year ending in January, which is up $300 million from an earlier forecast.
+
+Medtronic
+
+
+      PLC, a medical-technology company, said foreign-exchange rates have become larger headwinds for its business, forecasting a negative impact on full-year revenue of $1 billion to $1.1 billion if recent rates hold.
+“Inflation and FX pressures create near-term challenges on our margins, although we continue to look for opportunities to offset them,” Medtronic Chief Financial Officer
+
+
+
+
+
+
+
+
+
+      
+      Karen Parkhill
+
+
+
+      said last month. Medtronic declined to comment further.
+Companies now have more tools at their disposal to hedge foreign-currency risks, advisers said, with automated technology allowing for better, more timely insights into exposure. Businesses are also looking at when and how they are converting revenue from overseas and trying to match local income with local spending to create buffers.
+“We have seen an increase in interest in hedging, and we are also seeing companies that have never hedged before revisiting this,” said
+
+
+
+
+
+
+
+
+
+      
+      Eric Huttman,
+
+
+
+      the chief executive of MillTechFX, a foreign-exchange marketplace.
+
+Ciena Corp.
+
+
+      , a Hanover, Md.-based provider of network and communication infrastructure, hedges some of its exposure to the Canadian and Australian dollars, the Indian rupee, the euro and the Brazilian real, finance chief
+
+
+
+
+
+
+
+
+
+      
+      James Moylan
+
+
+
+      said. “What happens is once we bill our customers in other currencies than the U.S. dollar, we will hedge,” Mr. Moylan said. The company generates about 25% of its revenue outside the U.S.
+Beverage maker Coca-Cola saw a roughly $200 million negative impact on its first-quarter operating income, which came in at $3.4 billion, up 25% compared with the prior-year period. The company has about $7.6 billion in notional foreign-exchange cash-flow hedges in place.
+“Based on current rates and our hedge positions, we are reiterating our currency outlook of a two- to three-point currency headwinds to comparable net revenues and a three- to four-point currency headwinds to comparable EPS for FY2022,” CFO
+
+
+
+
+
+
+
+
+
+      
+      John Murphy
+
+
+
+      said during the company’s most recent earnings presentation in April.
+There are a variety of tools that treasurers and other executives can use, ranging from forward contracts, which lock in the exchange rate for a purchase or sale of a currency on a future date; derivatives that give the right but not the obligation to exchange at a prearranged rate at a specified date, also called options; as well as instruments like knock-ins and knock-outs, which allow companies to seek the protection of a hedge only at certain exchange rates.
+“A knock-out transaction can be a hedge that goes away once the exchange rate rises to a certain level,” said
+
+
+
+
+
+
+
+
+
+      
+      Amol Dhargalkar,
+
+
+
+      a managing partner at financial services firm Chatham Financial.
+
+
+Some companies are also looking at operational changes, for example changing the terms of contracts when negotiating with foreign suppliers or customers, said
+
+
+
+
+
+
+
+
+
+      
+      Andy Gage,
+
+
+
+      vice president for FX advisory services at Kyriba, a provider of treasury software.
+Executives could convert excess cash that is held by overseas subsidiaries into dollars to increase visibility, or use tools such as intercompany loans to offset some of the effects of currency fluctuations, Mr. Gage said.
+
+Pure Storage Inc.,
+
+
+      a Mountain View, Calif.-based data-solutions company, generates about 25% to 30% of revenue outside the U.S. The business, which reported $620.4 million in revenue during the quarter ended May 8—up 50% from the prior year—is seeing some pressure from the strong dollar, finance chief
+
+
+
+
+
+
+
+
+
+      
+      Kevan Krysler
+
+
+
+      said, even though some of its overseas orders are being paid in dollars.
+“We are monitoring this closely,” Mr. Krysler said, adding that the company wants to expand its international business.
+Write to Nina Trentmann at Nina.Trentmann@wsj.com
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+As more people return to travel this summer, Airbnb is reimagining the booking experience to inspire customers to explore the world.
+The Wall Street Journal news department was not involved in the creation of this content.
+As more people return to travel this summer, Airbnb is reimagining the booking experience to inspire customers to explore the world.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

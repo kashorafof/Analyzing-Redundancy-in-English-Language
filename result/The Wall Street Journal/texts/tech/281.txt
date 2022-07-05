@@ -1,0 +1,111 @@
+
+https://www.wsj.com/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433
+GitHub Inc.’s new automated computer-coding tool will help companies manage a chronic shortage of software developers, but it will not replace them, according to the company’s chief executive officer.
+
+
+
+
+
+
+
+
+
+
+      
+      Thomas Dohmke,
+
+
+
+      the CEO of
+
+
+
+
+
+
+
+
+
+
+            Microsoft Corp.
+
+
+      -owned GitHub, says the artificial-intelligence-powered coding tool, launched this week as Copilot, is designed to ease the task of writing long lines of computer code from scratch.
+Software code is the mathematics-like language that powers computer applications, which underpin many core business functions, from sales and marketing, to human resources, accounting and finance.
+ The Morning Download delivers daily insights and news on business technology from the CIO Journal team. 
+“The process of writing code has remained mostly manual,” Mr. Dohmke said Wednesday at Collision 2022, a startup and investing conference held in Toronto.
+Instead, he said, the AI coding tool acts like a predictive-text feature on smartphones. As developers work, the tool suggests options for lines of code needed to execute given tasks, within a larger software program. Developers, who can also ask for suggestions, then choose which option to use.
+The tool was created in partnership with OpenAI, an AI software maker best known for its GPT-3 natural-language model that can mimic writing.
+In the same way natural-language systems are trained on words, Copilot’s AI model is trained on billions of lines of code in languages running from Cobol to Javascript, Mr. Dohmke said. Based on this massive storehouse of code, it suggests the next line as developers type in programming applications like Visual Studio Code or Neovim.
+The idea is to speed up the time it takes to create new applications by reducing the amount of code developers need to write manually. 
+He said the tool will also make the process of creating custom-made apps more accessible to workers who have a rudimentary understanding of code, as the tool can guide them through the building blocks of developing apps. 
+GitHub, a San Francisco-based online coding platform that allows developers to collaborate and share bits of code, said that in the past year more than 1.2 million developers signed up to use a preview version of the tool. The company said test runs indicate the tool can cut application development times in half, with an average of 40% of code in users’ applications generated automatically. GitHub charges users $10 per month, or $100 a year.
+Mr. Dohmke called software developers the “backbone of an organization.”
+U.S. employers last month posted an estimated 620,000 ads for open tech jobs, a roughly 50% increase over the same month in 2021, according to IT trade group CompTIA. Software developers were by far the most sought-after tech workers, accounting for more than 200,000 job postings in May alone, the group said.
+Mr. Dohmke said automated coding is meant to supercharge developers, accelerating what they’re able to achieve and stretching their imaginations. “AI will not replace developers,” he said. “It cannot predict the ideas in your head.”
+
+
+
+
+
+
+
+
+
+
+      
+      Rob Zuber,
+
+
+
+      chief technology officer at San Francisco software maker CircleCI—whose own coding platform competes with GitHub—said it is risky for businesses to rely too much on technology to do the job of a human developer, especially when building software-based operations at scale.
+
+
+“Software development is complex and you can’t replicate the foundational practices and experience that a human brings,” Mr. Zuber said. CircleCI currently employs roughly 200 in-house developers.
+A basic principle of coding that developers learn is not to repeat the same lines of code, and letting software generate copies of code works against this fundamental principle, he said. “If you have long lines of basic code, you should reorganize your code to eliminate them, not auto-generate them,” Mr. Zuber said. 
+As with most enterprise software automation—such as robotic process automation—GitHub’s Copilot is more likely to be used as an assistant, not a replacement for workers, said
+
+
+
+
+
+
+
+
+
+      
+      Peter van der Putten,
+
+
+
+      director of the AI Lab at software firm
+
+
+
+
+
+
+
+
+
+
+            Pegasystems Inc.
+
+“Automated text completion simply saves time, just like when typing a text on your phone or when editing a document,” said Mr. van der Putten, who is also an assistant professor in AI at Leiden University. “It can provide a trigger to get started, even if the code is a bit off,” he said.
+Write to Angus Loten at angus.loten@wsj.com
+Corrections & Amplifications 
+		
+	Cobol is a type of computer programming language. An earlier version of this story misidentified it as Cobalt. (Corrected on June 28.)
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+Chevron is evolving its approach to data, technology, and organizational structure to improve business operations and make customer interactions more seamless.
+The Wall Street Journal news department was not involved in the creation of this content.
+Chevron is evolving its approach to data, technology, and organizational structure to improve business operations and make customer interactions more seamless.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

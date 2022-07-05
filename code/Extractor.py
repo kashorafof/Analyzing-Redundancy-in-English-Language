@@ -16,10 +16,9 @@ from scipy.stats import sem
 from mainConfig import *
 
 
+
 def extractLinks():
     for website_name, link in website_list.items():
-
-        
         path = result_path + '/'+website_name
         if not os.path.exists(path):
             os.makedirs(path)
@@ -44,8 +43,12 @@ def extractLinks():
                 continue
             if website_name == 'The New York Daily News' and not x.endswith('html'):
                 continue
+            if website_name == 'bbc' and  x.startswith('/') and '-' in x :
+                newLink = link + x[1:] 
             if x.startswith('/news') and '-' in x  :
                 newLink = link + x[1:] 
+            if website_name == 'New York Post' and not x.startswith('https://nypost.com/2022'):
+                continue
             if x.startswith(link) and '-' in x and len(x) >60:
                 newLink = x 
             
@@ -81,20 +84,30 @@ def scrapLinks(link):
 
 
 def scrapArticles():
-    for website_name in website_list.keys():
+    save_point_dict = Fun.load()
 
+    for website_name in website_list.keys():
+        save_point = int(save_point_dict[website_name])
+        website_time = time.time()
         inFile = open(result_path + '/' +website_name+'/'+website_name+"_Links.txt", "r")
         links = inFile.readlines()
+
+
+        if len(links) <= save_point:
+            continue
         i = 0
-        website_time = time.time()
         for n in links:
             n = n.strip()
-            if(n.lower().endswith(forbidden_ends)):
+
+            i += 1
+            if i < save_point:
                 continue
+
             print(website_name, i)
             text,genre = scrapText(n.strip())
             if(genre == 'discard'):
                 continue
+
             path = result_path + '/' + website_name + '/texts/' + genre
             if not os.path.exists(path):
                 os.makedirs(path)
@@ -105,8 +118,10 @@ def scrapArticles():
 
             outFile.write(text)
             outFile.close()
-            i = i+1
+
         print(time.time() - website_time)
+        save_point_dict[website_name] = len(links)
+        Fun.save(save_point_dict)
         
 
 
@@ -141,5 +156,7 @@ def scrapText(link):
     print(before_merge-start, time.time()-before_categories, 'Total: ' + str(time.time()-start), genre ,chance)
     return s, genre
 
-
 scrapArticles()
+
+# New York Post,The Wall Street Journal,The New York Times,The Washington Times,The New York Daily News,The Guardian,bbc
+# 1239,836,777,567,580,1049,37
