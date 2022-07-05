@@ -25,7 +25,7 @@ def extractLinks():
             os.makedirs(path)
         if not os.path.exists(path + '/texts'):
             os.makedirs(path+ '/texts')
-        
+
         if not os.path.exists(path+"/"+website_name+"_Links.txt"):
             outFile = open(path+"/"+website_name+"_Links.txt", "w+")
             newList = ''
@@ -33,20 +33,20 @@ def extractLinks():
             outFile = open(path+"/"+website_name+"_Links.txt", "r+")
             newList = outFile.read()
 
-        s = Fun.scrapLinks(link)
-
-        
-        
-
+        s = scrapLinks(link)
         
         newList = set(newList.split('\n'))
         newList.remove('')
         
         for x in s:
             newLink = ''
-            if x.startswith('/news/2022') and '-' in x and not (".svg" in x or ".png" in x )  :
+            if x.lower().endswith(forbidden_ends):
+                continue
+            if website_name == 'The New York Daily News' and not x.endswith('html'):
+                continue
+            if x.startswith('/news') and '-' in x  :
                 newLink = link + x[1:] 
-            if (x.startswith(link) and '-' in x and len(x) >60 and not (".svg" in x or ".png" in x)) or x.startswith('https://nypost.com/2022/') :
+            if x.startswith(link) and '-' in x and len(x) >60:
                 newLink = x 
             
             if newLink != '' and not newLink in newList :
@@ -55,7 +55,6 @@ def extractLinks():
         outFile = open(path+"/"+website_name+"_Links.txt", "w+")
         for x in newList:
             outFile.write(x + "\n")
-        websites_num_links[website_name] = len(newList)
         outFile.close()
 
 def scrapLinks(link):
@@ -90,6 +89,8 @@ def scrapArticles():
         website_time = time.time()
         for n in links:
             n = n.strip()
+            if(n.lower().endswith(forbidden_ends)):
+                continue
             print(website_name, i)
             text,genre = scrapText(n.strip())
             if(genre == 'discard'):
@@ -141,5 +142,4 @@ def scrapText(link):
     return s, genre
 
 
-#new york daily new stopped at 435
-#scrapArticles()
+scrapArticles()
