@@ -1,0 +1,218 @@
+
+https://www.wsj.com/articles/retail-cfos-face-forecasting-challenges-as-inventory-hurdles-persist-11654680600
+Finance chiefs at major retailers are struggling to forecast quarterly sales as their companies navigate ongoing shipping delays and face a pullback in consumer demand for once-popular pandemic items such as casual clothing and home goods.
+After grappling with shortages early on during the pandemic, companies built up inventory as a buffer to meet strong demand as the economy rebounded. Some major retailers, however, misjudged the pace at which consumers would change their spending habits. Longer lead times from suppliers, which have required companies to order several months earlier than usual, also have made it harder for retailers to control their inventory within a quarter.
+Finance chiefs are responding by taking steps such as discounting to clear out excess stock—which is eating into their companies’ margins—and relying more on predictive analytics to manage inventory.
+
+Target Corp.
+
+
+      and
+
+
+
+
+
+
+
+
+
+
+            Macy’s Inc.
+
+
+      are among the retailers that have recently said they are weighed down by excess inventory. Minneapolis-based Target on Tuesday said its profit would drop this year as it cancels orders with vendors and offers discounts to clear out unwanted goods.
+“We didn’t anticipate the abruptness of the change in consumer behavior,” said
+
+
+
+
+
+
+
+
+
+      
+      Jonathan Ramsden,
+
+
+
+      CFO of Columbus-based
+
+
+
+
+
+
+
+
+
+
+            Big Lots Inc.,
+
+
+      which saw excess inventory drag down the company’s latest results. Net sales sank 15% during the quarter ended April 30 compared with a year ago, while inventories rose 49%. The company posted a net loss of about $11 million, compared with a $94.6 million profit a year earlier.
+Department-store chain Macy’s Inc. said it anticipated the decline in demand for certain goods that were popular early in the pandemic—such as casual clothing and home goods. “The shift just happened at a quicker pace than expected,” a company spokeswoman said. Macy’s also received more inventory than it anticipated as some of the constraints facing its supply chain began to ease, the company said.
+The retailer uses predictive analytics to forecast demand and potential inventory disruptions so that it buys the right items and allocates them across its locations, Chief Financial Officer
+
+
+
+
+
+
+
+
+
+      
+      Adrian Mitchell
+
+
+
+      said during a May 26 earnings call. “We know that our ability to maintain margin depends on our understanding of customer demand within and across categories,” he said.
+Last year, about 30% of the company’s orders didn’t show up. The percentage of missing orders has since declined to around 20%, Macy’s said, leading to some excess inventory in its distribution centers.
+Macy’s had just under $5 billion in inventory on its balance sheet as of April 30, up 17% from a year earlier. The company expects to utilize markdowns in the months ahead to dispose of excess inventory, but expects to maintain profit margins in line with 2019 levels. Macy’s earned $286 million during the quarter, compared with $103 million a year earlier.
+During the first quarter, companies in the S&P 500 had about $1.1 trillion in inventory on their balance sheets, up 16% from a year earlier and 25% when compared with the first quarter of 2020, according to S&P Global Market Intelligence, a data provider. The dataset included 496 companies for the first quarter of 2022, as companies are still reporting their quarterly results.
+After ordering too much garden equipment and outdoor furniture, Big Lots is canceling orders with suppliers and using promotions to clear out excess inventory, Mr. Ramsden said. The company, which last month  ousted its chief merchandising officer, is also looking to buy a new merchandise-planning system to improve its visibility into the business, he said.
+One of the factors leading to higher inventory levels at retail companies, in particular, has been the longer lead times required by manufacturers, according to
+
+
+
+
+
+
+
+
+
+      
+      Jay Sole,
+
+
+
+      an analyst at
+
+
+
+
+
+
+
+
+
+
+            UBS Group AG
+
+
+      , a financial-services firm. It’s taking companies roughly two to three months longer than it did prior to the pandemic to get goods from overseas manufacturers into the country, Mr. Sole said. Retailers are ordering earlier than they did in the past, which is making them vulnerable to rapid changes in consumer preferences, particularly for fashion, Mr. Sole said.
+Inventory management often falls under the remit of operational executives such as chief operating or merchandising officers. But chief financial officers also play a role because inventory levels affect financial results and tie up funds that could be used to invest elsewhere in the business.
+Hudson, Ohio-based
+
+
+
+
+
+
+
+
+
+
+            Joann Inc.,
+
+
+      which sells fabric and crafting supplies, said it is looking at ways to improve the speed at which it turns its inventory into sales, finance chief
+
+
+
+
+
+
+
+
+
+      
+      Matt Susz
+
+
+
+      said. The company had $674.5 million in inventory on its balance sheet as of April 30, up 25% from a year earlier. Higher inventory levels were due in part to the company’s efforts to order fall inventory early to ensure it arrived on time. The company recognizes inventory that is delivered by ocean freight once it hits the water.
+ The Morning Ledger provides daily news and insights on corporate finance from the CFO Journal team. 
+Joann this year plans to open a new distribution center outside of Columbus that will focus in part on fulfilling online orders, which are currently handled by stores, allowing the company to consolidate and reduce overall inventory levels, Mr. Susz said. Joann during the three months ended April 30 reported a net loss of $31.6 million, compared with a profit of $15.2 million a year earlier, citing lower-than-expected demand for its goods.
+While shortages affected supply chains throughout 2020, companies since then have confronted mismatches between consumer demand and available supply, according to
+
+
+
+
+
+
+
+
+
+      
+      Josh Nelson,
+
+
+
+      an executive at business advisory firm
+
+
+
+
+
+
+
+
+
+
+            Hackett Group Inc.
+
+
+      who works with companies on optimizing their supply chains.
+Not all retailers are holding more products than they need. Sporting- and outdoor-goods retailer
+
+
+
+
+
+
+
+
+
+
+            Academy Sports & Outdoors Inc.
+
+
+      avoided having excess inventory, in part through its use of machine learning for forecasting sales, Chief Financial Officer
+
+
+
+
+
+
+
+
+
+      
+      Michael Mullican
+
+
+
+      said.
+“Because the tools are relatively new, they’re learning at a more accelerated rate,” Mr. Mullican said. The Katy, Texas-based company’s inventory units are down 8% compared to 2019. “Our sales curve is predictable enough to allow us to get ahead of the inventory build that some others have maybe seen,” he said. Still, the company has lower levels of cleated footwear than it would like due to a global shortage, according to its CFO.
+Write to Kristin Broughton at Kristin.Broughton@wsj.com and Mark Maurer at Mark.Maurer@wsj.com
+
+
+Copyright ©2022 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+
+      Appeared in the June 9, 2022, print edition as 'Retail CFOs Wrestle With Inventory as Hurdles Persist.'
+    
+As companies weigh the strategic benefits of a blockchain-enabled metaverse, they may need to take a fresh approach to account for nonfungible tokens (NFTs) and other technologies.
+The Wall Street Journal news department was not involved in the creation of this content.
+As companies weigh the strategic benefits of a blockchain-enabled metaverse, they may need to take a fresh approach to account for nonfungible tokens (NFTs) and other technologies.
+The Wall Street Journal news department was not involved in the creation of this content.
+WSJ Membership
+Customer Service
+Tools & Features
+Ads
+More
+Dow Jones Products
+Copyright © 2022 Dow Jones & Company, Inc. All Rights Reserved
+

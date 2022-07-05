@@ -1,0 +1,19 @@
+Sensor tech can alert wearer to Covid early, helping to prevent onward transmission
+Health trackers worn on the wrist could be used to spot Covid-19 days before any symptoms appear, according to researchers.
+Growing numbers of people worldwide use the devices to monitor changes in skin temperature, heart and breathing rates. Now a new study shows that this data could be combined with artificial intelligence (AI) to diagnose Covid-19 even before the first tell-tale signs of the disease appear.
+“Wearable sensor technology can enable Covid-19 detection during the presymptomatic period,” the researchers concluded. The findings were published in the journal BMJ Open.
+The discovery could lead to health trackers being adapted with AI to detect Covid-19 early, simply by spotting basic physiological changes. This could help provide an early warning system to users that they may be infected, which may in turn help to prevent the spread of the disease more widely.
+Researchers from the Dr Risch Medical Laboratory in Liechtenstein, the University of Basel in Switzerland, McMaster University in Canada and Imperial College London tested the Ava bracelet, a fertility tracker that people can buy online to track the best time to conceive. The study also notes that of the 28 researchers listed, six “are employed by Ava AG”.
+The device, which costs £249, monitors breathing rate, heart rate, heart rate variability, wrist skin temperature and blood flow.
+In the study, 1,163 people under the age of 51 in Liechtenstein were followed from the start of the pandemic to April 2021. They were asked to wear the Ava bracelet at night, with the device saving data every 10 seconds. People have to sleep for at least four hours for it to work.
+The bracelets were synchronised with a smartphone app, with people recording any activities that could affect the results, such as alcohol, prescription medications and recreational drugs. They also recorded possible Covid-19 symptoms such as fever.
+All those in the study took regular rapid antibody tests for Covid-19 while those with symptoms also took a PCR swab test.
+In total, 1.5m hours of physiological data were recorded and Covid-19 was confirmed in 127 people, of whom 66 (52%) had worn their device for at least 29 consecutive days and were included in the analysis.
+The study found there were significant changes in the body during the incubation period for the infection, the period before symptoms appeared, when symptoms appeared and during recovery, compared to non-infection.
+Overall, the dual combination of the health tracker and computer algorithm correctly identified 68% of Covid-19 positive people two days before their symptoms appeared. The team pointed out that there were limits to the research, including that not all Covid cases were captured.
+While a PCR swab test remains the gold standard for confirming Covid-19, the findings “suggest that a wearable-informed machine learning algorithm may serve as a promising tool for presymptomatic or asymptomatic detection of Covid-19”, the researchers said.
+They added: “Wearable sensor technology is an easy-to-use, low-cost method for enabling individuals to track their health and wellbeing during a pandemic.
+“Our research shows how these devices, partnered with artificial intelligence, can push the boundaries of personalised medicine and detect illnesses prior to (symptom occurrence), potentially reducing virus transmission in communities.”
+Typical Covid-19 symptoms may take several days after infection before they appear, during which time an infected person can unwittingly spread the virus.
+The algorithm is now being tested in a much larger group of 20,000 people across the Netherlands, with results expected later this year.
+ This article was updated on 22 June 2022 to record the study’s “competing interests” footnote on the 28 researchers listed, of whom it states that six are employed by Ava AG.

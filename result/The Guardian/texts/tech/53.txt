@@ -1,0 +1,20 @@
+Worldwide developer conference begins with changes to iPhone operating system and redesigned version of cheapest laptop
+Apple is taking on Klarna and ClearPay with a new “buy now, pay later” feature for iPhones, the company has announced at its worldwide developer conference.
+The company is also redesigning the iPhone’s lock screen, in the most substantial visual redesign the operating system for iPhones has received since the introduction of the iPhone X, and introducing a new version of the MacBook Air built around its M2 chip.
+Apple’s buy now, pay later offering will compete with companies like Klarna and ClearPay by letting users take out an interest-free four-month loan on any payments made using its Apple Pay service. It is also partnering with e-commerce platform Shopify to allow users to track the progress of their orders in the Apple Wallet app.
+The buy now, pay later feature will be limited to the US when iOS 16 arrives in the autumn.
+The company also revealed a redesigned MacBook Air with its new MagSafe charging port, and a physical design akin to the larger MacBook Pro computers – marking an end to the distinctive tapered shape that has defined the line until now. Also, like those larger computers, the MacBook Air features an HD camera inside a distinctive “notch” on the front of the screen.
+The new M2 chips are 40% faster than the previous generation, Apple said, but still run without the need for a fan and with an 18-hour battery life. The computers will ship with a USB charger with two ports, and will be available from next month with prices starting at $1,199.
+For many, the most important change announced at the event will be for their iPhone lock screens. Whereas currently users can only change their wallpaper, from this autumn they will be able to change the appearance of the clock, pin small widgets to the front screen and minimise notifications to the bottom of the screen. And they will be able to swipe through multiple lock screens, with different looks and functionality for different use cases – a work lock screen could pin emails and mute social media, for instance, while a weekend lock screen could have more casual pictures and hide communications from work.
+Craig Federighi, Apple’s head of software engineering, said the redesign introduced “an incredible set of new personalisation features that will make your experience feel fresh and incredibly you”.
+The new features will be available to older iPhones but are likely intended to work in concert with the forthcoming iPhone 14, which is rumoured to have an always-on display.
+Alongside the visual redesign, iOS 16 will include a number of other new features:
+The Messages app will allow users to edit, or even recall, iMessages sent in error.
+Dictation has been redesigned to make it easier to switch between dictating text and editing it with a keyboard.
+Live text will now work with video, letting users cut and paste text from a paused video still.
+Apple Maps lets users add multiple stops to a route, and sync them between iOS and Macs.
+A new “shared photo library” allows families to seamlessly bundle all their pictures taken together in one shared online library.
+“Safety Check” lets people leaving abusive relationships sever all access given to other people with one click.
+The Fitness app, once limited to users with an Apple Watch, will now be on iPhones too, tracking steps and movement.
+“Continuity camera” lets you use your iPhone as a webcam for any Mac computer.
+And, 12 years after it was first released, the iPad will get a Weather app in iPadOS 16.

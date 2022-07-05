@@ -1,0 +1,24 @@
+Parking spots across the city could soon be doing a lot more than we’re used to. The city’s Transportation Department plans to install 10,000 electric vehicle chargers alongside curbside parking spots by 2030. The program has the potential to help jumpstart New York City’s anemic rate of EV adoption, which still lags far behind other big U.S. cities.
+But not all chargers are equal. And unless we get this program right, these 10,000 new chargers could be obsolete the day we put them on the street. (Full disclosure: I run a company that manufactures what I consider the right kind of chargers.)
+As the city prepares to go big, now is the time to set a high bar and ensure that we are installing the technology of tomorrow and not the technology of decades past. Charging should be almost invisible to the EV owner, happening seamlessly at all the places they are regularly parking.
+In short, our goal should be to bring charging to cars, not cars to charging. No EV driver should have to replicate or exacerbate the kind of wasteful trips conventional cars make to a gas station. That means our chargers have to be fast and flexible, so they charge a parked car while you go shopping, go out for a meal or visit with friends.
+A EV charging station is pictured near the David N. Dinkins Municipal Building on June 7, 2022 in Manhattan. (Barry Williams/for New York Daily News)
+The problem is that the most commonly installed chargers, including the roughly 100 chargers installed across city curbs so far, don’t meet that need. These Level 2 “slow chargers” draw around seven kilowatts and charge a parked sedan in roughly 10 hours.
+That’s right: 10 hours.
+How many trips do you make that last that long? There’s no such thing as a parking meter that lets you park for 10 hours in NYC.
+Just imagine circling block after block with a low battery in search of not only an alternate-side spot, but one with one of the handful with a public charger not in use. It will be like looking for a needle in a haystack. And even if you find one, you’d have to organize a whole day around waiting for that charge to finish.
+That would make the experience of owning an EV far less convenient than a conventional car — not something likely to win over New Yorkers on the fence.
+Zooming out, a vast network of slow chargers would have real shortcomings from a citywide perspective. EVs in a city like New York need to be charged once every week for the average resident and every day for the likes of rideshare and delivery personnel. At most, a network of curbside slow chargers could satisfy tens of thousands of vehicles in a city that has 4.4 million vehicles on the roads daily.
+That’s not going to make much of a dent in EV adoption rates. So how can we do better?
+A first-class curbside charging network should be a more seamless experience for the driver, and support a far larger number of EVs on the road. Charging times should only take as long as drivers need to spend parking — and no longer.
+We can meet that need with an intermediate charging system. An intermediate charger with a capacity of 30-120 kW can charge an EV battery in less than an hour, far faster than a slow charger.
+This is like the difference between dial-up and broadband internet. Today we have the ability to deploy intermediate and fast chargers at 10-50 times faster than slow chargers.
+Unlike the fast chargers that companies like ours install in indoor garages, intermediate chargers at the curb are much less expensive and simpler to install. The technology to do all this exists today and doesn’t require any costly upgrades to the grid.
+And it would make a huge difference.
+From the perspective of a driver, you could count on a full charge almost anywhere you parked. Chargers wouldn’t increase dwell time and these spaces would free up throughout the day.
+And from a citywide perspective, 10,000 of those chargers could support hundreds of thousands of EVs on the road — a far larger percentage of all the cars in New York City.
+That would be a massive public good for our efforts to curb car emissions, and incentivize New Yorkers to make the switch to EVs.
+We only have one shot to get curbside charging right. Let’s speed up our chargers, and speed up NYC’s transition to EVs in the process.
+Cohen is the founder and CEO of Gravity Inc.
+Copyright © 2021, New York Daily News
+Copyright © 2021, New York Daily News

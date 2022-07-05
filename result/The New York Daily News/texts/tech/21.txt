@@ -1,0 +1,27 @@
+It didn’t matter if you are Black or white — unless you were looking for a new apartment on Facebook.
+What users looked like helped determine whether or not Facebook showed them ads for available housing until at least 2019, Justice Department officials said Tuesday in announcing a first-of-its-kind settlement with the social network’s parent company for running a biased algorithm system.
+Manhattan U.S. Attorney Damian Williams said the Justice Department had reached an unprecedented lawsuit settlement with Facebook’s parent, Meta Platforms, Inc., that will require the company to revamp technology that blocked ads to users based on their race, gender, zip code and other characteristics.
+“Because of this groundbreaking lawsuit, Meta will — for the first time — change its ad delivery system to address algorithmic discrimination,” said Williams.
+If Meta doesn’t change the system to the Justice Department’s satisfaction, Williams said, his office will “proceed with the litigation.”
+Meta has until December to abandon its housing ad system and create a new one that’s not racist, sexist or classist and whose technology the government must approve before implementation.
+The new algorithm must incorporate a self-policing element, and Meta must agree to submit to ongoing reviews.
+Mark Zuckerberg’s company also agreed to pay a civil penalty of $115,054, the maximum by law.
+Facebook’s parent company Meta settled with the Justice Department Tuesday in an unprecedented lawsuit that charged the social network’s bigoted algorithm system with violating users’ civil rights through discriminatory housing ads.  (Fritz Jorgensen / iStock Editorial via Getty Images)
+In a blog post, Roy Austin, Meta’s deputy general counsel, said the company’s new “variance reduction system” technology will ensure users are not discriminated against along racial lines or other characteristics protected by the 1968 Fair Housing Act.
+Austin said the algorithm will also be used for to ensure ads related to employment and credit reach everyone who wants to see them.
+The settlement resolves a lawsuit filed Tuesday born from a discrimination charge and civil suit against Facebook issued by the Department of Housing and Urban Development in March 2019.
+According to the complaint, Facebook collects data on its users’ appearances in myriad ways.
+One is its popular tool inviting people to create their own cartoon-like “avatar” — which helped the algorithm collect information about users’ race.
+After inputting details like skin color, eye, nose and lip shapes and hairstyle, the site prompts users making an avatar to open the selfie cam to determine the closest-matching facial features.
+After inputting details like skin color, eye, nose and lip shapes, and hairstyle, the site prompts users making an avatar to open the selfie cam to determine the closest-matching facial features. 
+“This information concerning the user’s physical appearance becomes part of Facebook’s enormous set of user data,” reads the complaint.
+By excluding people from seeing ads based on their race, gender and other characteristics, Facebook violated the Fair Housing Act, the feds say.
+Self-designed tools called “Lookalike Audience” and “Special Ad Audience,” which were intended to help businesses broaden the number of people who saw their ads, but in fact excluded people based on gender and race, officials said.
+Under the settlement, Meta will discontinue both tools.
+Facebook CEO Mark Zuckerberg in 2019.  (Mark Lennihan/AP)
+Demetria McCain, principal deputy assistant secretary of the Department of Housing and Urban Development, said companies like Facebook play as important a role as housing providers in the modern age.
+“Parties who discriminate in the housing market, including those engaging in algorithmic bias, must be held accountable,” said McCain. “This type of behavior hurts us all.”
+The lawsuit is the DOJ’s first challenging discrimination by an algorithm under the FHA, which prohibited discrimination based on race, gender, religion and other characteristics when renting, selling or financing housing.
+With News Wire Services
+Copyright © 2021, New York Daily News
+Copyright © 2021, New York Daily News

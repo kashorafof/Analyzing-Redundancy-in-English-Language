@@ -1,0 +1,29 @@
+A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues
+Want to see a picture of Jesus Christ laughing at a meme on his phone, Donald Trump as the Nevermind baby, or Karl Marx being slimed at the Nikelodeon Kid’s Choice awards?
+If you’ve been on Twitter or Instagram in the past couple of weeks, it’s been hard to miss odd-looking formulations of these kinds of scenarios in the form of AI art. 
+pic.twitter.com/N7cJAh2Qqs
+DALL-E (and DALL-E mini), the creator of these artworks, is a neural network that can take a text phrase and transform it an image. It was trained by looking at millions of images on the internet along with accompanying text and it learned to create pictures of things you’d never expect to be combined, such as an avocado armchair.
+Text to image technology is proceeding at a rapid pace, and the full DALL-E model is able to produce scarily clear images based on the input you provide, while the mini version is still clunky enough to capture the weird internet style that makes them instantly meme-able. The best examples of that can be found on the r/weirddalle subreddit.
+a transparent sphere on a beach with a crab looking at it #dalle2 #dalle pic.twitter.com/L0ZmkhqQIU
+pic.twitter.com/2CSdjBRamk
+But experts say the technology poses ethical challenges.
+Prof Toby Walsh, AI researcher and author of  a book on the morality of AI, says the kind of technology that powers DALL-E makes it easier to create fake images.
+“We are seeing deep fakes being used all the time, and the technology is going to allow still images, but ultimately also video images, to be synthesised [more easily] by bad actors,” he says.
+DALL-E has content policy rules in place that prohibit bullying, harassment, the creation of sexual or political content, or creating images of people without their consent. And while Open AI has limited the number of people who can sign up to DALL-E, its lower-grade replica, DALL-E mini, is open access, meaning people can produce anything they want.
+Thread (3/?) “A still of Homer Simpson in The Godfather (1972)” #dalle #dalle2 pic.twitter.com/fMoc5F5jOO
+“It’s going to be very hard to ensure that people don’t use them to make images that people find offensive,” Walsh says.
+Dr Oliver Bown , a researcher in computational creativity at the University of New South Wales, says the nature of the neural networks in the AI makes it difficult to prevent DALL-E from creating offensive imagery, but it is possible to prevent the person requesting the image from accessing and sharing it.
+“You can obviously just have a filter at the end that that sort of tries to filter out things that are bad.”
+BRO DALL-E 2 FAKED THE MOON LANDING!! #dalle2 #dalle pic.twitter.com/4Xjsz60brt
+Walsh says in addition to regulatory framework and company policies around the use of the technology, the public also needs to be educated to be more discerning about what they are seeing online.
+Sign up for the fun stuff with our rundown of must-reads, pop culture and tips for the weekend, every Saturday morning
+“If I got [an image] off the BBC website, the Guardian website, I hope they’ve done their homework and I could be a bit more trusting than if I got it off Twitter. [In that case] I ask all the questions as to [whether this is] a bit of fake content or not.”
+The other major ethical issue Walsh sees coming is the potential for text-to-image AI to replace jobs in graphic design.
+“You can imagine that more of us are going to be able to do graphic design because we could say ‘paint me a picture’ with the specification when we want, and we’ll get that picture. Whereas previously, there was a graphic designer who produced that picture,” he says.
+“Graphic design isn’t going to go away, it will lead to even more graphic design because all of us can access these tools, but graphic designers might have less work themselves.”
+But Bown says this new technology will also allow for “prompt creativity”, meaning the thought that goes into the image request will lead to more creativity.
+“This new challenge is on for creative people to think about what they want to put into a system like this,” he says.
+what can't this bot do? Keep hitting me with DALL-E 2 prompts! #dalle2 #dalle https://t.co/UqSNiWqaWB pic.twitter.com/gAbOI3Q48e
+The clunky look of DALL-E mini image generations is also becoming an internet art form of its own, Bown says.
+“I can imagine that this would just be huge for something like Instagram or just direct messaging with your mates when you’re trying to send memes. 
+“There’ll be all kinds of crazy subcultures of image generation. So if it produces these kind of hazy, slightly mangled images with people’s arms in the wrong places, that’s OK, we just get used to that aesthetic.”
