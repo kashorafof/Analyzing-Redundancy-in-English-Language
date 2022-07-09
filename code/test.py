@@ -1,8 +1,8 @@
-from mainConfig import *
-import spacy
-from spacy import displacy
-from nltk.tokenize import sent_tokenize
-import os
+# from mainConfig import *
+# import spacy
+# from spacy import displacy
+# from nltk.tokenize import sent_tokenize
+# import os
 
 # txt = ''
 # path = result_path + '/The Wall Street Journal/texts/other/'
@@ -28,3 +28,32 @@ import os
 #     text = file.readlines()
 #     saveDict[website_name] = len(text)
 # print(saveDict)
+import spacy
+from spacy import displacy
+import nltk
+from nltk.tokenize import sent_tokenize, word_tokenize
+nlp = spacy.load("en_core_web_lg")
+
+#txt = 'I had played football, tennis and basketball'
+
+
+
+#calculate the number of abbreviations from spacy (not working)
+def count_abbreviation(txt):
+    nlp = spacy.load("en_core_web_lg")
+    doc = nlp(txt)
+    count = 0
+    for token in doc:
+        if token.like_num:
+            count += 1
+    return count
+
+
+
+
+txt = 'do you know where is st mohammed bin zayed '
+
+#txt = 'I will stay in the university or i want to go home.'
+doc = nlp(txt)
+#displacy.render(doc, page="false", jupyter=True)
+print(count_abbreviation(txt))

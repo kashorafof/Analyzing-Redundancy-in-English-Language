@@ -1,22 +1,11 @@
-This video can not be played
-The conservation group WWF is warning that koalas could be wiped out in some Australian states amid deforestation and increasing attacks by livestock.
-Video produced by Trystan Young
-Listen to World Service's Newsroom programme on the BBC iPlayer
-Main image courtesy Sue Gedda/WWF
-Koalas 'face extinction' in parts of Australia. Video, 00:01:29Koalas 'face extinction' in parts of Australia
-Up Next. Heat drives koala to drink from gutter. Video, 00:00:47Heat drives koala to drink from gutter
-Koala strays into Australian hospital. Video, 00:00:38Koala strays into Australian hospital
-Rescued koala's rare condition. Video, 00:00:48Rescued koala's rare condition
-Butterfly photobombs koala. Video, 00:00:37Butterfly photobombs koala
-Traffic-stopping koala gets police escort. Video, 00:00:42Traffic-stopping koala gets police escort
-How do blind people play tennis? Video, 00:01:43How do blind people play tennis?
-'I hid my son in a dumpster' - US shooting witness. Video, 00:00:49'I hid my son in a dumpster' - US shooting witness
-Rescuers try to save stranded cargo ship near Sydney. Video, 00:00:39Rescuers try to save stranded cargo ship near Sydney
-Panic as people flee gunfire in Copenhagen mall. Video, 00:01:24Panic as people flee gunfire in Copenhagen mall
-Using human hair to fight oil spills. Video, 00:01:29Using human hair to fight oil spills
-Worldâs biggest water lily species is discovered. Video, 00:01:43Worldâs biggest water lily species is discovered
-Finding the Higgs: âIncredibleâ moment in science. Video, 00:03:51Finding the Higgs: âIncredibleâ moment in science
-'What a milestone' - Pride's 50th anniversary in London. Video, 00:01:09'What a milestone' - Pride's 50th anniversary in London
-One-minute World News. Video, 00:01:03One-minute World News
-Inside a US abortion clinic in its final days. Video, 00:10:43Inside a US abortion clinic in its final days
-Â© 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+Sun offers processing by the hour
+
+Sun Microsystems has launched a pay-as-you-go service which will allow customers requiring huge computing power to rent it by the hour.
+
+Sun Grid costs users $1 (53p) for an hour's worth of processing and storage power on systems maintained by Sun. So-called grid computing is the latest buzz phrase in a company which believes that computing capacity is as important a commodity as hardware and software. Sun likened grid computing to the development of electricity.
+
+The system could mature in the same way utilities such as electricity and water have developed, said Sun's chief operating officer Jonathan Schwartz. "Why build your own grid when you can use ours for a buck an hour?" he asked in a webcast launching Sun's quarterly Network Computing event in California. The company will have to persuade data centre managers to adopt a new model but it said it already had interest from customers in the oil, gas and financial services industries.
+
+Some of them want to book computing capacity of more than 5,000 processors each, Sun said. Mr Schwartz ran a demonstration of the service, showing how data could be processed in a protein folding experiment. Hundreds of servers were used simultaneously, working on the problem for a few seconds each.
+
+Although it only took a few seconds, the experiment cost $12 (£6.30) because it had used up 12 hour's worth of computing power. The Sun Grid relies on Solaris, the operating system owned by Sun. Initially it will house the grid in existing premises and will use idle servers to test software before shipping it to customers. It has not said how much the system will cost to develop but it already has a rival in IBM, which argues that its capacity on-demand service is cheaper than that offered by Sun.

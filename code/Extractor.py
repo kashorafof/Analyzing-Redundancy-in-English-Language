@@ -6,8 +6,6 @@ import httplib2
 import os
 from os.path import exists
 import csv
-import copy
-import import_ipynb
 import nltk
 import functions as Fun
 import time
@@ -124,9 +122,6 @@ def scrapArticles():
         Fun.save(save_point_dict)
         
 
-
-
-
 def scrapText(link):
 
     start = time.time()
@@ -155,6 +150,7 @@ def scrapText(link):
         genre = "other"
     print(before_merge-start, time.time()-before_categories, 'Total: ' + str(time.time()-start), genre ,chance)
     return s, genre
+
 
 scrapArticles()
 
