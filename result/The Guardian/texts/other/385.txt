@@ -1,0 +1,14 @@
+Unlike carbon dioxide, hydrogen does not have a direct effect on climate – it affects other pollutants
+We are taught at school that hydrogen burns to produce water. This is part of its image as clean fuel. But new analysis is providing warnings for the engineers who will create and operate our future energy systems.
+In 2021, the UK government launched its hydrogen strategy, providing a roadmap to kickstart a hydrogen economy by 2030 that visualises a future where hydrogen could be powering the boilers that heat our homes, fuelling our transport and providing heat for chemical and steel production.
+The first problem for engineers is that burning hydrogen does not produce water only. It could lead to a continuation of the current nitrogen dioxide pollution from burning fossil fuels such as diesel and fossil gas.
+The second problem comes from hydrogen leakage. Two government reports show hydrogen is a climate-heating gas, with a 100-year global warming potential that is about 11 times greater than carbon dioxide.
+Unlike carbon dioxide, hydrogen does not have a direct effect on climate. Instead, it affects other pollutants.
+Increased hydrogen in our air means that methane, the second-most important global warming gas, would stay in our air for longer and have more impact.
+More hydrogen would also change the amount of ozone in our atmosphere. This is the third-most important climate-warming gas. Close to the ground, ozone harms our health and attacks plants, reducing crop yields.
+Increased hydrogen would also change the amount of water vapour in the atmosphere and affect our stratosphere, adding to the climate impact.
+Hydrogen leakages are likely to come from production and from the start up and shut down of turbines and our home boilers. It may also leak from pipe networks where hydrogen will be mixed with fossil methane as a step towards hydrogen-powered villages and then towns.
+Prof Dick Derwent, the co-author of Air Quality and Climate Change: the Basics, who was not part of the government reports, said: “Hydrogen offers a possible role in a low-carbon economy where a natural gas distribution network is already available.
+“Our work has shown official UK data underestimates methane emissions from the gas distribution network. They are getting worse not better with time.
+“Neither government nor the gas industry in the UK have any idea what the natural gas leakage rate is, so why do we expect hydrogen leakage to be any different? It could well be that hydrogen distributed to the domestic sector could be problematic.”
+It is clear from the government reports that burning hydrogen instead of fossil fuels will be climate-beneficial but, regardless of how hydrogen is made, maximising the climate benefits will require minimising hydrogen leakage.

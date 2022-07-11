@@ -8,27 +8,21 @@ import copy
 from mainConfig import *
 from nltk.tokenize import sent_tokenize, word_tokenize
 import spacy 
-
-def get_statistics(text, tokenizer, doc):
-    
-    stats = dict.fromkeys(rules, 0)
-    
-
-    return stats
+import openpyxl
 
 
 def save(File_name, dict):
-    with open(File_name + '.csv', 'w', newline='') as csvfile:
+    with open(File_name , 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(dict.keys())
         writer.writerow(dict.values())
 
 def load(File_name):
-    if not exists(File_name + '.csv'):
+    if not exists(File_name ):
         save(File_name, dict())
         return dict()
 
-    with open(File_name + '.csv', 'r') as csvfile:
+    with open(File_name , 'r') as csvfile:
         reader = csv.reader(csvfile)
         return dict(zip(next(reader), next(reader)))
 
@@ -71,23 +65,25 @@ def num_Articles():
 def combine_categ(categ):
     s = str('')
 
+    combinePath = result_path + '/combined/' 
+    if not exists(combinePath):
+        os.makedirs(combinePath)
+    combinePath += categ + '.txt'
+    OutFile = open(combinePath, 'w+', encoding='utf-8')
+
     for website_name in website_list.keys():
         path = result_path + '/'+website_name + '/texts/' + categ + '/'
         if not exists(path):
             continue
         for filename in os.listdir(path):
             if filename.endswith(".txt"):
-                txt = open(path + filename, "r" , encoding='utf-8', errors='replace').read()
-                s += str(txt) 
+                Text = open(path + filename, "r" , encoding='utf-8', errors='replace').readlines()
 
+                #t = '-'.join([txt.strip() for txt in Text if len(txt.split()) > 4])
+                #s += str('-'.join([txt.strip() for txt in Text if len(txt.split()) > 4]))
+                txt = str(''.join([txt.strip() + '\n' for txt in Text if len(txt.split()) > 4]))
+                OutFile.write(txt + '\n')
 
-    path = result_path + '/combined/' 
-    if not exists(path):
-        os.makedirs(path)
-    path = path + categ + '.txt'
-    open(path, 'w+', encoding='utf-8').write(s)
-
-    return s
 
 
 
@@ -110,7 +106,16 @@ def graph(word, occurrences):
     # plt.savefig(result_path+ '/word_statistics/'  + word + '.eps', format='eps')
     return x
 
+def get_data(location):
 
+    abbreviations = {}
+    workbook = openpyxl.load_workbook(location)
+    sheet = workbook.active
+
+    for i in range(2,sheet.max_row):
+        abbreviations[sheet.cell(i,1).value] = sheet.cell(i,2).value
+    
+    return abbreviations
 
 
 def get_word_statistics():
@@ -119,20 +124,29 @@ def get_word_statistics():
     # doc = nlp(txt)
     # posTag = nltk.pos_tag(tokenized)
 
+    abbrv = get_data('./Abbreviaiton list.xlsx')
     nlp = spacy.load("en_core_web_lg")
+
     for category in categories:
-        txt = open(result_path + '/combined/' + category + '.txt', 'r', encoding='utf-8').read()
+
+        txt = open(result_path + '/combined/' + category + '.txt', 'r', encoding='utf-8').read().strip()
         sentences = sent_tokenize(txt)
 
         tokenized = [word_tokenize(sentence) for sentence in sentences]
         posTags = [nltk.pos_tag(token) for token in tokenized]
 
         docs = [nlp(sentence) for sentence in sentences]
-
+        txtLength = len(txt.split())
         for rule in rules_results.keys():
-            rule_occ = sum(rules_fun[rule](doc, posTag) for (doc,posTag) in zip(docs,posTags))
-            rules_results[rule][category] = 100 * rule_occ / len(txt.split())
-            print(category, rule, rule_occ)
+            if rule == 'Abbreviation':
+                rule_occ = rules_fun[rule] (txt, abbrv)
+            else:
+                print(rule)
+                rule_occ = sum( rules_fun[rule] (doc, posTag)  for (doc,posTag) in zip(docs,posTags))
+
+            rules_results[rule][category] = 100 * rule_occ / txtLength
+
+
 
     for rule in rules_results.keys():
         graph(rule, rules_results[rule])
@@ -140,5 +154,3 @@ def get_word_statistics():
         plt.savefig(result_path+ '/word_statistics/'  + rule + '.png', format='png')
         plt.close()
     
-
-get_word_statistics()

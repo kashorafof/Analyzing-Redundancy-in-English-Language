@@ -1,0 +1,3 @@
+Time to scrap NYpost: 2183.8923830986023
+Time to compine all: 14.535684823989868
+Time to get statistics: 6464.707967758179

@@ -1,18 +1,13 @@
 
-		Thanks for contacting us. We've received your submission.	
-An artificial intelligence program has developed its own language and no one can understand it.
-OpenAI is an artificial intelligence systems developer – their programs are fantastic examples of super-computing but there are quirks.
-DALLE-E2 is OpenAI‘s latest AI system – it can generate realistic or artistic images from user-entered text descriptions.
-DALLE-E2 represents a milestone in machine learning – OpenAI’s site says the program “learned the relationship between images and the text used to describe them.”
-A DALLE-E2 demonstration includes interactive keywords for visiting users to play with and generate images – toggling different keywords will result in different images, styles, and subjects.
-But the system has one strange behavior – it’s writing its own language of random arrangements of letters, and researchers don’t know why.
-Giannis Daras, a computer science Ph.D. student at the University of Texas, published a Twitter thread detailing DALLE-E2’s unexplained new language.
-Daras told DALLE-E2 to create an image of “farmers talking about vegetables” and the program did so, but the farmers’ speech read “vicootes” – some unknown AI word.
-Daras fed “vicootes” back into the DALLE-E2 system and got back pictures of vegetables.
-“We then feed the words: ‘Apoploe vesrreaitars’ and we get birds.” Daras wrote on Twitter.
-“It seems that the farmers are talking about birds, messing with their vegetables!”
+Submit 
 
-			Stay up on the very latest with Evening Update.		
+
+
+Δ
+
+		Thanks for contacting us. We've received your submission.	
+
+			Save time and money with the latest deals, discounts, trends, reviews and more.		
 
 
 
@@ -24,11 +19,16 @@ Daras fed “vicootes” back into the DALLE-E2 system and got back pictures o
 					
 
 Thanks for signing up!
- Never miss a story.				
-Daras and a co-author have written a paper on DALLE-E2’s “hidden vocabulary”.
-They acknowledge that telling DALLE-E2 to generate images of words – the command “an image of the word airplane” is Daras’ example – normally results in DALLE-E2 spitting out “gibberish text”.
-When plugged back into DALLE-E2, that gibberish text will result in images of airplanes – which says something about the way DALLE-E2 talks to and thinks of itself.
-Some AI researchers argued that DALLE-E2’s gibberish text is “random noise“.
-Hopefully, we don’t come to find the DALLE-E2’s second language was a security flaw that needed patching after it’s too late.
-This article originally appeared on The Sun and was reproduced here with permission.
+ Never miss a story with New York Post newsletters.				
+Cast your attention here, as you won’t want to miss this sizzling hot new product launch from Our Place. 
+Announced today, the makers of the Always Pan have now introduced the cast iron version, expanding their offerings two-fold. 
+The cast iron Always Pan ($155) is just like its older brother in that it replaces eight kitchen tools, can be used on any stovetop and comes in aesthetically pleasing colors you’ll want to leave out to display. 
+However, the cast iron version is unique in that it can go into the oven safely, letting you get that perfect broil, sear and bake at a high heat that the Always Pan couldn’t handle. This means it is time to break out the steaks for the perfect sear and the burgers for your next summer cookout. Since it is also oven-safe, you can then follow that up with a dessert baked in the oven, like a cookie skillet or Dutch baby. 
+The pan is made with premium black matte enameled cast iron on the inside, which is also enamel-coated so you can get cooking right away, no oil or salt scrubbing needed, making for easy egg frying and sautéing without a fuss. 
+It also comes with a clear lid, so you can see what’s cooking at all times. In addition, the cast iron Always Pan comes with Hot Grips for the handles so you don’t burn yourself at higher temps.
+Upon launch, the cast iron Always Pan will be available in some of the most coveted, classic colors, including Spice, Steam, Char, Sage, Blue Salt and Lavender, many of which match the Always Pan and the Perfect Pot, well, perfectly. 
+Like always, this launch will be a hot one, so we recommend acting fast to get this in your shopping cart and into your kitchen ASAP, using the button below. 
+Check out New York Post Shopping for more content.
+
+
 Share Selection

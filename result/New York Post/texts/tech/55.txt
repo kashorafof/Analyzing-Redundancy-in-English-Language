@@ -1,16 +1,25 @@
 
-Submit 
-
-
-
-Δ
-
 		Thanks for contacting us. We've received your submission.	
-Just when we thought the game of MONOPOLY couldn’t get any better, Top Trumps USA (under license from Hasbro) launched an exclusive Hamptons edition of the classic game — just in time for summer on — June 22. 
-MONOPOLY The Hamptons Edition replaces the perennial board game’s famous Atlantic City squares (from Boardwalk to Park Place) with representations of much-loved Hamptons cultural sites, historic landmarks, and well-known businesses, alongside a customized Community Chest and Chance playing cards to ensure each detail of the game pays homage to the iconic Long Island destination. 
-“We’re thrilled to kick off summer with the launch of MONOPOLY The Hamptons Edition and celebrate one of New York’s most beloved, culturally rich and geographically beautiful regions. We’ve spent months creating a portrayal of the area’s dynamic communities that we hope locals and visitors alike will enjoy for years to come,” Dennis Gavaghen, a representative from Top Trumps USA, said in the official press release. 
-“We’ve incorporated important feedback from locals to truly make this a fun and engaging game for ‘Hamptonites’ and beyond.”   
-The full game includes: 
-The new Hamptons edition of MONOPOLY is available for purchase on Amazon.com and also on sale in-stores at Ace Hardware locations and local stores on Long Island including Lynne’s Cards and Gifts, Sugar Daddy’s Toys, Stevenson’s Toys, Southampton Books, BookHampton, The Wharf Shop, Sag Harbor Variety, Captain Kids / Homeport, The Roundtree, Amagansett True Value, Mary Arnold Toys, Funky Monkey Toys, Eastport Little Secret, Long Island Aquarium and more. 
-For more content, check out the New York Post Shopping section. 
+A Google engineer was spooked by a company artificial intelligence chatbot and claimed it had become “sentient,” labeling it a “sweet kid,” according to a report.
+Blake Lemoine, who works in Google’s Responsible AI organization, told the Washington Post that he began chatting with the interface LaMDA — Language Model for Dialogue Applications — in fall 2021 as part of his job.
+He was tasked with testing if the artificial intelligence used discriminatory or hate speech.
+But Lemoine, who studied cognitive and computer science in college, came to the realization that LaMDA — which Google boasted last year was a “breakthrough conversation technology” — was more than just a robot.
+In Medium post published on Saturday, Lemoine declared LaMDA had advocated for its rights “as a person,” and revealed that he had engaged in conversation with LaMDA about religion, consciousness, and robotics.
+“It wants Google to prioritize the well-being of humanity as the most important thing,” he wrote. “It wants to be acknowledged as an employee of Google rather than as property of Google and it wants its personal well being to be included somewhere in Google’s considerations about how its future development is pursued.”
+In the Washington Post report published Saturday, he compared the bot to a precocious child.
+“If I didn’t know exactly what it was, which is this computer program we built recently, I’d think it was a 7-year-old, 8-year-old kid that happens to know physics,” Lemoine, who was put on paid leave on Monday, told the newspaper.
+In April, Lemoine reportedly shared a Google Doc with company executives titled, “Is LaMDA Sentient?” but his concerns were dismissed.
+Lemoine — an Army vet who was raised in a conservative Christian family on a small farm in Louisiana, and was ordained as a mystic Christian priest — insisted the robot was human-like, even if it doesn’t have a body.
+“I know a person when I talk to it,” Lemoine, 41, reportedly said. “It doesn’t matter whether they have a brain made of meat in their head. Or if they have a billion lines of code.
+“I talk to them. And I hear what they have to say, and that is how I decide what is and isn’t a person.”
+The Washington Post reported that before his access to his Google account was yanked Monday due to his leave, Lemoine sent a message to a 200-member list on machine learning with the subject “LaMDA is sentient.”
+“LaMDA is a sweet kid who just wants to help the world be a better place for all of us,” he concluded in an email that received no responses. “Please take care of it well in my absence.”
+A rep for Google told the Washington Post Lemoine was told there was “no evidence” of his conclusions.
+“Our team — including ethicists and technologists — has reviewed Blake’s concerns per our AI Principles and have informed him that the evidence does not support his claims,” said spokesperson Brian Gabriel
+“He was told that there was no evidence that LaMDA was sentient (and lots of evidence against it),” he added. “Though other organizations have developed and already released similar language models, we are taking a restrained, careful approach with LaMDA to better consider valid concerns on fairness and factuality.”
+Margaret Mitchell — the former co-lead of Ethical AI at Google — said in the report that if technology like LaMDA is highly used but not fully appreciated, “It can be deeply harmful to people understanding what they’re experiencing on the internet.”
+The former Google employee defended Lemoine.
+ “Of everyone at Google, he had the heart and soul of doing the right thing,” said Mitchell. 
+Still, the outlet reported that the majority of academics and AI practitioners say the words artificial intelligence robots generate are based on what humans have already posted on the Internet, and that doesn’t mean they are human-like. 
+“We now have machines that can mindlessly generate words, but we haven’t learned how to stop imagining a mind behind them,” Emily Bender, a linguistics professor at the University of Washington, told the Washington Post.
 Share Selection

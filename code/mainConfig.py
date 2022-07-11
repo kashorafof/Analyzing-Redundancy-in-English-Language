@@ -11,24 +11,33 @@ import time
 from scipy.stats import sem
 import copy
 import text_proccessing
-
+x = 0
 minGenrePercent = 60
 min_article_length = 100
 
+log = open('./log.txt', 'w+' , encoding='utf-8')
+
 result_path = "../result"
+abbreviation_location = './Abbreviaiton list.xlsx'
+links_save_point_location = './Links.csv'
 
 
 categories = ["tech", "sport", "business", "politics", "entertainment", "other"]
-rules = ["Coordinary Conjunction", "Phrasel Verb"] # to do
 forbidden_ends = (".svg", ".png", ".jpg", ".jpeg", ".gif")
 rules_results = {
     "Coordinary Conjunction": dict.fromkeys(categories, 0),
     "Phrasel Verb": dict.fromkeys(categories, 0),
+    "Abbreviation": dict.fromkeys(categories, 0),
+    'Subordinating conjunctions': dict.fromkeys(categories, 0), # this will count as 3 instead of 1 in the total
+    'Pre proper noun': dict.fromkeys(categories, 0),
 }
 
 rules_fun = {
     'Coordinary Conjunction': text_proccessing.CoordinaryConjunction,
     'Phrasel Verb': text_proccessing.count_Phrasel_Verb,
+    'Abbreviation': text_proccessing.count_Abbreviation,
+    'Subordinating conjunctions': text_proccessing.count_Subordinating_conjunctions,
+    'Pre proper noun': text_proccessing.count_Pre_Proper_Noun,
 }
 
 

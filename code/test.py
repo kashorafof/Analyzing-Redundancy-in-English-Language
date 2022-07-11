@@ -28,11 +28,12 @@
 #     text = file.readlines()
 #     saveDict[website_name] = len(text)
 # print(saveDict)
+from time import time
 import spacy
 from spacy import displacy
 import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
-nlp = spacy.load("en_core_web_lg")
+#nlp = spacy.load("en_core_web_lg")
 
 #txt = 'I had played football, tennis and basketball'
 
@@ -47,13 +48,38 @@ def count_abbreviation(txt):
         if token.like_num:
             count += 1
     return count
+#calculate the number of subordinates from spacy (not working)
+def count_subordinate(txt):
+    nlp = spacy.load("en_core_web_lg")
+    doc = nlp(txt)
+    count = 0
+    for token in doc:
+        if token.dep_ == 'subj':
+            count += 1
+    return count
 
 
 
-
-txt = 'do you know where is st mohammed bin zayed '
+#txt = 'do you know where is st mohammed bin zayed '
 
 #txt = 'I will stay in the university or i want to go home.'
-doc = nlp(txt)
+#doc = nlp(txt)
 #displacy.render(doc, page="false", jupyter=True)
-print(count_abbreviation(txt))
+#print(count_abbreviation(txt))
+# x = 'bloating, fatigue, bone or joint pain, unintended weight loss, itchy skin rash and abdominal pain, diarrhea and constipation.'
+# count = 0
+# posTag = nltk.pos_tag(word_tokenize(x))
+# nlp = spacy.load("en_core_web_lg")
+# doc = nlp(x)
+# print(doc[0].text)
+
+# for word in posTag:
+#     if word[1] == 'CC':
+#         for token in doc:
+#             if token.dep_ == 'conj':
+#                 print(token.lemma_)
+#                 count += 1
+# print(count)
+import time
+
+print(time.localtime())

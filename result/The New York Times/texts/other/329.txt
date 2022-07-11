@@ -1,0 +1,49 @@
+Advertisement
+Supported by
+The study was small, and experts say it needs to be replicated. But for 18 people with rectal cancer, the outcome led to “happy tears.”
+Send any friend a story
+As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.
+By Gina Kolata
+It was a small trial, just 18 rectal cancer patients, every one of whom took the same drug.
+But the results were astonishing. The cancer vanished in every single patient, undetectable by physical exam, endoscopy, PET scans or M.R.I. scans.
+Dr. Luis A. Diaz Jr. of Memorial Sloan Kettering Cancer Center, an author of a paper published Sunday in the New England Journal of Medicine describing the results, which were sponsored by the drug company GlaxoSmithKline, said he knew of no other study in which a treatment completely obliterated a cancer in every patient.
+“I believe this is the first time this has happened in the history of cancer,” Dr. Diaz said.
+Dr. Alan P. Venook, a colorectal cancer specialist at the University of California, San Francisco, who was not involved with the study, said he also thought this was a first.
+A complete remission in every single patient is “unheard-of,” he said.
+These rectal cancer patients had faced grueling treatments — chemotherapy, radiation and, most likely, life-altering surgery that could result in bowel, urinary and sexual dysfunction. Some would need colostomy bags.
+They entered the study thinking that, when it was over, they would have to undergo those procedures because no one really expected their tumors to disappear.
+But they got a surprise: No further treatment was necessary.
+“There were a lot of happy tears,” said Dr. Andrea Cercek, an oncologist at Memorial Sloan Kettering Cancer Center and a co-author of the paper, which was presented Sunday at the annual meeting of the American Society of Clinical Oncology.
+Another surprise, Dr. Venook added, was that none of the patients had clinically significant complications.
+On average, one in five patients have some sort of adverse reaction to drugs like the one the patients took, dostarlimab, known as checkpoint inhibitors. The medication was given every three weeks for six months and cost about $11,000 per dose. It unmasks cancer cells, allowing the immune system to identify and destroy them.
+While most adverse reactions are easily managed, as many as 3 percent to 5 percent of patients who take checkpoint inhibitors have more severe complications that, in some cases, result in muscle weakness and difficulty swallowing and chewing.
+The absence of significant side effects, Dr. Venook said, means “either they did not treat enough patients or, somehow, these cancers are just plain different.”
+Progress in the field. In recent years, advancements in research have changed the way cancer is treated. Here are some recent updates:
+Uterine cancer. Cancer of the uterus is on the rise, especially among Black women. Experts say the cancer will eventually become the third most common type among women, and recent studies show that it is not only more likely to strike Black women, but also more likely to be deadly.
+Blood tests. New blood tests that look for minuscule shards of DNA or proteins to detect a variety of cancers have won praise from President Biden, who made them a priority of his Cancer Moonshot program. Supporters say the tests can find tumors when they are still small and curable, but a definitive study to determine whether the tests could prevent cancer deaths has yet to come.
+Melanoma. A large study found that participants who ate high quantities of fish each week had a greater risk of developing melanoma, the most serious type of skin cancer. It is not clear what’s behind the surprising association between fish intake and melanoma, and the lead author of the study cautioned that the findings are not a reason to remove fish from a healthy diet.
+Rectal cancer. A small trial that saw 18 rectal cancer patients taking the same drug, dostarlimab, appears to have produced an astonishing result: The cancer vanished in every single participant, undetectable by physical exam, endoscopy, PET scans or M.R.I. scans. Experts believe it to be the first time in history that a study has led to complete remission in every single cancer patient.
+Breast cancer trial. A treatment with trastuzumab deruxtecan, a drug that targets cancer cells with laserlike precision, was found to be stunningly successful at slowing tumor growth and extending life in clinical trial participants who had metastatic breast cancer.
+The effect of weight loss. A new study found that people who lost significant amounts of weight through bariatric surgery had a 32 percent lower risk of developing cancer and a 48 percent lower risk of dying from cancer, compared with people who did not have the surgery. According to the study, the more weight people lost, the more their cancer risk fell.
+In an editorial accompanying the paper, Dr. Hanna K. Sanoff of the University of North Carolina’s Lineberger Comprehensive Cancer Center, who was not involved in the study, called it “small but compelling.” She added, though, that it is not clear if the patients are cured.
+“Very little is known about the duration of time needed to find out whether a clinical complete response to dostarlimab equates to cure,” Dr. Sanoff said in the editorial.
+Dr. Kimmie Ng, a colorectal cancer expert at Harvard Medical School, said that while the results were “remarkable” and “unprecedented,” they would need to be replicated.
+The inspiration for the rectal cancer study came from a clinical trial Dr. Diaz led in 2017 that Merck, the drugmaker, funded. It involved 86 people with metastatic cancer that originated in various parts of their bodies. But the cancers all shared a gene mutation that prevented cells from repairing damage to DNA. These mutations occur in 4 percent of all cancer patients.
+Patients in that trial took a Merck checkpoint inhibitor, pembrolizumab, for up to two years. Tumors shrank or stabilized in about one-third to one-half of the patients, and they lived longer. Tumors vanished in 10 percent of the trial’s participants.
+That led Dr. Cercek and Dr. Diaz to ask: What would happen if the drug were used much earlier in the course of disease, before the cancer had a chance to spread?
+They settled on a study of patients with locally advanced rectal cancer — tumors that had spread in the rectum and sometimes to the lymph nodes but not to other organs. Dr. Cercek had noticed that chemotherapy was not helping a portion of patients who had the same mutations that affected the patients in the 2017 trial. Instead of shrinking during treatment, their rectal tumors grew.
+Perhaps, Dr. Cercek and Dr. Diaz reasoned, immunotherapy with a checkpoint inhibitor would allow such patients to avoid chemotherapy, radiation and surgery.
+Dr. Diaz began asking companies that made checkpoint inhibitors if they would sponsor a small trial. They turned him down, saying the trial was too risky. He and Dr. Cercek wanted to give the drug to patients who could be cured with standard treatments. What the researchers were proposing might end up allowing the cancers to grow beyond the point where they could be cured.
+“It is very hard to alter the standard of care,” Dr. Diaz said. “The whole standard-of-care machinery wants to do the surgery.”
+Finally, a small biotechnology firm, Tesaro, agreed to sponsor the study. Tesaro was bought by GlaxoSmithKline, and Dr. Diaz said he had to remind the larger company that they were doing the study — company executives had all but forgotten about the small trial.
+Their first patient was Sascha Roth, then 38. She first noticed some rectal bleeding in 2019 but otherwise felt fine — she is a runner and helps manage a family furniture store in Bethesda, Md.
+During a sigmoidoscopy, she recalled, her gastroenterologist said, “Oh no. I was not expecting this!”
+The next day, the doctor called Ms. Roth. He had had the tumor biopsied. “It’s definitely cancer,” he told her.
+“I completely melted down,” she said.
+Soon, she was scheduled to start chemotherapy at Georgetown University, but a friend had insisted she first see Dr. Philip Paty at Memorial Sloan Kettering. Dr. Paty told her he was almost certain her cancer included the mutation that made it unlikely to respond well to chemotherapy. It turned out, though, that Ms. Roth was eligible to enter the clinical trial. If she had started chemotherapy, she would not have been.
+Not expecting a complete response to dostarlimab, Ms. Roth had planned to move to New York for radiation, chemotherapy and possibly surgery after the trial ended. To preserve her fertility after the expected radiation treatment, she had her ovaries removed and put back under her ribs.
+After the trial, Dr. Cercek gave her the news.
+“We looked at your scans,” she said. “There is absolutely no cancer.” She did not need any further treatment.
+“I told my family,” Ms. Roth said. “They didn’t believe me.”
+But two years later, she still does not have a trace of cancer.
+Advertisement

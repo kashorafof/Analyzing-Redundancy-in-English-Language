@@ -6,24 +6,18 @@ Submit
 Δ
 
 		Thanks for contacting us. We've received your submission.	
-The FDNY is seeking to build a digital firewall to protect the Big Apple’s thousands of rescue workers from cyberattacks, including “doxxing,” The Post has learned.
-The department recently put out a call in the City Record for consultant services “for the development and implementation of protective strategies to address the cyber threat of doxxing and to provide resiliency for the security of personal information.”
-Doxxing is the publishing of personal information on the internet with the intent to bully, harass or threaten others.
-The sick practice has become increasingly prevalent online. A radical pro-choice group recently doxxed six Supreme Court justices to spur protesters into showing up outside their homes to oppose overturning Roe v. Wade, the landmark ruling legalizing abortion.
-An FDNY spokesman said the move to increase cybersecurity wasn’t triggered by a doxxing incident involving one of the city’s Bravest. But the department has enormous databases with the personal information of its 15,000 emergency responders and other workers — as well as retirees and patients it treats responding to 911 calls — that could be vulnerable to cyberattacks.
-The search for the consultant is “part of the FDNY’s ongoing cybersecurity preparedness measures to protect the department’s data,” spokesman Frank Dwyer said.
-The selected cybersecurity pro would help implement anti-hack software and develop a training program for a workforce that interacts regularly with the public, the note to potential bidders says.
-“The service should provide real time threat mitigation and recovery capabilities in the event of access to and misappropriation of personally identifiable data during the course of official duties as a member of the FDNY,” reads the note from the department.
-One union leader representing FDNY responders said the solicitation to bolster firewall cybersecurity shows the department is behind the times in guarding against data breaches.
-“It’s an attempt to protect those who protect others. But it’s shocking that the department doesn’t already have such a plan in place,” said Oren Barzilay, president of Local 2807 representing FDNY/EMS emergency medical technicians, paramedics and fire inspectors. “It’s very alarming.”
-Barzilay added: “Hacking or doxxing can happen to anyone. It could put any of us in harm’s way.”
-He also noted the danger of patients’ medical records being exposed.
-FDNY/EMS responds to 1.5 million 911 emergency calls a year and has millions of patients’ medical records in the department’s data system. 
-Those records are forwarded to hospitals and health insurers and the federal Medicare/Medicaid system as the FDNY submits reimbursement for administering oxygen, IV fluids and medicine and for transporting patients.
-The union leader claimed the FDNY’s pitch for cybersecurity help is part of a larger problem, complaining that the department’s payroll system for EMS workers is antiquated and that he has some members who are owed thousands of dollars because of nightmarish glitches.
-Andrew Ansbro, president of the city’s Uniformed Firefighters Association, said the cybersecurity initiative seems like a good-faith attempt by the FDNY to be “proactive” in battling doxxing and data breaches.
-The department emphasized that cyberattacks, including doxxing, have been a troubling homeland security challenge for some time.
-Doxxing of law-enforcement, meanwhile, increased following the police killing of George Floyd in Minneapolis in 2020, which triggered massive nationwide protests and tense confrontations between demonstrators and cops.
-The US Department of Homeland Security reported that high-ranking police officials nationwide — including members of the NYPD — had their personal information posted online and warned the doxxing could inspire attacks by “violent opportunists or domestic violent extremists” or hinder law-enforcement officials as they try to manage demonstrations.
-Authorities are also on alert about cyber attacks waged against US institutions by Russia and other foreign powers.
+Elon Musk’s deployment of thousands of “Starlink” satellite internet terminals to Ukraine has been a major boon for soldiers resisting the brutal Russian invasion – with one top US general stating that the service has helped Ukrainians stay connected to the West.
+Ukrainian soldiers have reportedly used the SpaceX-operated internet system to coordinate military action as well as to stay in touch with their families – despite Russia’s efforts to sever communications.
+Starlink has also helped Ukrainian President Volodymyr Zelensky to communicate directly with his countrymen despite heavy Russian bombardments targeting infrastructure.
+“The strategic impact is, it totally destroyed [Vladimir] Putin’s information campaign,” Brig. Gen. Steve Butow, director of the space portfolio at the Defense Innovation Unit, told Politico. “He never, to this day, has been able to silence Zelenskyy.”
+Musk has touted Starlink, which has more than 400,000 global subscribers, as a source of high-speed, low-cost broadband internet in areas that previously lacked reliable service.
+But the billionaire began shipping Starlink terminals to Ukraine in late February and the request of Ukrainian government officials who feared Russia would cut off traditional internet access.
+“We’ve got more than 11,000 Starlink stations and they help us in our everyday fight on all the fronts,” Ukraine’s vice prime minister Mykhailo Fedorov told Politico. “We’re ready, even if there is no light, no fixed internet, through generators using Starlink, to renew any connection in Ukraine.”
+The report provided the latest account of Starlink’s impact on the ground in Ukraine, more than 100 days after the Russian invasion began.
+In April, a Ukrainian solider identified as “Dima” told journalist David Patrikarakos that the service was playing a key role in the resistance.
+“I want to say one thing: @elonmusk’s Starlink is what changed the war in #Ukraine’s favor. #Russia went out of its way to blow up all our comms. Now they can’t. Starlink works under Katyusha fire, under artillery fire,” the soldier said, according to Patrikarakos’ Twitter thread detailing their interview.
+And in March, the Times of London reported that Starlink was helping the Ukrainian military use drones to target and destroy Russian tanks.
+Dmitry Rogozin, the head of Russian space agency Roscosmos, has been openly critical of Musk’s decision to provide internet access – griping that the billionaire had “chosen a side” even though SpaceX was a civilian firm.
+Musk fired back in response to Rogozin’s remarks.
+“Ukraine civilian Internet was experiencing strange outages – bad weather perhaps? – so SpaceX is helping fix it,” Musk tweeted on March 3.
 Share Selection

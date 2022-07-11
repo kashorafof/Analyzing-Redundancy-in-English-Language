@@ -1,23 +1,19 @@
 
-Submit 
-
-
-
-Δ
-
 		Thanks for contacting us. We've received your submission.	
-A Chinese military analyst suggested that Beijing should develop countermeasures for the Starlink satellite system developed by Elon Musk’s SpaceX — including ways to hack or even destroy the service during a time of conflict.
-In a recent paper published in a China-based academic journal called Modern Defense Technology, analyst Ren Yuanzhen argued that China’s military needs to develop the capability of tracking each of the thousands of satellites set to comprise the Starlink constellations in the coming years.
-Ren’s paper noted that Starlink could be a key resource for the US military, both as a means of providing internet connectivity for troops and as a source of intelligence through satellite imagery.
-The analyst added that the Chinese military should explore “a combination of soft and hard kill methods” that would “make some Starlink satellites lose their functions and destroy the constellation’s operating system,” according to portions of the paper cited by Bloomberg.
-Bloomberg noted that it’s unclear if his views constitute the official stance of the Chinese Community Party — which has drawn sharp criticism from the US and its allies over its military aggression toward Taiwan and in the South China Sea. Ren is affiliated with the Beijing Institute of Tracking and Telecommunications Technology.
-The Post has reached out to SpaceX for comment.
-Musk has touted SpaceX’s Starlink initiative as a source of high-speed, low-cost broadband internet for rural areas and other regions that have traditionally lacked reliable internet access. Amazon is in the process of developing a similar satellite network under the name “Project Kuiper.”
-While SpaceX is a civilian firm, Starlink has drawn international recognition in recent weeks for the vital role it has played in supporting Ukraine’s efforts to resist a brutal Russian invasion. Musk has provided thousands of Starlink terminals to Ukraine since the conflict began in late February.
-A US general recently declared that Starlink had “totally destroyed [Vladimir] Putin’s information campaign” by allowing Ukrainian President Volodymyr Zelensky to directly communicate with his people despite the Kremlin’s efforts to disrupt networks.
-Ukraine’s military has also reportedly used Starlink to coordinate military action — such as facilitating drone strikes against Russian tanks in the field.
-SpaceX has clashed with the Chinese government in the recent past.
-Last December, China said it filed a formal complaint with the United Nations, with officials alleging that astronauts on China’s space station had to take evasive action to avoid collisions with SpaceX satellites.
-US officials downplayed Beijing’s concerns in a response the next month.
-“If there had been a significant probability of collision involving the China Space Station, the United States would have provided a close approach notification directly to the designated Chinese point of contact,” the US said in a Jan. 28 letter to the United Nations’ Committee on the Peaceful Uses of Outer Space.
+Android has plans to issue alerts to users before older apps access their photos.
+Google is working on methods to notify Android users of malicious applications trying to access their media files.
+The tech giant said Android’s upcoming 13 OS is slated to come equipped with the feature sometime by the end of this year.
+Some users can test the new tool via Android 13 Beta 3, which was released on Wednesday.
+Android prides itself on two main areas of importance: Privacy and security, the company said in a statement.
+And this new upgrade draws on both of those areas to help users protect their media storage from old apps.
+“With Android 13, we’ve built on our core themes of privacy and security, developer productivity, and tablet and large screen support,” Dave Burke, VP of Engineering at Android, said.
+Burke noted that there’s “a lot to explore in Android 13 from privacy features like the new notification permission and photo picker to productivity features.”
+Another new feature for Android 13 includes users getting a heads-up when apps try to post notifications by default.
+The Android 13 system will also let users review their notification settings by simply tapping on a notification.
+Android said in its statement that it focused heavily on ‘App compatibility’ for 13 OS.
+This means that an app developed for a previous OS “runs as intended on a new version of the platform,” Android explained.
+“With each release, we make integral changes to the platform that improve privacy and security and the overall user experience across the OS.”
+“To test your app for compatibility, just install your production app from Google Play or another source onto a device running Android 13 Beta 3.”
+Other updates will focus on tablet and large screen products running Android and on overall platform stability.
+This story originally appeared on The Sun and has been reproduced here with permission. 
 Share Selection

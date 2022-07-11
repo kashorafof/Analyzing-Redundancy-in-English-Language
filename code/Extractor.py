@@ -1,18 +1,12 @@
 from bs4 import BeautifulSoup, SoupStrainer
-import matplotlib.pyplot as plt
-import numpy as np
 import requests
 import httplib2
 import os
 from os.path import exists
-import csv
-import nltk
-import functions as Fun
 import time
 import final_res as FS
-from scipy.stats import sem
 from mainConfig import *
-
+import functions as Fun
 
 
 def extractLinks():
@@ -82,7 +76,7 @@ def scrapLinks(link):
 
 
 def scrapArticles():
-    save_point_dict = Fun.load()
+    save_point_dict = Fun.load(links_save_point_location)
 
     for website_name in website_list.keys():
         save_point = int(save_point_dict[website_name])
@@ -119,7 +113,7 @@ def scrapArticles():
 
         print(time.time() - website_time)
         save_point_dict[website_name] = len(links)
-        Fun.save(save_point_dict)
+        Fun.save(links_save_point_location, save_point_dict)
         
 
 def scrapText(link):
@@ -151,8 +145,20 @@ def scrapText(link):
     print(before_merge-start, time.time()-before_categories, 'Total: ' + str(time.time()-start), genre ,chance)
     return s, genre
 
+x = time.time()
 
 scrapArticles()
+log.write('Time to scrap NYpost: '+ str(time.time()-x) + "\n")
+x = time.time()
+
+Fun.combine_all()
+log.write('Time to compine all: '+ str(time.time()-x) + "\n")
+x = time.time()
+
+Fun.get_word_statistics()
+log.write('Time to get statistics: '+ str(time.time()-x) + "\n")
+x = time.time()
 
 # New York Post,The Wall Street Journal,The New York Times,The Washington Times,The New York Daily News,The Guardian,bbc
-# 1239,836,777,567,580,1049,37
+# 0,1099,935,741,746,1306,140
+

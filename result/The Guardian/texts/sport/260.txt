@@ -1,0 +1,27 @@
+The answers to today’s planetary perplexities
+Earlier today I set you the following problem, which was Elon Musk’s favourite interview question for engineers applying to work at SpaceX (according to his biographer Ashlee Vance).
+You’re standing on the surface of the Earth. You walk one mile south, one mile west and one mile north. You end up exactly where you started. Where are you?
+A correct answer is the North Pole. Musk would then ask: “Where else could it be?”
+Today’s first puzzle was that one: where else could it be?
+Solution
+There are an infinite number of places near the South Pole where walking a mile south, west and north returns you to exactly where you started. Consider the circle of latitude near the South Pole that has a circumference of 1 mile. From any point on this circle, walking one mile west along this circle will take you back to that same point. Thus any point a mile north of this circle of latitude is a solution to the problem. But there are more points too: Consider the circle of latitude that has a circumference of 0.5 miles. Any point a mile north of this circle is also a solution. Indeed, the solutions are any point one mile north of a circle whose circumference is (1/n) miles for all n.
+I also set three more problems, which also involve the shape of the Earth.
+1. One direction
+You are standing on the surface of the Earth. You head north and travel for ten miles in a straight line. After a quick stop, you again head north and travel another ten miles in a straight line. You end up exactly where you started. Where are you?
+Solution
+You are anywhere north of the line of latitude that is ten miles south of the North Pole. If you start heading north, you will pop over the pole before you finish the ten miles, and so when you head north again you are retracing your tracks.
+2. Squaring the circle
+You are standing on the surface of the Earth. You walk ten miles north, ten miles west, ten miles south and then ten miles east. You end up exactly where you started. Where are you?
+(Note: this is not a trick question. Since the Earth is spherical, almost all starting points will not get you back to where you started.)
+If you think you have an answer, I will Elon Musk it right back at ya: where else could it be?
+Solution
+The most obvious place is you are anywhere that is 5 miles south of the Equator. This guarantees that your westerly and easterly paths rotate an equal amount around a latitude.
+Yet like the original Musk problem, there are more solutions near a pole. In this case, near the North Pole. If you head north, reaching a latitude where the circle of latitude is less than ten miles, there are solutions that get you back to where you started. To find them requires some heavy lifting using trigonometry. If you want to take a deeper dive, the full result is worked through in the Art of Problem Solving by Alfred Posamentier.
+3. Brain Fogg
+In the Jules Verne story Around the World in Eighty Days, Phileas Fogg leaves London on October 2, 1872. He travels via Egypt, India, Japan, the US and his final leg is across the Atlantic. As the book’s title indicates, the trip takes him 80 days. What day did he arrive back in London?
+(Note: the eightieth day after October 2 is December 21.)
+Solution
+He arrives back one day early, on December 20. Indeed this is an integral part of the plot! By crossing the international date line traveling East, he loses a day. Fogg sees 80 sunrises, but since he is travelling eastward, his days are all shorter than if he had stayed in the same place. In total, he shaves 24 hours off the full 80 days by an east-bound circumnavigation of the world.
+I set a puzzle here every two weeks on a Monday. I’m always on the look-out for great puzzles. If you would like to suggest one, email me.
+I’m the author of several books of puzzles, and also the children’s book series Football School. The latest instalment, The Greatest Ever Quiz Book, is just out.
+I give school talks about maths and puzzles (online and in person). If your school is interested please get in touch.
