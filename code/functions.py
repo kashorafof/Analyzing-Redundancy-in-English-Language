@@ -1,16 +1,15 @@
-from bs4 import BeautifulSoup, SoupStrainer
-import requests
-import httplib2
 import os
 from os.path import exists
 import csv
-import copy
 from mainConfig import *
+import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
 import spacy 
 import openpyxl
-
-
+import matplotlib.pyplot as plt
+import time
+from scipy.stats import sem
+import numpy as np
 def save(File_name, dict):
     with open(File_name , 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
@@ -25,7 +24,6 @@ def load(File_name):
     with open(File_name , 'r') as csvfile:
         reader = csv.reader(csvfile)
         return dict(zip(next(reader), next(reader)))
-
 
 
 def filter_links():
@@ -63,7 +61,6 @@ def num_Articles():
 
 
 def combine_categ(categ):
-    s = str('')
 
     combinePath = result_path + '/combined/' 
     if not exists(combinePath):
@@ -85,8 +82,6 @@ def combine_categ(categ):
                 OutFile.write(txt + '\n')
 
 
-
-
 def combine_all():
     for categ in categories:
         combine_categ(categ)
@@ -106,6 +101,7 @@ def graph(word, occurrences):
     # plt.savefig(result_path+ '/word_statistics/'  + word + '.eps', format='eps')
     return x
 
+
 def get_data(location):
 
     abbreviations = {}
@@ -113,23 +109,32 @@ def get_data(location):
     sheet = workbook.active
 
     for i in range(2,sheet.max_row):
-        abbreviations[sheet.cell(i,1).value] = sheet.cell(i,2).value
+        abbreviations[sheet.cell(i,1).value.strip().lower()] = sheet.cell(i,2).value.strip().lower()
     
     return abbreviations
+log = open( './log.txt', 'w+', encoding='utf-8')
+
+def write(x):
+    print(x)
+    log.write(x + '\n')
+
 
 
 def get_word_statistics():
-    # tokenized = word_tokenize(txt)
-    # nlp = spacy.load("en_core_web_lg")
-    # doc = nlp(txt)
-    # posTag = nltk.pos_tag(tokenized)
-
-    abbrv = get_data('./Abbreviaiton list.xlsx')
+    t = time.time()
+    start = time.time()
+    abbrv = get_data(abbreviation_location)
     nlp = spacy.load("en_core_web_lg")
+    
+    write('loading time: ' + str(time.time() - t))
+    t = time.time() ##
 
     for category in categories:
+        log.write('\n' + category + '\n')
 
-        txt = open(result_path + '/combined/' + category + '.txt', 'r', encoding='utf-8').read().strip()
+        path = result_path + '/combined/' + category + '.txt'
+
+        txt = open(path, 'r', encoding='utf-8').read().strip()
         sentences = sent_tokenize(txt)
 
         tokenized = [word_tokenize(sentence) for sentence in sentences]
@@ -137,20 +142,30 @@ def get_word_statistics():
 
         docs = [nlp(sentence) for sentence in sentences]
         txtLength = len(txt.split())
+        write( category + ' with text length ' + str(txtLength/1000) + 'k words took: ' + str(time.time() - t) + ' to process ')
+
+        t = time.time() ###
+
         for rule in rules_results.keys():
             if rule == 'Abbreviation':
-                rule_occ = rules_fun[rule] (txt, abbrv)
+                rule_occ = rules_fun[rule] (txt.lower(), abbrv)
             else:
-                print(rule)
                 rule_occ = sum( rules_fun[rule] (doc, posTag)  for (doc,posTag) in zip(docs,posTags))
 
             rules_results[rule][category] = 100 * rule_occ / txtLength
 
+            write( category + '\t' + rules_abbrv[rule] + '\t' + str(time.time() - t)) ###
+            t = time.time() ###
+        write ('\n')
 
+    write('\n\nTotal time: ' + str(time.time() - start))
 
     for rule in rules_results.keys():
+
+        save(result_path + '/word_statistics/' + rule + '.csv', rules_results[rule])
         graph(rule, rules_results[rule])
         plt.savefig(result_path+ '/word_statistics/'  + rule + '.eps', format='eps')
         plt.savefig(result_path+ '/word_statistics/'  + rule + '.png', format='png')
         plt.close()
-    
+
+get_word_statistics()

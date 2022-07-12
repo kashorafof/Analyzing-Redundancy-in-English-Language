@@ -1,17 +1,5 @@
-from bs4 import BeautifulSoup, SoupStrainer
-import matplotlib.pyplot as plt
-import numpy as np
-import requests
-import httplib2
-import os
-from os.path import exists
-import csv
-import nltk
-import time
-from scipy.stats import sem
-import copy
 import text_proccessing
-x = 0
+
 minGenrePercent = 60
 min_article_length = 100
 
@@ -24,6 +12,7 @@ links_save_point_location = './Links.csv'
 
 categories = ["tech", "sport", "business", "politics", "entertainment", "other"]
 forbidden_ends = (".svg", ".png", ".jpg", ".jpeg", ".gif")
+
 rules_results = {
     "Coordinary Conjunction": dict.fromkeys(categories, 0),
     "Phrasel Verb": dict.fromkeys(categories, 0),
@@ -40,7 +29,13 @@ rules_fun = {
     'Pre proper noun': text_proccessing.count_Pre_Proper_Noun,
 }
 
-
+rules_abbrv = {
+    'Coordinary Conjunction': "CC",
+    'Phrasel Verb': "PV",
+    'Abbreviation': "AB",
+    'Subordinating conjunctions': "SC",
+    'Pre proper noun': "PPN",
+}
 
 website_list = {
     'New York Post' : 'https://nypost.com/',
@@ -51,7 +46,3 @@ website_list = {
     'The Guardian' : 'https://www.theguardian.com/',
     'bbc' : 'https://www.bbc.com/',
 }
-
-
-
-leftLinks = set([])

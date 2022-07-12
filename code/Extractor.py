@@ -132,7 +132,7 @@ def scrapText(link):
     soup = BeautifulSoup(url_extract,"html.parser" )
     texts = soup.find_all('p')
     s = ""
-    Length = len(texts)
+    
     before_merge = time.time()
     for text in texts:
         s = s + text.text + "\n"
@@ -144,21 +144,3 @@ def scrapText(link):
         genre = "other"
     print(before_merge-start, time.time()-before_categories, 'Total: ' + str(time.time()-start), genre ,chance)
     return s, genre
-
-x = time.time()
-
-scrapArticles()
-log.write('Time to scrap NYpost: '+ str(time.time()-x) + "\n")
-x = time.time()
-
-Fun.combine_all()
-log.write('Time to compine all: '+ str(time.time()-x) + "\n")
-x = time.time()
-
-Fun.get_word_statistics()
-log.write('Time to get statistics: '+ str(time.time()-x) + "\n")
-x = time.time()
-
-# New York Post,The Wall Street Journal,The New York Times,The Washington Times,The New York Daily News,The Guardian,bbc
-# 0,1099,935,741,746,1306,140
-
