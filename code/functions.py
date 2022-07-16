@@ -2,14 +2,15 @@ import os
 from os.path import exists
 import csv
 from mainConfig import *
-import nltk
-from nltk.tokenize import sent_tokenize, word_tokenize
 import spacy 
 import openpyxl
 import matplotlib.pyplot as plt
 import time
 from scipy.stats import sem
 import numpy as np
+import json
+from spacy.tokens import Doc
+
 def save(File_name, dict):
     with open(File_name , 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
@@ -24,6 +25,17 @@ def load(File_name):
     with open(File_name , 'r') as csvfile:
         reader = csv.reader(csvfile)
         return dict(zip(next(reader), next(reader)))
+
+def docSave(docs, file):
+    with open(file, 'w', newline='', errors = 'replace') as jsonFile:
+        json.dump([doc.to_json() for doc in docs], jsonFile)
+
+def docLoad(file):
+    with open(file, 'r', newline='', errors = 'replace') as jsonFile:
+        docs_json = json.load(jsonFile)
+        return [ sent for doc_json in docs_json for sent in Doc(nlp.vocab).from_json(doc_json).sents]
+
+
 
 
 def filter_links():
@@ -61,30 +73,8 @@ def num_Articles():
 
 
 def combine_categ(categ):
-
-    combinePath = result_path + '/combined/' 
-    if not exists(combinePath):
-        os.makedirs(combinePath)
-    combinePath += categ + '.txt'
-    OutFile = open(combinePath, 'w+', encoding='utf-8')
-
-    for website_name in website_list.keys():
-        path = result_path + '/'+website_name + '/texts/' + categ + '/'
-        if not exists(path):
-            continue
-        for filename in os.listdir(path):
-            if filename.endswith(".txt"):
-                Text = open(path + filename, "r" , encoding='utf-8', errors='replace').readlines()
-
-                #t = '-'.join([txt.strip() for txt in Text if len(txt.split()) > 4])
-                #s += str('-'.join([txt.strip() for txt in Text if len(txt.split()) > 4]))
-                txt = str(''.join([txt.strip() + '\n' for txt in Text if len(txt.split()) > 4]))
-                OutFile.write(txt + '\n')
-
-
-def combine_all():
-    for categ in categories:
-        combine_categ(categ)
+    txts = [open(result_path + '/'+ webSite + '/texts/' + categ + '/' + filename, 'r+', encoding='utf-8', errors='replace').read().strip().lower() for webSite in website_list.keys() for filename in os.listdir(result_path + '/' + webSite + '/texts/' + categ + '/') if filename.endswith(".txt")]
+    return txts
 
 
 def graph(word, occurrences):
@@ -120,52 +110,35 @@ def write(x):
 
 
 
+def analyse_txts(txts):
+    piped = [pipe for pipe in nlp.pipe(txts,n_process = number_threads, batch_size= 20)]
+    return [sent for pipe in piped for sent in pipe.sents]
+
 def get_word_statistics():
+    print ('start1')
     t = time.time()
     start = time.time()
     abbrv = get_data(abbreviation_location)
-    nlp = spacy.load("en_core_web_lg")
     
-    write('loading time: ' + str(time.time() - t))
-    t = time.time() ##
-
     for category in categories:
-        log.write('\n' + category + '\n')
-
-        path = result_path + '/combined/' + category + '.txt'
-
-        txt = open(path, 'r', encoding='utf-8').read().strip()
-        sentences = sent_tokenize(txt)
-
-        tokenized = [word_tokenize(sentence) for sentence in sentences]
-        posTags = [nltk.pos_tag(token) for token in tokenized]
-
-        docs = [nlp(sentence) for sentence in sentences]
-        txtLength = len(txt.split())
-        write( category + ' with text length ' + str(txtLength/1000) + 'k words took: ' + str(time.time() - t) + ' to process ')
-
         t = time.time() ###
-
+        txts = combine_categ(category)
+        docs = analyse_txts(txts)
+        txt = '\n'.join(txts)
+        txtLength = len(txt.split())
+        
+        write( category + ' analys done in: ' + str(time.time() - t)) ###
+        t = time.time() ###
         for rule in rules_results.keys():
             if rule == 'Abbreviation':
-                rule_occ = rules_fun[rule] (txt.lower(), abbrv)
+                rule_occ = rules_fun[rule] (txt, abbrv) 
             else:
-                rule_occ = sum( rules_fun[rule] (doc, posTag)  for (doc,posTag) in zip(docs,posTags))
+                rule_occ = sum( rules_fun[rule] (doc) for doc in docs)
 
             rules_results[rule][category] = 100 * rule_occ / txtLength
 
-            write( category + '\t' + rules_abbrv[rule] + '\t' + str(time.time() - t)) ###
-            t = time.time() ###
-        write ('\n')
+            write( category + '\t' + str(rules_abbrv[rule]) + '\t' + str(time.time() - t) + '\tocc: ' + str(rules_results[rule][category]) + '\n') ###
+        
+    #print(rules_results)
+    return rules_results
 
-    write('\n\nTotal time: ' + str(time.time() - start))
-
-    for rule in rules_results.keys():
-
-        save(result_path + '/word_statistics/' + rule + '.csv', rules_results[rule])
-        graph(rule, rules_results[rule])
-        plt.savefig(result_path+ '/word_statistics/'  + rule + '.eps', format='eps')
-        plt.savefig(result_path+ '/word_statistics/'  + rule + '.png', format='png')
-        plt.close()
-
-get_word_statistics()

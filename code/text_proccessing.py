@@ -1,6 +1,4 @@
-from turtle import pos
-import nltk
-from nltk.tokenize import sent_tokenize, word_tokenize
+
 from requests import post
 import spacy
 from spacy import displacy
@@ -17,27 +15,32 @@ from spacy import displacy
 
 # if their is a CC word "and, or "
 #   calculate the number of conjunction in the sentence 
-def CoordinaryConjunction(doc, posTag):
+def CoordinaryConjunction(doc):
     count = 0
-    for word in posTag:
-        if word[1] == 'CC':
-            for token in doc:
-                if token.dep_ == 'conj':
-                    count += 1
+
+    for itrWord in doc:
+        if itrWord.dep_ == 'cc':
+            count += 1
+            father = itrWord.head
+            while father.dep_ == 'conj':
+                count += 1
+                father = father.head
+
     return count
 
 
-def count_Phrasel_Verb(doc, posTag):
+def count_Phrasal_verb(doc):
     arr = [ [word.lemma_ ,child.lemma_] for word in doc if word.pos_ == 'VERB' for child in word.children  if child.pos_ == 'ADP']
     return len(arr)
 
 
 #count the number of subordinate conjunctions in the text "if, because, otrherwise and since"
-def count_Subordinating_conjunctions(doc, posTag):
+def count_Subordinating_conjunctions(doc):
     count = 0
-    for i in range(len(posTag)):
-        if posTag[i][1] == 'IN':
-            if(posTag[i][0] == 'in' and posTag[i+1][0] != 'order'): continue
+    for word in doc:
+        if word.tag_ == 'IN':
+            if word.text == 'in':
+                if len([child for child in word.children if child.text == 'order']) == 0 : continue
             
             count += 1
             # one bit for the location of the conjunction
@@ -66,16 +69,18 @@ def count_Abbreviation(txt, abbrv):
 
 
 #check if pronoun in first clause and return either true or false nlp
-def count_Pre_Proper_Noun(doc, posTag):
+def count_Pre_Proper_Noun(doc):
     nnp = False
     prp = False
-    for tag in posTag:
-        if tag[1] == 'NNP':
+    for word in doc:
+        if word.tag_ == 'NNP':
             nnp = True
-        if tag[1] == 'PRP':
+        elif word.tag_ == 'PRP':
             prp = True
-    if nnp and prp: 
-        return 1
+          
+        if nnp and prp: 
+            return 1
+
     return 0
 
 

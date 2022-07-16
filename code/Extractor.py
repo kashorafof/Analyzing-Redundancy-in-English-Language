@@ -7,7 +7,7 @@ import time
 import final_res as FS
 from mainConfig import *
 import functions as Fun
-
+import json
 
 def extractLinks():
     for website_name, link in website_list.items():
@@ -72,7 +72,6 @@ def scrapLinks(link):
     s = set(s.split('"'))
 
     return s
-
 
 
 def scrapArticles():
@@ -144,3 +143,21 @@ def scrapText(link):
         genre = "other"
     print(before_merge-start, time.time()-before_categories, 'Total: ' + str(time.time()-start), genre ,chance)
     return s, genre
+
+
+
+def flatten(list_of_lists):
+    return [item for sublist in list_of_lists for item in sublist]
+
+def jsonScrapFrom(path):
+    return [json.load(open(path + file , encoding= 'UTF-8', errors='replace')) for file in os.listdir(path) if file.endswith('.json')]
+
+def jsonScrap(categ):
+    path = data_set_path 
+    if categ == categories[-1]:
+        folders = ['travel/', 'world/']
+        
+        txt = [jsonScrapFrom(path + folder) for folder in folders]
+        return flatten(txt)
+    path += categ + '/'
+    return jsonScrapFrom(path)
