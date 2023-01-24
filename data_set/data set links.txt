@@ -1,0 +1,4 @@
+https://huggingface.co/datasets/Fraser/news-category-dataset/tree/main
+https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/ILAT5B/JCZ9BB
+https://www.kaggle.com/datasets/snapcrack/all-the-news
+https://www.kaggle.com/datasets/adityakharosekar2/guardian-news-articles?resource=download

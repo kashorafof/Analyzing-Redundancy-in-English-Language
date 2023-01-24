@@ -4,24 +4,21 @@ import spacy
 from spacy import displacy
 
 
+# Script contains all the functions that will be used in the analysis of the text
 
 
-# tokenized = word_tokenize(txt)
-# nlp = spacy.load("en_core_web_lg")
-# doc = nlp(txt)
-# posTag = nltk.pos_tag(tokenized)
-
-
-
-# if their is a CC word "and, or "
-#   calculate the number of conjunction in the sentence 
+# calculate the number of CC in the text
 def CoordinaryConjunction(doc):
     count = 0
 
     for itrWord in doc:
+        # check if the word is consider as a cc "and , or , but .. etc"
         if itrWord.dep_ == 'cc':
+            # count the word
             count += 1
+            # go to the head of the word
             father = itrWord.head
+            # got for the other words that have a conj relation with the word
             while father.dep_ == 'conj':
                 count += 1
                 father = father.head
@@ -30,31 +27,33 @@ def CoordinaryConjunction(doc):
 
 
 def count_Phrasal_verb(doc):
-    arr = [ [word.lemma_ ,child.lemma_] for word in doc if word.pos_ == 'VERB' for child in word.children  if child.pos_ == 'ADP']
-    return len(arr)
+    # count all the word with pos = verb and check if it has a child with pos = adp
+    return len([ 1 for word in doc if word.pos_ == 'VERB' for child in word.children  if child.pos_ == 'ADP'])
 
 
 #count the number of subordinate conjunctions in the text "if, because, otrherwise and since"
 def count_Subordinating_conjunctions(doc):
     count = 0
     for word in doc:
-        if word.tag_ == 'IN':
-            if word.text == 'in':
-                if len([child for child in word.children if child.text == 'order']) == 0 : continue
-            
+        #if the word pos is SCONJ "subordinating conjunction"
+        if word.pos_ == 'SCONJ':
+            # count the word
             count += 1
-            # one bit for the location of the conjunction
-                # becuase of .. i did .. -> 0
-                # i did .. because of .. -> 1
-        
-            # 2 bits for the synonym of the conjunction 
-                # because -> 00
-                # for -> 01
-                # since -> 10
-                # in order -> 11
+
+   
+            count += 1
     return count
 
-#check if the subordinate clause in the first clause of te sentence
+
+# one bit for the location of the conjunction
+    # becuase of .. i did .. -> 0
+    # i did .. because of .. -> 1
+
+# 2 bits for the synonym of the conjunction 
+    # because -> 00
+    # for -> 01
+    # since -> 10
+    # in order -> 11
 
 
 #calculate the number of abbreviations from spacy (not working)
@@ -63,21 +62,25 @@ def count_Abbreviation(txt, abbrv):
     # street -> st.
     # doctor -> dr.
     counter = 0
+    # count the number of abbreviations in the text either the full word or the short form
     for i in abbrv:
+    
         counter = counter + txt.count(" " + i) + txt.count(" "+abbrv[i])
     return counter
 
 
-#check if pronoun in first clause and return either true or false nlp
 def count_Pre_Proper_Noun(doc):
     nnp = False
     prp = False
+
     for word in doc:
+        # check if we found a proper noun
         if word.tag_ == 'NNP':
             nnp = True
+        # check if we found a pronoun
         elif word.tag_ == 'PRP':
             prp = True
-          
+        # if the sentence contain both proper noun and pronoun return 1
         if nnp and prp: 
             return 1
 
