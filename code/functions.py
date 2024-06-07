@@ -45,7 +45,7 @@ def docLoad(file):
 # to filter the links and remove unnecessary links "png, jpg ,.. etc"
 def filter_links():
     for website_name in website_list.keys():
-        path = result_path + '/'+website_name + '/' + website_name + '_Links.txt'
+        path = result_path + '/scrapped/' +website_name + '/' + website_name + '_Links.txt'
         file = open(path, 'r+' , encoding='utf-8' )
         s = ''
         text = file.readlines()
@@ -60,7 +60,7 @@ def filter_links():
 
 # count the number of articles in each category for specific website
 def count_category(website, category):
-    path = result_path + '/'+website + '/texts/' + category + '/'
+    path = result_path + '/scrapped/'+website + '/texts/' + category + '/'
     if not exists(path):
         return 0
     return len(os.listdir(path))
@@ -70,7 +70,7 @@ def count_category(website, category):
 def num_link():
     num_link = dict.fromkeys(website_list.keys(), 0)
     for website_name in website_list.keys():
-        path = result_path + '/'+website_name + '/' + website_name + '_Links.txt'
+        path = result_path + '/scrapped/'+website_name + '/' + website_name + '_Links.txt'
         file = open(path, 'r+' , encoding='utf-8' )
         text = file.readlines()
         num_link[website_name] = len(text)
@@ -83,7 +83,7 @@ def num_Articles():
     categories_Dict = dict.fromkeys(categories, 0)
     for category in categories:
         for webste_name in website_list.keys():
-            path = result_path + '/'+webste_name + '/texts/' + category + '/'
+            path = result_path + '/scrapped/' + webste_name + '/texts/' + category + '/'
             if not exists(path):
                 continue
             categories_Dict[category] += len(os.listdir(path))
@@ -91,7 +91,7 @@ def num_Articles():
 
 # combine all the articles from a specific category and return it as list
 def combine_categ(categ):
-    txts = [open(result_path + '/'+ webSite + '/texts/' + categ + '/' + filename, 'r+', encoding='utf-8', errors='replace').read().strip().lower() for webSite in website_list.keys() for filename in os.listdir(result_path + '/' + webSite + '/texts/' + categ + '/') if filename.endswith(".txt")]
+    txts = [open(result_path + '/scrapped/'+ webSite + '/texts/' + categ + '/' + filename, 'r+', encoding='utf-8', errors='replace').read().strip().lower() for webSite in website_list.keys() for filename in os.listdir(result_path + '/' + webSite + '/texts/' + categ + '/') if filename.endswith(".txt")]
     return txts
 
 

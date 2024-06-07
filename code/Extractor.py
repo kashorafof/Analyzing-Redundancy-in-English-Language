@@ -13,7 +13,7 @@ import json
 def extractLinks():
     # for each website
     for website_name, link in website_list.items():
-        path = result_path + '/'+website_name
+        path = result_path + '/scrapped/'+website_name
         
         # in case no previous scraping -> create the folders
         if not os.path.exists(path):

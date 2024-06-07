@@ -18,7 +18,7 @@ log = open('./log.txt', 'w+' , encoding='utf-8')
 # path to save the result
 result_path = "../result"
 # path to the data set
-data_set_path = "../data_set/"
+data_set_path = "../result/data_set/"
 # path to the abbreviation excel file
 abbreviation_location = './Abbreviaiton list.xlsx'
 # path to the links saving point 
